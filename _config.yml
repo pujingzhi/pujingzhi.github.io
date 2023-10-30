@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jingzhi Pu / Research Site"
+title                    : "Jingzhi Pu / Personal Website"
 title_separator          : "-"
 name                     : &name "Jingzhi Pu"
 description              : &description "personal description"
