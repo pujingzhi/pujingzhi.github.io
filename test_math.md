@@ -1,0 +1,7 @@
+```math
+\textbf{K(X,X)}=\begin{bmatrix}
+k(\textbf{x}_1,\textbf{x}_1) & \ldots & k(\textbf{x}_1,\textbf{x}_n)\\
+\vdots & \ddots & \vdots\\
+k(\textbf{x}_n,\textbf{x}_1) & \ldots & k(\textbf{x}_n,\textbf{x}_n)
+\end{bmatrix}
+```
