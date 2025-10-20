@@ -5,9 +5,10 @@ description: |
   <!-- [Theoretical and Computational Chemistry Lab](https://pujingzhi.github.io/)<br> -->
   Department of Chemistry and Chemical Biology<br>
   Indiana University Indianapolis<br>
+  402 N. Blackford St., LD 326<br>
   Indianapolis, IN, USA
   
-  [[LD 326](https://maps.app.goo.gl/gsY6GJxhxzBsWk1H7)] &ensp; [[jpu@iu.edu](mailto:jpu@iu.edu)] &ensp; [[CV](./files/AliSiahkoohi-CV.pdf)] &ensp; [[GitHub](https://github.com/pujingzhi)] &ensp; [[Google Scholar](https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en)]
+  [[Google Map](https://maps.app.goo.gl/gsY6GJxhxzBsWk1H7)] &ensp; [[jpu@iu.edu](mailto:jpu@iu.edu)] &ensp; [[CV](./files/JPu-CV.pdf)] &ensp; [[GitHub](https://github.com/pujingzhi)] &ensp; [[Google Scholar](https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en)]
 
 navbar: false
 about:
@@ -25,6 +26,7 @@ about:
 ## Background
 
 - Associate Professor, Indiana University Indianapolis (2017--present)
+- Assistant Professor, Indiana University-Purdue University Indianapolis (2010--2017)
 - Postdoc, Harvard University (2005--2010)
 - Postdoc, University of Minnesota (2004--2005)
 - Ph.D., University of Minnesota, Theoretical and Computational Chemistry (2004)
@@ -33,7 +35,7 @@ about:
 
 ## Research
 
-My research focuses on uncertainty quantification in complex systems that arise in computational science and engineering. To this end, my group integrates generative modeling with scientific computing to develop scalable sampling techniques for high-dimensional distributions. This work enables Bayesian inference in large-scale PDE-based inverse problems (e.g., seismic and medical imaging) and provides a principled framework for building reliable, uncertainty-aware AI models for real-world applications.
+Our interests lie at the interface between theoretical/computational chemistry and biophysics. The current research in the lab is directed towards understanding how biomolecules perform their functions via dynamical motions that are encoded in their three dimensional structures. Ongoing projects include computer simulations of ABC-transporters and development of combined quantum mechanical/molecular mechanical (QM/MM) methods. 
 
 
 ## Teaching
@@ -71,9 +73,6 @@ R. Orozco, A. Siahkoohi, M. Louboutin, and F. J. Herrmann
 [[code](https://github.com/slimgroup/ASPIRE.jl)]
 [[link](https://iopscience.iop.org/article/10.1088/1361-6420/adba3d)]
 [[bib](https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/files/OrozcoSiahkoohiLouboutinEtAl_2025.bib)]
-
-
-
 
 ---
 
@@ -121,8 +120,6 @@ L. Baldassari, A. Siahkoohi, J. Garnier, K. Sølna, and M. V. de Hoop
 [[code](https://github.com/alisiahkoohi/csgm)]
 [[link](https://papers.nips.cc/paper_files/paper/2023/hash/4c79c359b3c5f077c0b955f93cb0f53e-Abstract-Conference.html)]
 [[bib](https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/files/BaldassariSiahkoohiGarnierEtAl_2023.bib)] [featured as a [Spotlight presentation](https://nips.cc/virtual/2023/events/spotlight-posters-2023)]
-
-
 
 ---
 
