@@ -1,19 +1,19 @@
 ---
-title: Ali Siahkoohi
-subtitle: Assistant Professor
+title: Jingzhi Pu
+subtitle: Associate Professor
 description: |
-  [Laboratory for Uncertainty Quantification and Inference](https://luqigroup.github.io/)<br>
-  Department of Computer Science<br>
-  University of Central Florida<br>
-  Orlando, FL, USA
+  [Theoretical and Computational Chemistry Lab](https://pujingzhi.github.io/)<br>
+  Department of Chemistry and Chemical Biology<br>
+  Indiana University Indianapolis<br>
+  Indianapolis, IN, USA
   
-  [[GB 212](https://maps.app.goo.gl/sQDSjpikukU6ykPo9)] &ensp; [[alisk@ucf.edu](mailto:alisk@ucf.edu)] &ensp; [[CV](./files/AliSiahkoohi-CV.pdf)] &ensp; [[GitHub](https://github.com/alisiahkoohi)] &ensp; [[Google Scholar](https://scholar.google.com/citations?hl=en&user=sxRMqYIAAAAJ&view_op=list_works&sortby=pubdate)]
+  [[LD 326](https://maps.app.goo.gl/gsY6GJxhxzBsWk1H7)] &ensp; [[jpu@iu.edu](mailto:jpu@iu.edu)] &ensp; [[CV](./files/AliSiahkoohi-CV.pdf)] &ensp; [[GitHub](https://github.com/pujingzhi)] &ensp; [[Google Scholar](https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en)]
 
 navbar: false
 about:
   id: heading
   template: solana
-  image: files/ali.jpg
+  image: files/jpu_photo.png
   image-shape: round
   image-width: 215px
 ---
