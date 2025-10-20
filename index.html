@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.25">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="description" content="Theoretical and Computational Chemistry Lab  Department of Chemistry and Chemical Biology  Indiana University Indianapolis  Indianapolis, IN, USA[LD 326]   [jpu@iu.edu]   [CV]   [GitHub]   [Google Scholar]">
+
+<title>Jingzhi Pu</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-7369d463420a2a3f86a3ff6e0bd9d280.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-a0ca26d019919ee9276b930e17a9af99.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-7369d463420a2a3f86a3ff6e0bd9d280.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-1W6X56QSLP"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-1W6X56QSLP', { 'anonymize_ip': true});
+</script>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
+
+<div id="quarto-search-results"></div>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title"><br><br><br></h2>
+   
+  <ul>
+  <li><a href="#background" id="toc-background" class="nav-link active" data-scroll-target="#background">Background</a></li>
+  <li><a href="#research" id="toc-research" class="nav-link" data-scroll-target="#research">Research</a></li>
+  <li><a href="#teaching" id="toc-teaching" class="nav-link" data-scroll-target="#teaching">Teaching</a></li>
+  <li><a href="#publications" id="toc-publications" class="nav-link" data-scroll-target="#publications">Publications</a>
+  <ul class="collapse">
+  <li><a href="#preprints" id="toc-preprints" class="nav-link" data-scroll-target="#preprints">Preprints</a></li>
+  <li><a href="#journal-papers" id="toc-journal-papers" class="nav-link" data-scroll-target="#journal-papers">Journal papers</a></li>
+  <li><a href="#conference-proceedings-and-presentations" id="toc-conference-proceedings-and-presentations" class="nav-link" data-scroll-target="#conference-proceedings-and-presentations">Conference proceedings and presentations</a></li>
+  <li><a href="#thesis" id="toc-thesis" class="nav-link" data-scroll-target="#thesis">Thesis</a></li>
+  <li><a href="#technical-reports" id="toc-technical-reports" class="nav-link" data-scroll-target="#technical-reports">Technical reports</a></li>
+  </ul></li>
+  <li><a href="#miscellaneous" id="toc-miscellaneous" class="nav-link" data-scroll-target="#miscellaneous">Miscellaneous</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content page-columns page-full" id="quarto-document-content">
+
+
+
+
+
+<div class="quarto-about-solana column-body">
+  <div class="about-entity">
+    <div class="entity-contents">
+      <header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Jingzhi Pu</h1>
+<p class="subtitle lead">Associate Professor</p>
+</div>
+<div>
+  <div class="description">
+    <p><a href="https://pujingzhi.github.io/">Theoretical and Computational Chemistry Lab</a><br> Department of Chemistry and Chemical Biology<br> Indiana University Indianapolis<br> Indianapolis, IN, USA</p>
+    <p>[<a href="https://maps.app.goo.gl/gsY6GJxhxzBsWk1H7">LD 326</a>]   [<a href="mailto:jpu@iu.edu">jpu@iu.edu</a>]   [<a href="./files/AliSiahkoohi-CV.pdf">CV</a>]   [<a href="https://github.com/pujingzhi">GitHub</a>]   [<a href="https://scholar.google.com/citations?user=RlYang0AAAAJ&amp;hl=en">Google Scholar</a>]</p>
+  </div>
+</div>
+<div class="quarto-title-meta">
+  </div>
+</header> 
+      <div class="about-contents"><div id="heading">
+</div></div>
+    </div>
+    <img src="files/jpu_photo.png" class="about-image
+  round " style="height: 215px; width: 215px;">
+  </div>
+</div>
+
+<section id="background" class="level2">
+<h2 data-anchor-id="background">Background</h2>
+<ul>
+<li>Associate Professor, Indiana University Indianapolis (2017–present)</li>
+<li>Postdoc, Harvard University (2005–2010)</li>
+<li>Postdoc, University of Minnesota (2004–2005)</li>
+<li>Ph.D., University of Minnesota, Theoretical and Computational Chemistry (2004)</li>
+<li>B.Sc., Peking University, Chemistry (1999)</li>
+</ul>
+</section>
+<section id="research" class="level2">
+<h2 data-anchor-id="research">Research</h2>
+<p>My research focuses on uncertainty quantification in complex systems that arise in computational science and engineering. To this end, my group integrates generative modeling with scientific computing to develop scalable sampling techniques for high-dimensional distributions. This work enables Bayesian inference in large-scale PDE-based inverse problems (e.g., seismic and medical imaging) and provides a principled framework for building reliable, uncertainty-aware AI models for real-world applications.</p>
+</section>
+<section id="teaching" class="level2">
+<h2 data-anchor-id="teaching">Teaching</h2>
+<ul>
+<li>[C362 - Physical Chemistry of Molecules] (Fall 2025)</li>
+</ul>
+</section>
+<section id="publications" class="level2">
+<h2 data-anchor-id="publications">Publications</h2>
+<section id="preprints" class="level3">
+<h3 data-anchor-id="preprints">Preprints</h3>
+<p><strong>Improving fairness and mitigating MADness in generative models</strong><br>
+P. M. Mayer, L. Luzi, A. Siahkoohi, D. H. Johnson, and R. G. Baraniuk<br>
+2024.<br>
+[<a href="https://arxiv.org/abs/2405.13977">pdf</a>] [<a href="https://github.com/alisiahkoohi/torchhyper">code</a>] [<a href="https://www.dropbox.com/scl/fi/5ajtqzg15vu4tpbqwc78d/slides.pdf?rlkey=zmdpkzht0o0ax9j9cu7y0aoir&amp;st=l412imzl&amp;dl=0">slides</a>] [<a href="https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/files/MayerLuziSiahkoohiEtAl_2024.bib">bib</a>]</p>
+<hr>
+</section>
+<section id="journal-papers" class="level3">
+<h3 data-anchor-id="journal-papers">Journal papers</h3>
+<p><strong>Multi-scale clustering and source separation of InSight mission seismic data</strong><br>
+A. Siahkoohi, R. Morel, R. Balestriero, E. Allys, G. Sainton, T. Kawamura, and M. V. de Hoop<br>
+<em>IEEE Transactions on Geoscience and Remote Sensing</em>, 2025, In print.<br>
+[<a href="https://arxiv.org/abs/2305.16189">pdf</a>] [<a href="https://github.com/alisiahkoohi/facvae">code</a>] [<a href="https://www.dropbox.com/s/ycwu3y3jik33xpo/slides.pdf?dl=0">slides</a>] [<a href="https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/files/SiahkoohiMorelBalestrieroEtAl_2025.bib">bib</a>]</p>
+<p><strong>ASPIRE: Iterative amortized posterior inference for Bayesian inverse problems</strong><br>
+R. Orozco, A. Siahkoohi, M. Louboutin, and F. J. Herrmann<br>
+<em>Inverse Problems</em>, 41(4):045001, 2025.<br>
+[<a href="https://arxiv.org/abs/2405.05398">pdf</a>] [<a href="https://github.com/slimgroup/ASPIRE.jl">code</a>] [<a href="https://iopscience.iop.org/article/10.1088/1361-6420/adba3d">link</a>] [<a href="https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/files/OrozcoSiahkoohiLouboutinEtAl_2025.bib">bib</a>]</p>
+<hr>
+</section>
+<section id="conference-proceedings-and-presentations" class="level3">
+<h3 data-anchor-id="conference-proceedings-and-presentations">Conference proceedings and presentations</h3>
+<p><strong>Self-consuming generative models go MAD</strong><br>
+S. Alemohammad, J. Casco-Rodriguez, L. Luzi, A. I. Humayun, H. Babaei, D. LeJeune, A. Siahkoohi, and R. G. Baraniuk<br>
+<em>The Twelfth International Conference on Learning Representations</em>, 2024.<br>
+[<a href="https://openreview.net/pdf?id=ShjMHfmPs0">pdf</a>] [<a href="https://arxiv.org/abs/2307.01850">extended pdf</a>] [<a href="https://iclr.cc/media/PosterPDFs/ICLR%202024/18592.png?t=1714784281.722506">poster</a>] [<a href="https://iclr.cc/virtual/2024/poster/18592">link</a>] [<a href="https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/files/AlemohammadCasco_RodriguezLuziEtAl_2024.bib">bib</a>] [featured in the news <sup><a href="https://www.tomshardware.com/news/generative-ai-goes-mad-when-trained-on-artificial-data-over-five-times">1</a>,</sup> <sup><a href="https://futurism.com/ai-trained-ai-generated-data">2</a>,</sup> <sup><a href="https://www.tweaktown.com/news/92328/scientists-make-ai-go-crazy-by-feeding-it-generated-content/">3</a>,</sup> <sup><a href="https://www.newscientist.com/article/2382519-ais-trained-on-ai-generated-images-produce-glitches-and-blurs/">4</a>,</sup> <sup><a href="https://www.cdotrends.com/story/18288/training-ai-outputs-generative-ai-mad/">5</a>,</sup> <sup><a href="https://futurism.com/ai-trained-ai-generated-data-interview">6</a>,</sup> <sup><a href="https://www.telegraph.co.uk/business/2024/02/01/why-ai-new-age-of-fake-news-and-disinformation/">7</a>,</sup> <sup><a href="https://finance.yahoo.com/news/ais-mad-cow-disease-problem-tramples-into-earnings-season-100005953.html">8</a>,</sup> <sup><a href="https://fortune.com/2024/04/18/linkedin-microsoft-collaborative-articles-generative-ai-feedback-loop-user-backlash/?456789">9</a>,</sup> <sup><a href="https://news.rice.edu/news/2024/breaking-mad-generative-ai-could-break-internet">10</a>,</sup> <sup><a href="https://www.nytimes.com/interactive/2024/08/26/upshot/ai-synthetic-data.html">11</a>,</sup> <sup><a href="https://futurism.com/ai-slowly-killing-itself">12</a>,</sup> <sup><a href="https://magazine.rice.edu/winter-2025/ais-mad-loops">13</a></sup>]<br>
+[<a href="https://dsp.rice.edu/ai-loops/">self-consuming AI resources</a>]</p>
+<p><strong>Titan: Bringing the deep image prior to implicit representations</strong><br>
+L. Luzi, D. LeJeune, A. Siahkoohi, S. Alemohammad, V. Saragadam, H. Babaei, N. Liu, Z. Wang, and R. G. Baraniuk<br>
+<em>IEEE International Conference on Acoustics, Speech and Signal Processing</em>, pages 6165–6169, 2024.<br>
+[<a href="https://arxiv.org/abs/2211.00219">pdf</a>] [<a href="https://github.com/dlej/titan-implicit-prior">code</a>] [<a href="https://ieeexplore.ieee.org/document/10446136">link</a>] [<a href="https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/files/LuziLeJeuneSiahkoohiEtAl_2024.bib">bib</a>]</p>
+<p><strong>Conditional score-based diffusion models for Bayesian inference in infinite dimensions</strong><br>
+L. Baldassari, A. Siahkoohi, J. Garnier, K. Sølna, and M. V. de Hoop<br>
+<em>Advances in Neural Information Processing Systems</em>, volume 36, pages 24262–24290, 2023.<br>
+[<a href="https://papers.nips.cc/paper_files/paper/2023/file/4c79c359b3c5f077c0b955f93cb0f53e-Paper-Conference.pdf">pdf</a>] [<a href="https://www.dropbox.com/scl/fi/bmgnbex0zcf575fjgzybu/slides.pdf?rlkey=2rd9nhc4a6tt8s65lk5sqbz2r&amp;dl=0">slides</a>] [<a href="https://www.dropbox.com/scl/fi/7t9p0gogw6g7dmn8u52c6/poster.pdf?rlkey=sftpfelbglvrpi4lkn6tgp31q&amp;dl=0">poster</a>] [<a href="https://github.com/alisiahkoohi/csgm">code</a>] [<a href="https://papers.nips.cc/paper_files/paper/2023/hash/4c79c359b3c5f077c0b955f93cb0f53e-Abstract-Conference.html">link</a>] [<a href="https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/files/BaldassariSiahkoohiGarnierEtAl_2023.bib">bib</a>] [featured as a <a href="https://nips.cc/virtual/2023/events/spotlight-posters-2023">Spotlight presentation</a>]</p>
+<hr>
+</section>
+<section id="thesis" class="level3">
+<h3 data-anchor-id="thesis">Thesis</h3>
+<p><strong>Deep generative models for solving geophysical inverse problems</strong><br>
+A. Siahkoohi<br>
+<em>Ph.D.&nbsp;thesis</em>, Georgia Institute of Technology, 2022.<br>
+[<a href="https://slim.gatech.edu/Publications/Public/Thesis/2022/siahkoohi2022THdgmf/siahkoohi2022THdgmf.pdf">pdf</a>] [<a href="https://slim.gatech.edu/Publications/Public/Thesis/2022/siahkoohi2022THdgmf/siahkoohi2022THdgmf_pres.pdf">slides</a>] [<a href="http://hdl.handle.net/1853/67250">link</a>] [<a href="https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/files/Siahkoohi_2022.bib">bib</a>]</p>
+<hr>
+</section>
+<section id="technical-reports" class="level3">
+<h3 data-anchor-id="technical-reports">Technical reports</h3>
+<p><strong>Taming score-based diffusion priors for infinite-dimensional nonlinear inverse problems</strong><br>
+L. Baldassari, A. Siahkoohi, J. Garnier, K. Sølna, and M. V. de Hoop<br>
+Technical Report arXiv:2405.15676, Rice University, 2024.<br>
+[<a href="https://arxiv.org/abs/2405.15676">pdf</a>] [<a href="https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/files/BaldassariSiahkoohiGarnierEtAl_2024.bib">bib</a>]</p>
+<p><strong>Low-memory stochastic backpropagation with multi-channel randomized trace estimation</strong><br>
+M. Louboutin, A. Siahkoohi, R. Wang, and F. J. Herrmann<br>
+Technical Report arXiv:2106.06998, Georgia Institute of Technology, 2021.<br>
+[<a href="https://arxiv.org/abs/2106.06998">pdf</a>] [<a href="https://github.com/slimgroup/XConv">code</a>] [<a href="https://slim.gatech.edu/content/low-memory-stochastic-backpropagation-multi-channel-randomized-trace-estimation">link</a>] [<a href="https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/files/LouboutinSiahkoohiWangEtAl_2021.bib">bib</a>]</p>
+<hr>
+</section>
+</section>
+<section id="miscellaneous" class="level2">
+<h2 data-anchor-id="miscellaneous">Miscellaneous</h2>
+<ul>
+<li>“I wish you hadn’t talked so much, it was distracting.” — Patrick Winston, <a href="https://youtu.be/Unzc731iCUY">How to Speak</a></li>
+<li>“No one cares about the inside of your head.” — Larry McEnerney, <a href="https://youtu.be/vtIzMaLkCaM">The Craft of Writing Effectively</a></li>
+</ul>
+
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="https://quarto.org">
+<p>[Made with Quarto]</p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="https://github.com/pujingzhi/pujingzhi.github.io">
+<p>[Source]</p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/LICENSE">
+<p>[License]</p>
+</a>
+  </li>  
+</ul>
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
