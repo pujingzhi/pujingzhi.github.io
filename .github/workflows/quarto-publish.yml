@@ -19,6 +19,9 @@ jobs:
       - name: Render Quarto site
         run: quarto render .
 
+      - name: Copy site to root
+        run: cp -r _site/index.html .
+
       # Optional: publish (if you want to use publish@v2)
       # - uses: quarto-dev/quarto-actions/publish@v2
       #   with:
