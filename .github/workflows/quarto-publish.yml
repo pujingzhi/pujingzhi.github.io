@@ -1,0 +1,24 @@
+name: Quarto Publish
+
+on:
+  push:
+    branches: [ main ]   # Run workflow when main branch is updated
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repo
+      - uses: actions/checkout@v4
+
+      # Step 2: Install Quarto
+      - uses: quarto-dev/quarto-actions/setup@v2
+
+      # Step 3: Render the website
+      - run: quarto render
+
+      # Step 4: Publish rendered site to gh-pages branch
+      - uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
