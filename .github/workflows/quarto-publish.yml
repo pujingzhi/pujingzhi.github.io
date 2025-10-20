@@ -1,25 +1,25 @@
-name: Quarto Publish
+name: Publish Quarto site
 
 on:
   push:
-    branches: [ main ]   # Run workflow when main branch is updated
+    branches:
+      - main
 
 jobs:
-  build-and-deploy:
+  publish:
     runs-on: ubuntu-latest
-
     steps:
-      # Step 1: Checkout the repo
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v3
 
-      # Step 2: Install Quarto
       - uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          quarto-version: latest
 
-      # Step 3: Render the website
-      - run: quarto render
-
-      # Step 4: Publish rendered site to gh-pages branch
       - uses: quarto-dev/quarto-actions/publish@v2
         with:
-          render: false     # Already rendered in previous step
+          target: main       # the branch you want to publish to
+          path: .            # path to your site
+          render: true
+          GITHUB_EMAIL: quarto-github-actions-publish@example.com
+          GITHUB_USERNAME: Quarto GHA Workflow Runner
           QUARTO_PUB_AUTH_TOKEN: ${{ secrets.QUARTO_PUB_AUTH_TOKEN }}
