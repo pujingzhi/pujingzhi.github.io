@@ -1,6 +1,9 @@
 project:
   type: website
 
+  post-render:
+    - "cp -r _site/. ."
+
 website:
   title: "Jingzhi Pu"
   google-analytics: "G-1W6X56QSLP"
