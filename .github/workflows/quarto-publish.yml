@@ -17,7 +17,6 @@ jobs:
 
       - uses: quarto-dev/quarto-actions/publish@v2
         with:
-          target: main       # the branch you want to publish to
           path: .            # path to your site
           render: true
           GITHUB_EMAIL: quarto-github-actions-publish@example.com
