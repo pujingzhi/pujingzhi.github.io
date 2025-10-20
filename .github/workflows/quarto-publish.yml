@@ -22,4 +22,6 @@ jobs:
       - uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
-          repository: ${{ github.repository }}
+          render: false     # Already rendered in previous step
+          GITHUB_EMAIL: quarto-github-actions-publish@example.com
+          GITHUB_USERNAME: Quarto GHA Workflow Runner
