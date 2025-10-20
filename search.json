@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "Jingzhi Pu",
+    "section": "Background",
+    "text": "Background\n\nAssociate Professor, Indiana University Indianapolis (2017–present)\nPostdoc, Harvard University (2005–2010)\nPostdoc, University of Minnesota (2004–2005)\nPh.D., University of Minnesota, Theoretical and Computational Chemistry (2004)\nB.Sc., Peking University, Chemistry (1999)"
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Jingzhi Pu",
+    "section": "Research",
+    "text": "Research\nMy research focuses on uncertainty quantification in complex systems that arise in computational science and engineering. To this end, my group integrates generative modeling with scientific computing to develop scalable sampling techniques for high-dimensional distributions. This work enables Bayesian inference in large-scale PDE-based inverse problems (e.g., seismic and medical imaging) and provides a principled framework for building reliable, uncertainty-aware AI models for real-world applications."
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Jingzhi Pu",
+    "section": "Teaching",
+    "text": "Teaching\n\n[C362 - Physical Chemistry of Molecules] (Fall 2025)"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Jingzhi Pu",
+    "section": "Publications",
+    "text": "Publications\n\nPreprints\nImproving fairness and mitigating MADness in generative models\nP. M. Mayer, L. Luzi, A. Siahkoohi, D. H. Johnson, and R. G. Baraniuk\n2024.\n[pdf] [code] [slides] [bib]\n\n\n\nJournal papers\nMulti-scale clustering and source separation of InSight mission seismic data\nA. Siahkoohi, R. Morel, R. Balestriero, E. Allys, G. Sainton, T. Kawamura, and M. V. de Hoop\nIEEE Transactions on Geoscience and Remote Sensing, 2025, In print.\n[pdf] [code] [slides] [bib]\nASPIRE: Iterative amortized posterior inference for Bayesian inverse problems\nR. Orozco, A. Siahkoohi, M. Louboutin, and F. J. Herrmann\nInverse Problems, 41(4):045001, 2025.\n[pdf] [code] [link] [bib]\n\n\n\nConference proceedings and presentations\nSelf-consuming generative models go MAD\nS. Alemohammad, J. Casco-Rodriguez, L. Luzi, A. I. Humayun, H. Babaei, D. LeJeune, A. Siahkoohi, and R. G. Baraniuk\nThe Twelfth International Conference on Learning Representations, 2024.\n[pdf] [extended pdf] [poster] [link] [bib] [featured in the news 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]\n[self-consuming AI resources]\nTitan: Bringing the deep image prior to implicit representations\nL. Luzi, D. LeJeune, A. Siahkoohi, S. Alemohammad, V. Saragadam, H. Babaei, N. Liu, Z. Wang, and R. G. Baraniuk\nIEEE International Conference on Acoustics, Speech and Signal Processing, pages 6165–6169, 2024.\n[pdf] [code] [link] [bib]\nConditional score-based diffusion models for Bayesian inference in infinite dimensions\nL. Baldassari, A. Siahkoohi, J. Garnier, K. Sølna, and M. V. de Hoop\nAdvances in Neural Information Processing Systems, volume 36, pages 24262–24290, 2023.\n[pdf] [slides] [poster] [code] [link] [bib] [featured as a Spotlight presentation]\n\n\n\nThesis\nDeep generative models for solving geophysical inverse problems\nA. Siahkoohi\nPh.D. thesis, Georgia Institute of Technology, 2022.\n[pdf] [slides] [link] [bib]\n\n\n\nTechnical reports\nTaming score-based diffusion priors for infinite-dimensional nonlinear inverse problems\nL. Baldassari, A. Siahkoohi, J. Garnier, K. Sølna, and M. V. de Hoop\nTechnical Report arXiv:2405.15676, Rice University, 2024.\n[pdf] [bib]\nLow-memory stochastic backpropagation with multi-channel randomized trace estimation\nM. Louboutin, A. Siahkoohi, R. Wang, and F. J. Herrmann\nTechnical Report arXiv:2106.06998, Georgia Institute of Technology, 2021.\n[pdf] [code] [link] [bib]"
+  },
+  {
+    "objectID": "index.html#miscellaneous",
+    "href": "index.html#miscellaneous",
+    "title": "Jingzhi Pu",
+    "section": "Miscellaneous",
+    "text": "Miscellaneous\n\n“I wish you hadn’t talked so much, it was distracting.” — Patrick Winston, How to Speak\n“No one cares about the inside of your head.” — Larry McEnerney, The Craft of Writing Effectively"
+  }
+]
