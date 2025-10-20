@@ -66,7 +66,8 @@ jobs:
         with:
            target: gh-pages
         env:
-           GITHUB_TOKEN: ${{ secrets.QUARTO_PUB_AUTH_TOKEN }} # this secret is always available for github actions
+           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+           #GITHUB_TOKEN: ${{ secrets.QUARTO_PUB_AUTH_TOKEN }} # this secret is always available for github actions
 
       # - name: Publish to confluence
       #   uses: quarto-dev/quarto-actions/publish@v2
