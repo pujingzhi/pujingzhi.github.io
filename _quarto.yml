@@ -15,7 +15,7 @@ website:
       - text: \[Made with Quarto\]
         href: https://quarto.org
       - text: \[Source\]
-        #href: https://github.com/pujingzhi/pujingzhi.github.io
+        href: https://github.com/pujingzhi/pujingzhi.github.io
       - text: \[License\]
         href: https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/LICENSE
 
