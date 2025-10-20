@@ -1,8 +1,6 @@
 project:
   type: website
-
-  post-render:
-    - "cp -r _site/. ."
+  output-dir: "docs"
 
 website:
   title: "Jingzhi Pu"
