@@ -15,10 +15,6 @@ jobs:
         with:
           quarto-version: latest
 
-      # Reset previous deployment
-      - name: Reset Quarto deployment
-        run: quarto publish github --no-prompt
-
       # Render site
       - name: Render Quarto site
         run: quarto render .
