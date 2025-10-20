@@ -1,4 +1,4 @@
-name: Publish Quarto site
+name: Render and Publish Quarto Site
 
 on:
   push:
@@ -15,10 +15,18 @@ jobs:
         with:
           quarto-version: latest
 
-      - uses: quarto-dev/quarto-actions/publish@v2
-        with:
-          path: .            # path to your site
-          render: true
-          GITHUB_EMAIL: quarto-github-actions-publish@example.com
-          GITHUB_USERNAME: Quarto GHA Workflow Runner
-          QUARTO_PUB_AUTH_TOKEN: ${{ secrets.QUARTO_PUB_AUTH_TOKEN }}
+      # Reset previous deployment
+      - name: Reset Quarto deployment
+        run: quarto publish github --no-prompt --reset
+
+      # Render site
+      - name: Render Quarto site
+        run: quarto render .
+
+      # Optional: publish (if you want to use publish@v2)
+      # - uses: quarto-dev/quarto-actions/publish@v2
+      #   with:
+      #     render: false
+      #     GITHUB_EMAIL: quarto-github-actions-publish@example.com
+      #     GITHUB_USERNAME: Quarto GHA Workflow Runner
+      #     path: .
