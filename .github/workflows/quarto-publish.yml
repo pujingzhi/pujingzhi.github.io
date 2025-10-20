@@ -6,10 +6,11 @@ on:
 name: Render and Publish
 
 # you need these permissions to publish to GitHub pages
-# permissions: 
-#     contents: write
-#     pages: write
-
+permissions: 
+    contents: write
+    pages: write
+    id-token: write
+  
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
@@ -66,9 +67,8 @@ jobs:
         with:
            target: gh-pages
         env:
-           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-           #GITHUB_TOKEN: ${{ secrets.QUARTO_PUB_AUTH_TOKEN }} # this secret is always available for github actions
-
+           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # this secret is always available for github actions
+     
       # - name: Publish to confluence
       #   uses: quarto-dev/quarto-actions/publish@v2
       #   with:
