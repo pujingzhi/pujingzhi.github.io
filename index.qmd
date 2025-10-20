@@ -46,25 +46,28 @@ Our interests lie at the interface between theoretical/computational chemistry a
 
 ### Preprints
 
-**Improving fairness and mitigating MADness in generative models**  
+<!-- **Improving fairness and mitigating MADness in generative models**  
 P. M. Mayer, L. Luzi, A. Siahkoohi, D. H. Johnson, and R. G. Baraniuk  
 2024.  
 [[pdf](https://arxiv.org/abs/2405.13977)]
 [[code](https://github.com/alisiahkoohi/torchhyper)]
 [[slides](https://www.dropbox.com/scl/fi/5ajtqzg15vu4tpbqwc78d/slides.pdf?rlkey=zmdpkzht0o0ax9j9cu7y0aoir&st=l412imzl&dl=0)]
-[[bib](https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/files/MayerLuziSiahkoohiEtAl_2024.bib)]
+[[bib](https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/files/MayerLuziSiahkoohiEtAl_2024.bib)] -->
 
 ---
 
 ### Journal papers
 
-**Multi-scale clustering and source separation of InSight mission seismic data**  
+**Free Energy Profile Decomposition Analysis for QM/MM Simulations of Enzymatic Reactions**
+Pan, X.; Van, R.; Pu, J.; Nam, K.; Mao, Y.; Shao, Y. J. Chem. Theory Comput. 2023, 19, 8234-8244
+
+<!-- Multi-scale clustering and source separation of InSight mission seismic data**  
 A. Siahkoohi, R. Morel, R. Balestriero, E. Allys, G. Sainton, T. Kawamura, and M. V. de Hoop  
 *IEEE Transactions on Geoscience and Remote Sensing*, 2025, In print.  
 [[pdf](https://arxiv.org/abs/2305.16189)]
 [[code](https://github.com/alisiahkoohi/facvae)]
 [[slides](https://www.dropbox.com/s/ycwu3y3jik33xpo/slides.pdf?dl=0)]
-[[bib](https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/files/SiahkoohiMorelBalestrieroEtAl_2025.bib)]
+[[bib](https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/files/SiahkoohiMorelBalestrieroEtAl_2025.bib)] -->
 
 **ASPIRE: Iterative amortized posterior inference for Bayesian inverse problems**  
 R. Orozco, A. Siahkoohi, M. Louboutin, and F. J. Herrmann  
