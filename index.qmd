@@ -37,7 +37,6 @@ Our interests lie at the interface between theoretical/computational chemistry a
 
 ## People
 
-#### Current Members ####
 ![](files/jpu.JPG){fig-align="left"}
 Jingzhi Pu (PI)
 Postdoc: Harvard University (2005-2010; with with [Martin Karplus](https://en.wikipedia.org/wiki/Martin_Karplus)) <br>
@@ -59,24 +58,20 @@ Hysum Qazi (undergraduate researcher; UROP Scholar: 2024-2026)
 #### Former Group Members ####
 
 ![](files/RyanSnyder.jpg){fig-align="left"}
-Ryan Snyder (PhD student; 2018-2023)
-PhD: Purdue/IUPUI (2023)
-BS: Indiana University Bloomington (2018)
+Ryan Snyder (Ph.D. 2023; currently, postdoc at Rutgers)
+BS: IU Bloomington
 
 ![](files/BryanKim.JPG){fig-align="left"}
-Bryant Kim (PhD student; 2018-2023)
-PhD: Purdue/IUPUI (2023)
-BS: IUPUI (2018)
+Bryant Kim (Ph.D. 2023; currently, postdoc at Merck) 
+BA: IUPUI
 
 ![](files/MellisaHege.jpg){fig-align="left"}
-Mellisa Hege (PhD student; 2018-2023)
-PhD: Purdue/IUPUI (2023)
-BS: IUPUI (2018)
+Mellisa Hege (Ph.D. 2023; currently, IU School of Medicine)
+BA: IUPUI
 
 ![](files/RyanYoung.jpg){fig-align="left"}
-Ryan Young (PhD; 2018-2023)
-PhD: Purdue/IUPUI (2023)
-BS: Indiana University Bloomington (2018)
+Ryan Young (Ph.D. 2023)
+BS: IU Bloomington
 
 ## Publications
 
