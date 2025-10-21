@@ -16,7 +16,7 @@ about:
   template: solana
   image: files/jpu_photo.png
   image-shape: round
-  image-width: 215px
+  image-width: 200px
 ---
 
 :::{#heading}
