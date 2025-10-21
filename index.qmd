@@ -63,7 +63,7 @@ Ryan Snyder (PhD student; 2018-2023)
 PhD: Purdue/IUPUI (2023)
 BS: Indiana University Bloomington (2018)
 
-![](files/BryanKim.jpg){fig-align="left"}
+![](files/BryanKim.JPG){fig-align="left"}
 Bryant Kim (PhD student; 2018-2023)
 PhD: Purdue/IUPUI (2023)
 BS: IUPUI (2018)
