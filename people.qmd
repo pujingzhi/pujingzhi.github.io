@@ -1,7 +1,7 @@
 ---
 title: "People"
 ---
-
+<br>
 ![](files/jpu.JPG){fig-align="left"} <br>
 Jingzhi Pu (PI) <br>
 Postdoc: Harvard University (2005-2010; with with [Martin Karplus](https://en.wikipedia.org/wiki/Martin_Karplus)) <br>
@@ -20,7 +20,7 @@ Tinh Ho (3rd year PhD student; co-advised by Prof. Partha Basu) <br><br>
 ![](files/HysumQazi_sm.png){fig-align="left"} <br>
 Hysum Qazi (undergraduate researcher; UROP Scholar: 2024-2026) <br><br>
 
-### Former members ###
+#### Former members ####
 <br>
 ![](files/RyanSnyder.jpg){fig-align="left"} <br>
 Ryan Snyder (Ph.D. 2023; currently, postdoc at Rutgers) <br>
