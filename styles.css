@@ -1,3 +1,16 @@
+.quarto-title-banner {
+  background-image: url("images/my-banner.png"); /* Path to your banner image */
+  background-size: cover;
+  background-position: center;
+  color: white; /* Adjust text color for contrast */
+  padding: 50px 0; /* Adjust padding as needed */
+}
+
+.quarto-title-banner h1,
+.quarto-title-banner p {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add shadow for readability */
+}
+
 ul {
   margin-left: 0em;   /* default is around 2em */
   padding-left: 1.2em;
