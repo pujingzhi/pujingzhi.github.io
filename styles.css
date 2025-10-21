@@ -12,9 +12,17 @@
   background: none; /* disable */
 }
 
+/* .quarto-title-banner h1, */
+/* .quarto-title-banner p { */
+/*  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add shadow for readability */
+/* } */
+
+/* Hide banner text in Quarto title block */
 .quarto-title-banner h1,
+.quarto-title-banner h2,
+.quarto-title-banner h3,
 .quarto-title-banner p {
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add shadow for readability */
+  display: none;
 }
 
 ul {
