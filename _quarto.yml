@@ -43,7 +43,6 @@ website:
 
 format:
   html:
-    title-block-banner: true # Enable banner for title block
     css: styles.css
     theme:
       light: [simplex, custom.scss]
