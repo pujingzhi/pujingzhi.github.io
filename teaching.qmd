@@ -19,8 +19,8 @@ navbar: false
 #  image-width: 215px
 ---
 
-:::{#heading}
-:::
+<!-- :::{#heading} -->
+<!-- ::: -->
 
 <!-- ![](files/Pu_IU_Indy_Banner.svg){fig-align="left" width="800px"} -->
 
