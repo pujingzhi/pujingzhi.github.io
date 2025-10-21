@@ -33,47 +33,51 @@ Our interests lie at the interface between theoretical/computational chemistry a
 
 ### At IU ###
 
-- 56. "Training Machine Learning Potentials for Reactive Systems. A Colab Tutorial on Basic Models," Pan, X.; Snyder, R.; Wang, J.-N.; Lander, C.; Wickizer, C.; Van. R.; Chesney, A.; Xue, Y.; Mao, Y.; Mei, Y.; **Pu, J.**; Shao, Y. *J. Comput. Chem.* 2024, *45*, 638-647 ([DOI:10.1002/jcc.27269](  https://doi.org/10.1002/jcc.27269))
+- 58. "Design of Light‐Induced Solid‐State Plasmonic Rulers via Tethering Photoswitchable Molecular Machines to Gold Nanostructures Displaying Angstrom Length Resolution," Langlais, S. R.; Hati, S.; Simas, M. V.; **Pu, J.** Muhoberac, B. B.; Sardar, R. *Adv. Opt. Mater.* **2024**, *12* , 2400801  ([DOI:10.1002/adom.202400801](https://doi.org/10.1002/adom.202400801)).
 
-- 55. "Polyrate 2023: A Computer Program for the Calculation of Chemical Reaction Rates for Polyatomics. New Version Announcement," Meana-Paneda, R.; Zheng, J.; Bao, J. L.; Zhang, S.; Lynch, B. J.; Corchado, J. C.; Chuang, Y.-Y.; Fast, P. L.; Hu, W.-P.; Liu, Y.-P.; Lynch, G. C.; Nguyen, K. A.; Jackels, C. F.; Fernandez-Ramos, A.; Ellingson, B. A.; Melissas, V. S.; Villa, J.; Rossi, I.; Coitino, E. L.; **Pu, J.**; Albu, T. V.; Zhang, R. M.; Xu, X.; Ratkiewicz, A.; Steckler, R.; Garrett, B. C.; Isaacson, A. D.; Truhlar, D. G. *Comput. Phys. Commun.* **2024**, *294*, 108933. 
+- 57. "DFT/MM Simulations for Cycloreversion Reaction of Cyclobutane Pyrimidine Dimer with Deprotonated and Protonated E283," Xue, P.; Huang, D.; **Pu, J.** Zhou, Y. *J. Phys. Chem. B* **2024**, *128*, 6670-6683 [DOI:10.1021/acs.jpcb.4c01011](https://doi.org/10.1021/acs.jpcb.4c01011).
 
-- 54. "Free Energy Profile Decomposition Analysis for QM/MM Simulations of Enzymatic Reactions," Pan, X.; Van, R.; **Pu, J.**; Nam, K.; Mao, Y.; Shao, Y. J. *Chem. Theory Comput.* **2023**, *19*, 8234-8244.
+- 56. "Polyrate 2023: A Computer Program for the Calculation of Chemical Reaction Rates for Polyatomics. New Version Announcement," Meana-Paneda, R.; Zheng, J.; Bao, J. L.; Zhang, S.; Lynch, B. J.; Corchado, J. C.; Chuang, Y.-Y.; Fast, P. L.; Hu, W.-P.; Liu, Y.-P.; Lynch, G. C.; Nguyen, K. A.; Jackels, C. F.; Fernandez-Ramos, A.; Ellingson, B. A.; Melissas, V. S.; Villa, J.; Rossi, I.; Coitino, E. L.; **Pu, J.**; Albu, T. V.; Zhang, R. M.; Xu, X.; Ratkiewicz, A.; Steckler, R.; Garrett, B. C.; Isaacson, A. D.; Truhlar, D. G. *Comput. Phys. Commun.* **2024**, *294*, 108933. 
 
-- 53. "Hybrid Metal-Ligand Interfacial Dipole Engineering of Functional Plasmonic Nanostructures for Extraordinary Responses of Optoelectronic Properties," Hati, S.; Yang, X.; Gupta, P.; Muhoberac, B.; **Pu, J.**; Zhang, J.; Sardar, R. *ACS Nano* **2023**, *17*, 17499-17515. 
+- 55. "Training Machine Learning Potentials for Reactive Systems. A Colab Tutorial on Basic Models," Pan, X.; Snyder, R.; Wang, J.-N.; Lander, C.; Wickizer, C.; Van. R.; Chesney, A.; Xue, Y.; Mao, Y.; Mei, Y.; **Pu, J.**; Shao, Y. *J. Comput. Chem.* 2024, *45*, 638-647 ([DOI:10.1002/jcc.27269](  https://doi.org/10.1002/jcc.27269))
 
-- 52. "Bridging Semiempirical and Ab Initio QM/MM Potentials by Gaussian Process Regression and Its Sparse Variants for Free Energy Simulation,” Snyder, R.; Kim, B.; Pan, X.; Shao, Y.; **Pu, J.** *J. Chem. Phys.* **2023**, *159*, 054107.
+- 54. "Free Energy Profile Decomposition Analysis for QM/MM Simulations of Enzymatic Reactions," Pan, X.; Van, R.; **Pu, J.**; Nam, K.; Mao, Y.; Shao, Y. J. *Chem. Theory Comput.* **2023**, *19*, 8234-8244 ([DOI:10.1021/acs.jctc.3c00973](https://doi.org/10.1021/acs.jctc.3c00973)).
 
-- 51. "Revealing Intrinsic Changes of DNA Induced by Spore Photoproduct Lesion through Computer Simulation," Hege, M.; Li, L.; **Pu, J.** *Biophys. Chem.* **2023**, *296*, 106992. 
+- 53. "Hybrid Metal-Ligand Interfacial Dipole Engineering of Functional Plasmonic Nanostructures for Extraordinary Responses of Optoelectronic Properties," Hati, S.; Yang, X.; Gupta, P.; Muhoberac, B.; **Pu, J.**; Zhang, J.; Sardar, R. *ACS Nano* **2023**, *17*, 17499-17515 ([DOI:10.1021/acsnano.3c06047](https://doi.org/10.1021/acsnano.3c06047)).
 
-- 50. "Photoactivities of Thiophene Monomer/Polymer Transition in Gel–Based Photoelectrochemical Assembly: A Theoretical/Experimental Approach." Kasem, K.; **Pu, J.**; Cox, L. *Int. J. Electrochem. Sci.* **2023**, *18*, 1000077. 
+- 52. "Bridging Semiempirical and Ab Initio QM/MM Potentials by Gaussian Process Regression and Its Sparse Variants for Free Energy Simulation,” Snyder, R.; Kim, B.; Pan, X.; Shao, Y.; **Pu, J.** *J. Chem. Phys.* **2023**, *159*, 054107 ([DOI:10.1063/5.0156327](https://doi.org/10.1063/5.0156327)).
 
-- 49. "Machine Learning Based Implicit Solvent Model for Aqueous–Solution Alanine Dipeptide Molecular Dynamics Simulations," Yao, S.; Van, R.; Pan, X.; Park, J. H.; Mao, Y.; **Pu, J.**;  Mei, Y.; Shao, Y. *RSC Adv.* **2023**, *13*, 4565-4577. 
+- 51. "Revealing Intrinsic Changes of DNA Induced by Spore Photoproduct Lesion through Computer Simulation," Hege, M.; Li, L.; **Pu, J.** *Biophys. Chem.* **2023**, *296*, 106992 ([DOI:10.1016/j.bpc.2023.106992](https://doi.org/10.1016/j.bpc.2023.106992)).
 
-- 48. "Facilitating Ab Initio QM/MM Free Energy Simulations by Gaussian Process Regression with Derivative Observations," Snyder, R.; Kim, B.; Pan, X.; Shao, Y.; **Pu, J.** *Phys. Chem. Chem. Phys.* **2022**, *24*, 25134-25143 (selected as a 2022 PCCP HOT Article) 
+- 50. "Photoactivities of Thiophene Monomer/Polymer Transition in Gel–Based Photoelectrochemical Assembly: A Theoretical/Experimental Approach." Kasem, K.; **Pu, J.**; Cox, L. *Int. J. Electrochem. Sci.* **2023**, *18*, 1000077 ([DOI:10.1016/j.ijoes.2023.100077](https://doi.org/10.1016/j.ijoes.2023.100077)).
 
-- 47. "Photoinduced Site-Selective Functionalization of Aliphatic C-H Bonds by Pyridine N-oxide Based HAT Catalysts," Wang, B.; Ascenzi Pettenuzzo, C.; Singh, J.; Mccabe, G.; Clark, L.; Young, R.; **Pu, J.**; Deng, Y. *ACS Catalysis* **2022**, *12*, 10441-10448.
+- 49. "Machine Learning Based Implicit Solvent Model for Aqueous–Solution Alanine Dipeptide Molecular Dynamics Simulations," Yao, S.; Van, R.; Pan, X.; Park, J. H.; Mao, Y.; **Pu, J.**;  Mei, Y.; Shao, Y. *RSC Adv.* **2023**, *13*, 4565-4577 ([DOI:10.1039/D2RA08180F](https://doi.org/10.1039/D2RA08180F)).
 
-- 46. "Accelerating ab initio QM/MM Molecular Dynamics Simulations with Multiple Time Step Integration and a Recalibrated Semiempirical QM/MM Hamiltonian," Pan, X.; Van, R.; Epifanovsky, E.; Liu, J.; **Pu, J.**; Nam, K.; Shao, Y. J. *Phys. Chem. B* **2022**, *126*, 4226-4235. 
+- 48. "Facilitating Ab Initio QM/MM Free Energy Simulations by Gaussian Process Regression with Derivative Observations," Snyder, R.; Kim, B.; Pan, X.; Shao, Y.; **Pu, J.** *Phys. Chem. Chem. Phys.* **2022**, *24*, 25134-25143 (selected as a 2022 PCCP HOT Article) ([DOI:10.1039/D2CP02820D](https://doi.org/10.1039/D2CP02820D)).
 
-- 45. "Doubly Polarized QM/MM with Machine Learning Chaperone Polarizability," Kim, B.; Shao, Y.; **Pu, J.** *J. Chem. Theory Comput.* **2021**, *17*, 7682-7695. 
+- 47. "Photoinduced Site-Selective Functionalization of Aliphatic C-H Bonds by Pyridine N-oxide Based HAT Catalysts," Wang, B.; Ascenzi Pettenuzzo, C.; Singh, J.; Mccabe, G.; Clark, L.; Young, R.; **Pu, J.**; Deng, Y. *ACS Catalysis* **2022**, *12*, 10441-10448 ([DOI:10.1021/acscatal.2c02993](https://doi.org/10.1021/acscatal.2c02993)).
 
-- 44. "Machine-Learning-Assisted Free Energy Simulation of Solution-Phase and Enzyme Reactions," Pan, X.; Yang, J.; Van, R.; Epifanovsky, E.; Ho, J.; Huang, J.; **Pu, J.**, Mei, Y.; Nam, K.; Shao, Y. *J. Chem. Theory Comput.* **2021**, *17*, 5745-5758. 
+- 46. "Accelerating ab initio QM/MM Molecular Dynamics Simulations with Multiple Time Step Integration and a Recalibrated Semiempirical QM/MM Hamiltonian," Pan, X.; Van, R.; Epifanovsky, E.; Liu, J.; **Pu, J.**; Nam, K.; Shao, Y. J. *Phys. Chem. B* **2022**, *126*, 4226-4235 ([DOI:10.1021/acs.jpcb.2c02262](https://doi.org/10.1021/acs.jpcb.2c02262)).
 
-- 43. "Reaction Path-Force Matching in Collective Variables: Determining Ab Initio QM/MM Free Energy Profiles by Fitting Mean Force," Bryant, K.; Snyder, R.; Nagaraju, M.; Zhou, Y.; Ojeda-May. P.; Keeton, S.; Hege, M.; Shao, Y.; **Pu, J.** *J. Chem. Theory Comput.* **2021**, *17*, 4961-4980.
+- 45. "Doubly Polarized QM/MM with Machine Learning Chaperone Polarizability," Kim, B.; Shao, Y.; **Pu, J.** *J. Chem. Theory Comput.* **2021**, *17*, 7682-7695 (DOI:10.1021/acs.jctc.1c00567](https://doi.org/10.1021/acs.jctc.1c00567)).
 
-- 42. "Interligand Communication in a Metal Mediated LL’CT System – A Case Study," Dille, S. A.; Colston, K.; Ratvasky, S. C.; **Pu, J.**; Basu, P. *RSC Adv.* **2021**, *11*, 24381-24386. 
+- 44. "Machine-Learning-Assisted Free Energy Simulation of Solution-Phase and Enzyme Reactions," Pan, X.; Yang, J.; Van, R.; Epifanovsky, E.; Ho, J.; Huang, J.; **Pu, J.**, Mei, Y.; Nam, K.; Shao, Y. *J. Chem. Theory Comput.* **2021**, *17*, 5745-5758 [DOI:10.1021/acs.jctc.1c00565](https://doi.org/10.1021/acs.jctc.1c00565)).
 
-- 41. "Identifying Thermal Decomposition Products of Nitrate Ester Explosives via Gas Chromatography/Vacuum UV (VUV) Spectroscopy: An Experimental and Computational Study," Cruse, C. A.; **Pu, J.**; Goodpaster, J. V. *Applied Spec.* **2020**, *74*, 1486-1495.
+- 43. "Reaction Path-Force Matching in Collective Variables: Determining Ab Initio QM/MM Free Energy Profiles by Fitting Mean Force," Bryant, K.; Snyder, R.; Nagaraju, M.; Zhou, Y.; Ojeda-May. P.; Keeton, S.; Hege, M.; Shao, Y.; **Pu, J.** *J. Chem. Theory Comput.* **2021**, *17*, 4961-4980 ([DOI:10.1021/acs.jctc.1c00245](https://doi.org/10.1021/acs.jctc.1c00245)).
 
-- 40. "Accelerated Computation of Free Energy Profile at ab Initio Quantum Mechanical/Molecular Mechanics Accuracy via a Semi-Empirical Reference Potential. II. Recalibrating Semi-Empirical Parameters with Force Matching," Pan, X.; Li, P.; Ho, J.; **Pu, J.**; Mei, Y.; Shao, Y. *Phys. Chem. Chem. Phys.* **2019**, *21*, 20595-20605. 
+- 42. "Interligand Communication in a Metal Mediated LL’CT System – A Case Study," Dille, S. A.; Colston, K.; Ratvasky, S. C.; **Pu, J.**; Basu, P. *RSC Adv.* **2021**, *11*, 24381-24386 ([DOI:10.1039/D1RA04716G](https://doi.org/10.1039/D1RA04716G)).
 
-- 39. "Exploring Cycloreversion Reaction of Cyclobutane Pyrimidine Dimers Quantum Mechanically," Huang, D.; Chen, S.; Pu, J.; Tan, X.; Zhou, Y. *J. Phys. Chem. A* **2019**, *123*, 2025-2039. 
+- 41. "Identifying Thermal Decomposition Products of Nitrate Ester Explosives via Gas Chromatography/Vacuum UV (VUV) Spectroscopy: An Experimental and Computational Study," Cruse, C. A.; **Pu, J.**; Goodpaster, J. V. *Applied Spec.* **2020**, *74*, 1486-1495 ([DOI:10.1177/0003702820915506](https://doi.org/10.1177/0003702820915506)).
 
-- 38. "Mapping Free Energy Paths for ATP Hydrolysis in the E. coli. ABC-Transporter HlyB by the String Method," Zhou, Y.; Ojeda-May, P.; Nagaraju, M.; Kim, B.; **Pu, J.** *Molecules* **2018**, *23*, 2652. 
+- 40. "Accelerated Computation of Free Energy Profile at ab Initio Quantum Mechanical/Molecular Mechanics Accuracy via a Semi-Empirical Reference Potential. II. Recalibrating Semi-Empirical Parameters with Force Matching," Pan, X.; Li, P.; Ho, J.; **Pu, J.**; Mei, Y.; Shao, Y. *Phys. Chem. Chem. Phys.* **2019**, *21*, 20595-20605 ([DOI:10.1039/C9CP02593F](https://doi.org/10.1039/C9CP02593F)).
 
-- 37. "Elucidating the Role of Surface Passivating Ligand Structural Parameters in Hole Wave Function Delocalization in Semiconductor Cluster Molecules,” Teunis, M. B.; Mulpuri, N.; Dutta, P; **Pu, J.**; Muhoberac, B. B.; Sardar, R.; Agarwal, M. *Nanoscale* **2017**, *9*, 14127-14138. 
+- 39. "Exploring Cycloreversion Reaction of Cyclobutane Pyrimidine Dimers Quantum Mechanically," Huang, D.; Chen, S.; Pu, J.; Tan, X.; Zhou, Y. *J. Phys. Chem. A* **2019**, *123*, 2025-2039 ([DOI:10.1021/acs.jpca.8b12345](https://doi.org/10.1021/acs.jpca.8b12345)).
 
-- 36. "Toward Determining ATPase Mechanism in ABC Transporters: Development of the Reaction Path-Force Matching QM/MM Method," Zhou, Y.; Ojeda-May, P.; Nagaraju, M.; **Pu, J.** *Methods in Enzymology* (Computational approaches for studying enzyme mechanism) **2016**, *577*, 185-212 (invited Article). 
+- 38. "Mapping Free Energy Paths for ATP Hydrolysis in the E. coli. ABC-Transporter HlyB by the String Method," Zhou, Y.; Ojeda-May, P.; Nagaraju, M.; Kim, B.; **Pu, J.** *Molecules* **2018**, *23*, 2652 ([DOI:10.3390/molecules23102652](https://doi.org/10.3390/molecules23102652)).
+
+- 37. "Elucidating the Role of Surface Passivating Ligand Structural Parameters in Hole Wave Function Delocalization in Semiconductor Cluster Molecules,” Teunis, M. B.; Mulpuri, N.; Dutta, P; **Pu, J.**; Muhoberac, B. B.; Sardar, R.; Agarwal, M. *Nanoscale* **2017**, *9*, 14127-14138 ([DOI:10.1039/C7NR04874B](https://doi.org/10.1039/C7NR04874B)).
+
+- 36. "Toward Determining ATPase Mechanism in ABC Transporters: Development of the Reaction Path-Force Matching QM/MM Method," Zhou, Y.; Ojeda-May, P.; Nagaraju, M.; **Pu, J.** *Methods in Enzymology* (Computational approaches for studying enzyme mechanism) **2016**, *577*, 185-212 (invited Article) ([DOI:10.1016/bs.mie.2016.05.054](https://doi.org/10.1016/bs.mie.2016.05.054)).
 
 - 35. "Treating Electrostatics with Wolf Summation in Combined Quantum Mechanical and Molecular Mechanical Simulations,” Ojeda-May, P.ǁ; Pu, J.†ǂ J. Chem. Phys. 2015, 143, 174111 ([DOI:10.1063/1.4934880](https://dx.doi.org/10.1063/1.4934880)).
 
