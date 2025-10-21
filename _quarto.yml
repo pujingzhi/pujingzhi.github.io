@@ -9,7 +9,7 @@ website:
 
   sidebar:
     style: "docked"
-    search: true
+    search: false
     logo: files/hlyb_poket_new_dark_mid.png
     contents:
       - href: index.qmd
@@ -26,6 +26,7 @@ website:
         text: Teaching
       - href: contact.qmd
         text: Contact
+        
   #page-navigation: true
 
   # Without this, the page footer will not display. It is removed in index.qmd
