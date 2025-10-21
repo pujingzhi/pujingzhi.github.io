@@ -1,0 +1,46 @@
+---
+Title: "News"
+---
+
+### 2015 ###
+- Sept: Jingzhi Pu presented at the [Midwest Computational Biomolecular Modeling Symposium](https://www.ks.uiuc.edu/Announcements/Symposium/) at UIUC (read [Editorial Overview](https://www-s.ks.uiuc.edu/History/symposium/)).
+- Aug: Jingzhi Pu presented at the [ACS 250th National Meeting](https://www.acs.org/content/acs/en/meetings/fall-2015.html) in Boston.
+- Aug: Jingzhi Pu's [R15 grant](https://reporter.nih.gov/search/CyO8qZgafU2fzbCetM92HA/project-details/8958346) is funded by NIH.
+- July: Jingzhi Pu presented at a [Snowmass Biophysics Workshop](https://vothgroup.uchicago.edu/conferences/).
+- June: Jingzhi Pu received an [RSFG](https://research.iupui.edu/funding/documents/internalawards2015_000.pdf) grant from Office of the Vice Chancellor for Research at IUPUI. 
+- Apr: Jingzhi Pu received an International Travel Grant from the Purdue Research Foundation.
+- Feb: Jingzhi Pu presented a [Mechanical Engineering seminar](https://engr.iupui.edu/departments/me/research/seminars/upcoming.php) at IUPUI.
+
+### 2014 ###
+- Oct: Jingzhi Pu gave a talk at the [Martin Karplus Celebration Symposium](https://martinkarplus.net/). 
+- May: Jingzhi Pu received a Summer Faculty Grant from the Purdue Research Foundation.
+- Apr: Mulpuri Nagaraju (Raju) joined the lab as a postdoc.
+
+### 2013 ###
+- Sept: Pedro Ojeda-May, Yan Zhou, and Jingzhi Pu presented at the [ACS 246th National Meeting](https://www.acs.org/content/acs/en/meetings/fall-2013.html) in Indianapolis.
+- Aug: Jingzhi Pu co-organized a [TSRC Workshop](https://www.telluridescience.org/meetings/workshop-details?wid=376).
+- July: Jingzhi Pu presented at a CHARMM Developers' Meeting in Zurich. 
+- June: Jacob Lucas from [Arsenal Tech High School](https://www.716.ips.k12.in.us/) came back to the lab for his second [SEED](https://portal.acs.org/portal/acs/corg/content?_nfpb=true&_pageLabel=PP_TRANSITIONMAIN&node_id=1588&use_sec=false&sec_url_var=region1&__uuid=f05dced4-fb8f-4e50-9ab0-71bd0e60efa1) research internship. 
+- Jan: Jingzhi Pu gave a physical chemistry seminar at Purdue University.
+
+### 2012 ###
+- Nov: Jingzhi Pu gave a seminar in the Department of Chemistry at Northern Kentucky University. 
+- June: Jacob Lucas from [Arsenal Tech High School](https://www.716.ips.k12.in.us/) joined the lab for a [SEED](https://portal.acs.org/portal/acs/corg/content?_nfpb=true&_pageLabel=PP_TRANSITIONMAIN&node_id=1588&use_sec=false&sec_url_var=region1&__uuid=f05dced4-fb8f-4e50-9ab0-71bd0e60efa1) research internship. 
+- May: Jingzhi Pu visited and presented at the [Laboratory of Computational Biology at NIH/NHLBI](https://www.lobos.nih.gov/lcb/).
+- May: The lab was moved! Our new home is the O'Brien computing lab LD320.
+- Apr: Cornelius Audu received a “Second Place” poster award at the [2012 Research Day](https://research.iupui.edu/enterprise/archive/2012/enterprise-04-23.html) event. [read more](https://chem.iupui.edu/news/science-students-honored-2012-research-day).
+- Jan: Four students (Hongdi Bai, Brett Palencer, Anne Cook, and Kimberly Adams) joined the lab for undergraduate research.
+
+### 2011 ###
+- Nov: Jingzhi Pu presented a [BioMath](https://www.math.iupui.edu/~jarciero/Biomath.html) seminar at IUPUI. 
+- Nov: Cornelius Audu was selected to attend the [Berkeley Edge Conference](https://ls.berkeley.edu/bep/conference).  
+- Oct: Pyrite - the group high performance computing cluster (HPCC) is in production.
+- Sept: Aimee Rinas joined the group as a PhD student.
+- Aug: Jingzhi Pu spoke at a [TSRC Workshop](https://www.telluridescience.org/reg/workshop_details.php?wid=339) on Biomolecular Machines.   
+- July: Jingzhi Pu spoke at a [TSRC Workshop](http://www.telluridescience.org/reg/workshop_details.php?wid=308) on Free Energy Simulations.   
+- July: Karen Thomson joined the lab as a part-time MS student.
+- June: Jingzhi Pu organized a mini-symposium on QM/MM at the [42<sup>nd</sup> ACS Central Regional Meeting](https://cerm_regional.sites.acs.org/symposia.htm).  
+- June: Cornelius Audu joined the lab as an [McNair Scholar](https://crl.iupui.edu/programs/McNair/index.asp) to conduct undergraduate research.   
+- May: Jingzhi Pu was selected as a faculty recipient of "SONY Scholarship". [IU Press Release](https://newsinfo.iu.edu/news/page/normal/18624.html)
+- Mar: Pedro Ojeda-May from Stuttgart Univ. (Germany) joined the group as a postdoc.
+- Jan: Yan Zhou from the Univ. of Minnesota joined the group as a postdoc.
