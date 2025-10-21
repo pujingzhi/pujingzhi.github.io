@@ -19,7 +19,7 @@ about:
   image-width: 215px
 ---
 
-#### People ##
+### People ###
 
 <br>
 ![](files/jpu.JPG){fig-align="left"} <br>
