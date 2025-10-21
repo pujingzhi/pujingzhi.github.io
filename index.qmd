@@ -33,7 +33,7 @@ Our interests lie at the interface between theoretical/computational chemistry a
       <img src="files/MalEFGK2.png" width="300px">
     </td>
     <td style="width:33%; padding:0;">
-      <img src="files/tt_sp.png" width="220px">
+      <img src="files/tt_sp.png" width="200px">
     </td>
     <td style="width:33%; padding:0;">
       <img src="files/qmmm.png" width="250px">
