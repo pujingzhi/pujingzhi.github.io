@@ -1,6 +1,6 @@
 ---
 title: "Research"
-bibliography: refs.bib
+bibliography: files/refs.bib
 #title: Jingzhi Pu
 subtitle: Associate Professor
 description: |
