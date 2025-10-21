@@ -1,6 +1,8 @@
 ---
-title: "Contact"
+title: Contact
 ---
+
+### Contact ###
 
 :::{.about-flex style="display: flex; align-items: center;"}
 
