@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pujingzhi.github.io/publications.html</loc>
-    <lastmod>2025-10-21T13:15:40.453Z</lastmod>
+    <loc>https://pujingzhi.github.io/people.html</loc>
+    <lastmod>2025-10-21T13:22:44.345Z</lastmod>
   </url>
   <url>
     <loc>https://pujingzhi.github.io/index.html</loc>
-    <lastmod>2025-10-21T13:15:40.453Z</lastmod>
+    <lastmod>2025-10-21T13:22:44.345Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pujingzhi.github.io/publications.html</loc>
+    <lastmod>2025-10-21T13:22:44.345Z</lastmod>
   </url>
 </urlset>
