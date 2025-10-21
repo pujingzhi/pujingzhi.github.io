@@ -1,5 +1,4 @@
 ---
-![](files/Pu_IU_Indy_Banner.svg){fig-align="left"}
 title: Jingzhi Pu
 subtitle: Associate Professor
 description: |
@@ -11,7 +10,13 @@ description: |
 
   [[ORCID](https://orcid.org/0000-0002-3042-335X)] &ensp; [[jpu@iu.edu](mailto:jpu@iu.edu)] &ensp; [[CV](./files/JPu-CV.pdf)] &ensp; [[GitHub](https://github.com/pujingzhi)] &ensp; [[Google Scholar](https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en)]
 
-navbar: false
+navbar: true
+
+banner: 
+  image: files/Pu_IU_Indy_Banner.svg   # path to your banner image
+  position: center          # or top, bottom, left, right
+  style: "height: 250px; object-fit: cover;"  # adjust height as you like
+
 about:
   id: heading
   template: solana
