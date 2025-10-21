@@ -34,13 +34,14 @@ Our interests lie at the interface between theoretical/computational chemistry a
 
 ### ABC Transporters ###
 
-:::{.about-flex style="display: flex; align-items: center;"}
-<div>
+:::{.about-flex style="display: flex; align-items: center; gap: 20px;"}
+
 <!-- ![](files/MalEFGK2.png "*Maltose transporter from* _E. coli_ <small>(PDB: 3FH6 / 2R6G)</small>"){fig-align="right" width="350px"} --> 
 <!-- *Maltose transporter from* _E. coli_ <small>(PDB: 3FH6 / 2R6G)</small> -->
 
-![](files/MalEFGK2.png){width="350px"}
+![](files/MalEFGK2.png){width="350px" style="flex-shrink:0;"}
 
+<div>
 Many essential functions of living cells are performed by nanoscale motors consisting of protein complexes. The ability of these biomolecular motors to utilize chemical free energy to perform mechanical work makes them splendid molecular machines. Among various types of molecular motors, ATP-binding cassette (ABC) transporters represent a unique family of motor proteins that enable translocations of various substrates across cell membranes, by harnessing the free energy associated with ATP binding and hydrolysis [@Davidson2008]. Dysfunctions of ABC transporters have been linked to a number of diseases, including cystic fibrosis, the most common fatal hereditary disease in the US. Overexpression of certain ABC transporters also contributes to multidrug resistance of tumor cells after chemotherapy. Using multiscale computer simulations, our project aims to obtain a deeper understanding of conformational dynamics, enzyme catalysis, and the chemomechanical coupling mechanisms by which chemical free energy is converted into mechanical work in ABC transporters. Currently, we are focusing on elucidating ATP hydrolysis mechanisms in several ABC systems [@Zhou2013].
 </div>
 :::
@@ -49,11 +50,12 @@ Many essential functions of living cells are performed by nanoscale motors consi
 
 ### DNA Damage ###
 
-:::{.about-flex style="display: flex; align-items: center;"}
-<div>
+:::{.about-flex style="display: flex; align-items: center; gap: 20px;"}
+
 Under nutrient scarcity, certain bacteria form endospores that protect bacterial DNA from environmental damage, including UV radiation. UV light can damage DNA by forming cross-links between adjacent thymine bases (TT) in a DNA strand. Under regular conditions, such damage leads to the formation of a cyclobutane pyrimidine dimer (CPD) as the dominant photoproduct. In spores, however, the DNA photoreaction pattern changes: a special lesion, 5-thyminyl-5-6-dihydrothymine (the spore-photoproduct, SP), becomes the major form of TT damage. It is believed that SP lesions “lock” the DNA in a chemically inert state until germination, when these lesions are repaired by a specialized enzyme called spore-photoproduct lyase (SPL). Collaborating with Prof. [Lei Li](http://chem.iupui.edu/~lilei/), we have computationally characterized several dinucleotide analogues of SP [@Lin2012; @Lin2011], and are currently developing all-atom models for simulating short segments of SP-containing DNA.
 
-![](files/tt_sp.png){width="250px"}
+<div>
+![](files/tt_sp.png){width="250px" style="flex-shrink:0;"}
 <!-- ![](files/tt_sp.png "*SP lesion in DNA*") {fig-align="right" width="250px"} --> 
 <!-- *SP lesion in DNA* -->
 </div>
