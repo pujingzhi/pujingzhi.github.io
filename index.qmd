@@ -38,7 +38,7 @@ Our interests lie at the interface between theoretical/computational chemistry a
 ## People
 ---
 ##### Jingzhi Pu (PI) #####
-![](files/jpu.JPG){fig-align="left"}  <br>
+![](files/jpu.JPG){fig-align="left"}  
 
 Associate Professor <br>
 Department of Chemistry & Chemical Biology <br>
@@ -147,7 +147,7 @@ S. Alemohammad, J. Casco-Rodriguez, L. Luzi, A. I. Humayun, H. Babaei, D. LeJeun
 ^[13](https://magazine.rice.edu/winter-2025/ais-mad-loops)^]  
 [[self-consuming AI resources](https://dsp.rice.edu/ai-loops/)] -->
 
-## Google Scholar](https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en)
+## [Google Scholar](https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en)
 ---
 
 ## News
