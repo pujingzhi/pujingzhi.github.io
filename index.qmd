@@ -1,5 +1,5 @@
 ---
-#title: Pu Lab
+title: Pu Lab
 #title: Jingzhi Pu
 subtitle: Associate Professor
 description: |
