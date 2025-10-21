@@ -26,10 +26,12 @@ about:
 
 Our interests lie at the interface between theoretical/computational chemistry and biophysics. The current research in the lab is directed towards understanding how biomolecules perform their functions via dynamical motions that are encoded in their three dimensional structures. Ongoing projects include computer simulations of ABC-transporters and development of combined quantum mechanical/molecular mechanical (QM/MM) methods. 
 
-| ![](files/MalEFGK2.png){fig-align="center" width="250px"} | ![](files/tt_sp.png){fig-align="center" width="220px"} | ![](files/qmmm.png){fig-align="center" width="220px"} |
-|:---------------------------------------------------------:|:------------------------------------------------------:|:------------------------------------------------------:|
+| ![](files/MalEFGK2.png){fig-alt="Maltose transporter from E. coli" fig-align="left" width="250px"} | ![](files/tt_sp.png){fig-alt="SP lesion in DNA" fig-align="center" width="220px"} | ![](files/qmmm.png){fig-alt="QM/MM" fig-align="center" width="220px"} |
+|:--------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|:---------------------------------------------------------------------:|
 
 ## Publications
+
+### At IUPUI/IUI ###
 
 - 56. "Training Machine Learning Potentials for Reactive Systems. A Colab Tutorial on Basic Models," Pan, X.; Snyder, R.; Wang, J.-N.; Lander, C.; Wickizer, C.; Van. R.; Chesney, A.; Xue, Y.; Mao, Y.; Mei, Y.; **Pu, J.**; Shao, Y. *J. Comput. Chem.* 2024, *45*, 638-647 ([DOI:10.1002/jcc.27269](  https://doi.org/10.1002/jcc.27269))
 
@@ -89,9 +91,11 @@ Our interests lie at the interface between theoretical/computational chemistry a
 
 - 27. "Chemical Synthesis, Crystal Structure and Enzymatic Evaluation of a Dinucleotide Spore Photoproduct Analogue Containing Formacetal Linker," Lin, G.; Chen, C.-H.; Pink, M.; **Pu, J.**; Li, L. *Chem. Eur. J.* **2011**, *17*, 9658-9668.
 
-#### Before IUPUI ####
+### Before IUPUI ###
 
 ## People
+
+### Current group members ###
 
 ![](files/jpu.JPG){fig-align="left"} <br>
 Jingzhi Pu (PI) <br>
@@ -111,7 +115,7 @@ Tinh Ho (3rd year PhD student; co-advised by Prof. Partha Basu) <br><br>
 ![](files/HysumQazi_sm.png){fig-align="left"} <br>
 Hysum Qazi (undergraduate researcher; UROP Scholar: 2024-2026) <br><br>
 
-#### Former Group Members ####
+### Former group members ###
 
 <br>
 ![](files/RyanSnyder.jpg){fig-align="left"} <br>
@@ -132,7 +136,7 @@ BS: IU Bloomington <br><br>
 
 ## News
 
-#### 2015 ####
+### 2015 ###
 - Sept: Jingzhi Pu presented at the [Midwest Computational Biomolecular Modeling Symposium](https://www.ks.uiuc.edu/Announcements/Symposium/) at UIUC (read [Editorial Overview](https://www-s.ks.uiuc.edu/History/symposium/)).
 - Aug: Jingzhi Pu presented at the [ACS 250th National Meeting](https://www.acs.org/content/acs/en/meetings/fall-2015.html) in Boston.
 - Aug: Jingzhi Pu's [R15 grant](https://reporter.nih.gov/search/CyO8qZgafU2fzbCetM92HA/project-details/8958346) is funded by NIH.
@@ -141,19 +145,19 @@ BS: IU Bloomington <br><br>
 - Apr: Jingzhi Pu received an International Travel Grant from the Purdue Research Foundation.
 - Feb: Jingzhi Pu presented a [Mechanical Engineering seminar](https://engr.iupui.edu/departments/me/research/seminars/upcoming.php) at IUPUI.
 
-#### 2014 ####
+### 2014 ###
 - Oct: Jingzhi Pu gave a talk at the [Martin Karplus Celebration Symposium](https://martinkarplus.net/). 
 - May: Jingzhi Pu received a Summer Faculty Grant from the Purdue Research Foundation.
 - Apr: Mulpuri Nagaraju (Raju) joined the lab as a postdoc.
 
-#### 2013 ####
+### 2013 ###
 - Sept: Pedro Ojeda-May, Yan Zhou, and Jingzhi Pu presented at the [ACS 246th National Meeting](https://www.acs.org/content/acs/en/meetings/fall-2013.html) in Indianapolis.
 - Aug: Jingzhi Pu co-organized a [TSRC Workshop](https://www.telluridescience.org/meetings/workshop-details?wid=376).
 - July: Jingzhi Pu presented at a CHARMM Developers' Meeting in Zurich. 
 - June: Jacob Lucas from [Arsenal Tech High School](https://www.716.ips.k12.in.us/) came back to the lab for his second [SEED](https://portal.acs.org/portal/acs/corg/content?_nfpb=true&_pageLabel=PP_TRANSITIONMAIN&node_id=1588&use_sec=false&sec_url_var=region1&__uuid=f05dced4-fb8f-4e50-9ab0-71bd0e60efa1) research internship. 
 - Jan: Jingzhi Pu gave a physical chemistry seminar at Purdue University.
 
-#### 2012 ####
+### 2012 ###
 - Nov: Jingzhi Pu gave a seminar in the Department of Chemistry at Northern Kentucky University. 
 - June: Jacob Lucas from [Arsenal Tech High School](https://www.716.ips.k12.in.us/) joined the lab for a [SEED](https://portal.acs.org/portal/acs/corg/content?_nfpb=true&_pageLabel=PP_TRANSITIONMAIN&node_id=1588&use_sec=false&sec_url_var=region1&__uuid=f05dced4-fb8f-4e50-9ab0-71bd0e60efa1) research internship. 
 - May: Jingzhi Pu visited and presented at the [Laboratory of Computational Biology at NIH/NHLBI](https://www.lobos.nih.gov/lcb/).
@@ -161,7 +165,7 @@ BS: IU Bloomington <br><br>
 - Apr: Cornelius Audu received a “Second Place” poster award at the [2012 Research Day](https://research.iupui.edu/enterprise/archive/2012/enterprise-04-23.html) event. [read more](https://chem.iupui.edu/news/science-students-honored-2012-research-day).
 - Jan: Four students (Hongdi Bai, Brett Palencer, Anne Cook, and Kimberly Adams) joined the lab for undergraduate research.
 
-#### 2011 ####
+### 2011 ###
 - Nov: Jingzhi Pu presented a [BioMath](https://www.math.iupui.edu/~jarciero/Biomath.html) seminar at IUPUI. 
 - Nov: Cornelius Audu was selected to attend the [Berkeley Edge Conference](https://ls.berkeley.edu/bep/conference).  
 - Oct: Pyrite - the group high performance computing cluster (HPCC) is in production.
