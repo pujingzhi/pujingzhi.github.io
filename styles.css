@@ -35,6 +35,12 @@ text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   display: none;
 }
 
+@media (max-width: 768px) {
+  .quarto-title-banner {
+    background-size: 80%;  /* fit smaller for mobile */
+  }
+}
+
 ul {
   margin-left: 0em;   /* default is around 2em */
   padding-left: 1.2em;
