@@ -111,7 +111,7 @@ Our interests lie at the interface between theoretical/computational chemistry a
 Jingzhi Pu (PI) <br>
 Postdoc: Harvard University (2005-2010; with with [Martin Karplus](https://en.wikipedia.org/wiki/Martin_Karplus)) <br>
 Postdoc: University of Minnesota (2004-2025; with [Jiali Gao](https://jialigao.org/)) <br>
-PhD: University of Minnesota (2004; with [Donald G. Truhlar](https://comp.chem.umn.edu/truhlar Donald G. Truhlar)) <br>
+PhD: University of Minnesota (2004; with [Donald G. Truhlar](https://comp.chem.umn.edu/truhlar)) <br>
 BS, Peking University (1999) <br><br>
 
 ![](files/DongruLi.jpg){fig-align="left"} <br>
