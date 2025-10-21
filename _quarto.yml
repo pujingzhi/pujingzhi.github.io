@@ -24,6 +24,8 @@ website:
         text: Publications
       - href: teaching.qmd
         text: Teaching
+      - href: contact.qmd
+        text: Contact
   page-navigation: true
 
   # Without this, the page footer will not display. It is removed in index.qmd
@@ -41,7 +43,7 @@ website:
 
 format:
   html:
-    banner: files/Pu_IU_Indy_Banner.svg
+    title-block-banner: true # Enable banner for title block
     css: styles.css
     theme:
       light: [simplex, custom.scss]
