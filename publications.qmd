@@ -19,6 +19,9 @@ about:
   image-width: 215px
 ---
 
+:::{#heading}
+:::
+
 ### Publications ###
 
 - 60. "Anisotropically Shaped Plasmonic WO3–x Nanostructure-Driven Ultrasensitive SERS Detection and Machine Learning-Based Differentiation of Nitro-Explosives," Simas, M. V.; Davis Jr, G. A.; Hati, S.; **Pu, J.**; Goodpaster, J. V.; Sardar, R. *ACS Appl. Mater. Interfaces* **2024**, *17*, 7 ([DOI:10.1021/acsami.4c19673](https://doi.org/10.1021/acsami.4c19673)).
