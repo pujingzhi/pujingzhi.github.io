@@ -1,5 +1,5 @@
 ---
-titel: "News"
+title: "News"
 #title: Jingzhi Pu
 subtitle: Associate Professor
 description: |
