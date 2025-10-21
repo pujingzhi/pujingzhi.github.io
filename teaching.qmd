@@ -1,0 +1,17 @@
+---
+title: "Teaching"
+---
+
+- Fall 2025: C362 - Physical Chemistry of Molecules (Lecture + Recitation)
+- Spring 2025: C696 - Computational Chemistry and Molecular Modeling (Lecture + Lab) 
+- Spring 2016: C360 - Introductory Physical Chemistry (Lecture)
+- Fall 2015: C105 - Principles of Chemistry I (Lecture)
+- Spring 2015: C360 - Introductory Physical Chemistry (Lecture)
+- Fall 2014: C362 - Physical Chemistry of Molecules (Lecture + Recitation)
+- Spring 2014: C360 - Introductory Physical Chemistry (Lecture)
+- Fall 2013: C362 - Physical Chemistry of Molecules (Lecture + Recitation)
+- Spring 2013: C360 - Introductory Physical Chemistry (Lecture)
+- Fall 2012: C362 - Physical Chemistry of Molecules (Lecture + Recitation)
+- Spring 2012: C360 - Introductory Physical Chemistry (Lecture)
+- Fall 2011: C362 - Physical Chemistry of Molecules (Lecture + Recitation)
+- Spring 2011: C372 - Chemical Informatics II: Molecular Modeling (Lecture + Lab)
