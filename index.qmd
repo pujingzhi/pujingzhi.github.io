@@ -7,8 +7,8 @@ description: |
   Indiana University Indianapolis<br>
   402 N. Blackford St., LD 326<br>
   Indianapolis, IN, USA
-  
-  [[Google Map](https://maps.app.goo.gl/gsY6GJxhxzBsWk1H7)] &ensp; [[jpu@iu.edu](mailto:jpu@iu.edu)] &ensp; [[CV](./files/JPu-CV.pdf)] &ensp; [[GitHub](https://github.com/pujingzhi)] &ensp; [[Google Scholar](https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en)]
+
+  [[ORCID](https://orcid.org/0000-0002-3042-335X)] &ensp; [[jpu@iu.edu](mailto:jpu@iu.edu)] &ensp; [[CV](./files/JPu-CV.pdf)] &ensp; [[GitHub](https://github.com/pujingzhi)] &ensp; [[Google Scholar](https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en)]
 
 navbar: false
 about:
@@ -50,6 +50,14 @@ Postdoc, University of Minnesota (with [Jiali Gao](https://jialigao.org/)); Harv
 <br>
 <br>
 
+##### Dongru Li (3rd-year PhD student) #####
+![](files/DongruLi.JPG){fig-align="left"}  
+
+##### Tihn Ho (3rd-year PhD student) #####
+![](files/TinhHo.JPG){fig-align="left"}  
+
+##### Hysum Qazi (undergraduate student) #####
+![](files/HysumQazi_sm.PNG){fig-align="left"}  
 
 ## Publications
 
