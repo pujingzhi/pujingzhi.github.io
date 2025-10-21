@@ -1,6 +1,25 @@
 ---
-title: "Teaching"
+title: Jingzhi Pu
+subtitle: Associate Professor
+description: |
+  <!-- [Theoretical and Computational Chemistry Lab](https://pujingzhi.github.io/)<br> -->
+  Department of Chemistry and Chemical Biology<br>
+  Indiana University Indianapolis<br>
+  402 N. Blackford St., LD 326<br>
+  Indianapolis, IN, USA
+
+  [[ORCID](https://orcid.org/0000-0002-3042-335X)] &ensp; [[Google Scholar](https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en)] &ensp; [[GitHub](https://github.com/pujingzhi)] &ensp; [[CV](./files/JPu-CV.pdf)] &ensp; [[E-mail](mailto:jpu@iu.edu)] 
+
+navbar: false
+about:
+  id: heading
+  template: solana
+  image: files/jpu_photo.png
+  image-shape: round
+  image-width: 215px
 ---
+
+#### Teaching ####
 
 - Fall 2025: C362 - Physical Chemistry of Molecules (Lecture + Recitation)
 - Spring 2025: C696 - Computational Chemistry and Molecular Modeling (Lecture + Lab) 
