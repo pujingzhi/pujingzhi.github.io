@@ -26,7 +26,7 @@ about:
 
 Our interests lie at the interface between theoretical/computational chemistry and biophysics. The current research in the lab is directed towards understanding how biomolecules perform their functions via dynamical motions that are encoded in their three dimensional structures. Ongoing projects include computer simulations of ABC-transporters and development of combined quantum mechanical/molecular mechanical (QM/MM) methods. 
 
-| ![](files/MalEFGK2.png){fig-align="center" width="250px"} | ![](files/tt_sp.png){fig-align="center" width="250px"} | ![](files/qmmm.png){fig-align="center" width="250px"} |
+| ![](files/MalEFGK2.png){fig-align="center" width="250px"} | ![](files/tt_sp.png){fig-align="center" width="220px"} | ![](files/qmmm.png){fig-align="center" width="220px"} |
 |:---------------------------------------------------------:|:------------------------------------------------------:|:------------------------------------------------------:|
 
 ## Publications
@@ -88,6 +88,8 @@ Our interests lie at the interface between theoretical/computational chemistry a
 - 28. "Expanding the Horizon of the Thymine Isostere Biochemistry: Unique Cyclobutane Dimers Formed via Photoreaction Between a Thymine and a Toluene Residue in the Dinucleotide Framework,” Liu, D.; Zhou, Y.; **Pu, J.**; Li, L. *Chem. Eur. J.* **2012**, *18*, 7823-7833.
 
 - 27. "Chemical Synthesis, Crystal Structure and Enzymatic Evaluation of a Dinucleotide Spore Photoproduct Analogue Containing Formacetal Linker," Lin, G.; Chen, C.-H.; Pink, M.; **Pu, J.**; Li, L. *Chem. Eur. J.* **2011**, *17*, 9658-9668.
+
+#### Before IUPUI ####
 
 ## People
 
