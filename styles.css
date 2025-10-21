@@ -5,17 +5,20 @@
   background-repeat: no-repeat;
   background-position: center;
   color: white; /* Adjust text color for contrast */
-  padding: 50px 0; /* Adjust padding as needed */
+  padding: 0; /* Adjust padding as needed */
 }
 
 .quarto-title-block-banner {
   background: none; /* disable */
 }
 
-/* .quarto-title-banner h1, */
-/* .quarto-title-banner p { */
-/*  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add shadow for readability */
-/* } */
+/* Add shadow for readability */
+/* 
+.quarto-title-banner h1, 
+.quarto-title-banner p { 
+text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+} 
+*/
 
 /* Hide banner text in Quarto title block */
 .quarto-title-banner h1,
