@@ -52,9 +52,9 @@ title: "Publications"
 
 - 36. "Toward Determining ATPase Mechanism in ABC Transporters: Development of the Reaction Path-Force Matching QM/MM Method," Zhou, Y.; Ojeda-May, P.; Nagaraju, M.; **Pu, J.** *Methods in Enzymology* (Computational approaches for studying enzyme mechanism) **2016**, *577*, 185-212 (invited Article) ([DOI:10.1016/bs.mie.2016.05.054](https://doi.org/10.1016/bs.mie.2016.05.054)).
 
-- 35. "Treating Electrostatics with Wolf Summation in Combined Quantum Mechanical and Molecular Mechanical Simulations,” Ojeda-May, P.ǁ; Pu, J.†ǂ J. Chem. Phys. 2015, 143, 174111 ([DOI:10.1063/1.4934880](https://dx.doi.org/10.1063/1.4934880)).
+- 35. "Treating Electrostatics with Wolf Summation in Combined Quantum Mechanical and Molecular Mechanical Simulations,” Ojeda-May, P.; **Pu, J.** *J. Chem. Phys.* **2015**, *143*, 174111 ([DOI:10.1063/1.4934880](https://dx.doi.org/10.1063/1.4934880)).
 
-- 34. "Trapping the ATP Binding State Leads to a Detailed Understanding of the F1-ATPase Mechanism,” Nam, K.; Pu, J.ǂ; Karplus, M. Proc. Natl. Acad. Sci. USA 2014, 111, 17851-17856 ([DOI:10.1073/pnas.1419486111](https://dx.doi.org/10.1073/pnas.1419486111)). 
+- 34. "Trapping the ATP Binding State Leads to a Detailed Understanding of the F1-ATPase Mechanism,” Nam, K.; **Pu, J.**; Karplus, M. *Proc. Natl. Acad. Sci. USA* **2014**, *111*, 17851-17856 ([DOI:10.1073/pnas.1419486111](https://dx.doi.org/10.1073/pnas.1419486111)). 
 
 - 33. "Assessing the Accuracy of the Isotropic Periodic Sum Method through Madelung Energy Computation,” Ojeda-May, P.; **Pu, J.** *J. Chem. Phys.* **2014**, *140*, 164106 ([DOI:10.1063/1.4871871](https://dx.doi.org/10.1063/1.4871871)). 
 
