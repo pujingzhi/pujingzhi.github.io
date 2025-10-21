@@ -26,12 +26,12 @@ about:
 
 Our interests lie at the interface between theoretical/computational chemistry and biophysics. The current research in the lab is directed towards understanding how biomolecules perform their functions via dynamical motions that are encoded in their three dimensional structures. Ongoing projects include computer simulations of ABC-transporters and development of combined quantum mechanical/molecular mechanical (QM/MM) methods. 
 
-| ![](files/MalEFGK2.png){fig-alt="Maltose transporter from E. coli" fig-align="left" width="250px"} | ![](files/tt_sp.png){fig-alt="SP lesion in DNA" fig-align="center" width="220px"} | ![](files/qmmm.png){fig-alt="QM/MM" fig-align="center" width="220px"} |
+| ![](files/MalEFGK2.png){fig-alt="Maltose transporter from E. coli" fig-align="left" width="300px"} | ![](files/tt_sp.png){fig-alt="SP lesion in DNA" fig-align="center" width="250px"} | ![](files/qmmm.png){fig-alt="QM/MM" fig-align="center" width="250px"} |
 |:--------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|:---------------------------------------------------------------------:|
 
 ## Publications
 
-### At IUPUI/IUI ###
+### At IU ###
 
 - 56. "Training Machine Learning Potentials for Reactive Systems. A Colab Tutorial on Basic Models," Pan, X.; Snyder, R.; Wang, J.-N.; Lander, C.; Wickizer, C.; Van. R.; Chesney, A.; Xue, Y.; Mao, Y.; Mei, Y.; **Pu, J.**; Shao, Y. *J. Comput. Chem.* 2024, *45*, 638-647 ([DOI:10.1002/jcc.27269](  https://doi.org/10.1002/jcc.27269))
 
@@ -91,12 +91,12 @@ Our interests lie at the interface between theoretical/computational chemistry a
 
 - 27. "Chemical Synthesis, Crystal Structure and Enzymatic Evaluation of a Dinucleotide Spore Photoproduct Analogue Containing Formacetal Linker," Lin, G.; Chen, C.-H.; Pink, M.; **Pu, J.**; Li, L. *Chem. Eur. J.* **2011**, *17*, 9658-9668.
 
-### Before IUPUI ###
+### Before IU ###
 
 ## People
 
 ### Current group members ###
-
+<br>
 ![](files/jpu.JPG){fig-align="left"} <br>
 Jingzhi Pu (PI) <br>
 Postdoc: Harvard University (2005-2010; with with [Martin Karplus](https://en.wikipedia.org/wiki/Martin_Karplus)) <br>
@@ -116,7 +116,6 @@ Tinh Ho (3rd year PhD student; co-advised by Prof. Partha Basu) <br><br>
 Hysum Qazi (undergraduate researcher; UROP Scholar: 2024-2026) <br><br>
 
 ### Former group members ###
-
 <br>
 ![](files/RyanSnyder.jpg){fig-align="left"} <br>
 Ryan Snyder (Ph.D. 2023; currently, postdoc at Rutgers) <br>
