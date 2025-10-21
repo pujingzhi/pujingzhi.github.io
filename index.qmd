@@ -38,7 +38,7 @@ Our interests lie at the interface between theoretical/computational chemistry a
 ## People
 ---
 ##### Jingzhi Pu (PI) #####
-![](files/jpu.JPG){fig-align="left"}
+![](files/jpu.JPG){fig-align="left"}  <br>
 
 Associate Professor <br>
 Department of Chemistry & Chemical Biology <br>
