@@ -13,7 +13,7 @@ description: |
 navbar: true
 
 banner: 
-  image: files/Pu_IU_Indy_Banner.svg   # path to your banner image
+  image: files/Pu_IU_Indy_Banner.png   # path to your banner image
   position: center          # or top, bottom, left, right
   style: "height: 250px; object-fit: cover;"  # adjust height as you like
 
