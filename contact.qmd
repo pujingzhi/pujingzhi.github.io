@@ -7,7 +7,7 @@ title: "Contact"
 :::{.about-flex style="display: flex; align-items: center;"}
 
 <div>
-**Jingzhi Pu**  
+Jingzhi Pu  
 Associate Professor  
 Department of Chemistry and Chemical Biology  
 Indiana University Indianapolis  
