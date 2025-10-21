@@ -1,4 +1,5 @@
 ---
+![](files/Pu_IU_Indy_Banner.svg){fig-align="left"}
 title: Jingzhi Pu
 subtitle: Associate Professor
 description: |
