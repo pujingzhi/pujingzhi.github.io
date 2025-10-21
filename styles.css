@@ -1,7 +1,7 @@
 .quarto-title-banner {
   background-image: url("files/Pu_IU_Indy_Banner.svg"); /* Path to your banner image */
-  background-size: cover;  /* use 'cover' to fill the container */
-  height: 150px;
+  background-size: 65%;  /* use 'cover' to fill the container */
+  height: 200px;
   background-repeat: no-repeat;
   background-position: center;
   color: white; /* Adjust text color for contrast */
