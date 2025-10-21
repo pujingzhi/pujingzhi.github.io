@@ -1,5 +1,6 @@
 ---
-title: Jingzhi Pu
+#title: Pu Lab
+#title: Jingzhi Pu
 subtitle: Associate Professor
 description: |
   <!-- [Theoretical and Computational Chemistry Lab](https://pujingzhi.github.io/)<br> -->
