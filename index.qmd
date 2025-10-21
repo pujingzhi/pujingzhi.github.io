@@ -8,7 +8,7 @@ description: |
   402 N. Blackford St., LD 326<br>
   Indianapolis, IN, USA
   
-  [[Google Map](https://maps.app.goo.gl/gsY6GJxhxzBsWk1H7)] &ensp; [[jpu@iu.edu](mailto:jpu@iu.edu)] &ensp; [[CV](./files/JPu-CV.pdf)] &ensp; [[GitHub](https://github.com/pujingzhi)] &ensp; [[Google Scholar](https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en)]
+  <!-- [[Google Map](https://maps.app.goo.gl/gsY6GJxhxzBsWk1H7)] &ensp; [[jpu@iu.edu](mailto:jpu@iu.edu)] &ensp; [[CV](./files/JPu-CV.pdf)] &ensp; [[GitHub](https://github.com/pujingzhi)] &ensp; [[Google Scholar](https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en)] -->
 
 navbar: false
 about:
@@ -23,7 +23,7 @@ about:
 :::
 
 ## Background
-
+---
 - Associate Professor, Indiana University Indianapolis (2017--present)
 - Assistant Professor, Indiana University-Purdue University Indianapolis (2010--2017)
 - Postdoc, Harvard University (2005--2010)
@@ -32,17 +32,17 @@ about:
 - B.Sc., Peking University, Chemistry (1999)
 
 ## Research
-
+---
 Our interests lie at the interface between theoretical/computational chemistry and biophysics. The current research in the lab is directed towards understanding how biomolecules perform their functions via dynamical motions that are encoded in their three dimensional structures. Ongoing projects include computer simulations of ABC-transporters and development of combined quantum mechanical/molecular mechanical (QM/MM) methods. 
 
 ## People
-
+---
 ##### Jingzhi Pu (PI) #####
 ![](files/jpu.JPG){fig-align="left"}
 
-Assistant Professor <br>
+Associate Professor <br>
 Department of Chemistry & Chemical Biology <br>
-Indiana University Indianapolis (IUPUI) <br> 
+Indiana University Indianapolis (IUI) <br> 
 
 BS, Peking University <br>
 Ph.D., University of Minnesota (with [Donald G. Truhlar](https://comp.chem.umn.edu/truhlar Donald G. Truhlar)) <br>
@@ -52,7 +52,7 @@ Postdoc, University of Minnesota (with [Jiali Gao](https://jialigao.org/)); Harv
 
 
 ## Publications
-
+---
 - 56. "Training Machine Learning Potentials for Reactive Systems. A Colab Tutorial on Basic Models," Pan, X.; Snyder, R.; Wang, J.-N.; Lander, C.; Wickizer, C.; Van. R.; Chesney, A.; Xue, Y.; Mao, Y.; Mei, Y.; **Pu, J.**; Shao, Y. *J. Comput. Chem.* 2024, *45*, 638-647 ([DOI:10.1002/jcc.27269](  https://doi.org/10.1002/jcc.27269))
 
 - 55. "Polyrate 2023: A Computer Program for the Calculation of Chemical Reaction Rates for Polyatomics. New Version Announcement," Meana-Paneda, R.; Zheng, J.; Bao, J. L.; Zhang, S.; Lynch, B. J.; Corchado, J. C.; Chuang, Y.-Y.; Fast, P. L.; Hu, W.-P.; Liu, Y.-P.; Lynch, G. C.; Nguyen, K. A.; Jackels, C. F.; Fernandez-Ramos, A.; Ellingson, B. A.; Melissas, V. S.; Villa, J.; Rossi, I.; Coitino, E. L.; **Pu, J.**; Albu, T. V.; Zhang, R. M.; Xu, X.; Ratkiewicz, A.; Steckler, R.; Garrett, B. C.; Isaacson, A. D.; Truhlar, D. G. *Comput. Phys. Commun.* **2024**, *294*, 108933. 
@@ -80,6 +80,36 @@ Postdoc, University of Minnesota (with [Jiali Gao](https://jialigao.org/)); Harv
 - 44. "Machine-Learning-Assisted Free Energy Simulation of Solution-Phase and Enzyme Reactions," Pan, X.; Yang, J.; Van, R.; Epifanovsky, E.; Ho, J.; Huang, J.; **Pu, J.**, Mei, Y.; Nam, K.; Shao, Y. *J. Chem. Theory Comput.* **2021**, *17*, 5745-5758. 
 
 - 43. "Reaction Path-Force Matching in Collective Variables: Determining Ab Initio QM/MM Free Energy Profiles by Fitting Mean Force," Bryant, K.; Snyder, R.; Nagaraju, M.; Zhou, Y.; Ojeda-May. P.; Keeton, S.; Hege, M.; Shao, Y.; **Pu, J.** *J. Chem. Theory Comput.* **2021**, *17*, 4961-4980.
+
+- 42. "Interligand Communication in a Metal Mediated LL’CT System – A Case Study," Dille, S. A.; Colston, K.; Ratvasky, S. C.; **Pu, J.**; Basu, P. *RSC Adv.* **2021**, *11*, 24381-24386. 
+
+- 41. "Identifying Thermal Decomposition Products of Nitrate Ester Explosives via Gas Chromatography/Vacuum UV (VUV) Spectroscopy: An Experimental and Computational Study," Cruse, C. A.; **Pu, J.**; Goodpaster, J. V. *Applied Spec.* **2020**, *74*, 1486-1495.
+
+- 40. "Accelerated Computation of Free Energy Profile at ab Initio Quantum Mechanical/Molecular Mechanics Accuracy via a Semi-Empirical Reference Potential. II. Recalibrating Semi-Empirical Parameters with Force Matching," Pan, X.; Li, P.; Ho, J.; **Pu, J.**; Mei, Y.; Shao, Y. *Phys. Chem. Chem. Phys.* **2019**, *21*, 20595-20605. 
+
+- 39. "Exploring Cycloreversion Reaction of Cyclobutane Pyrimidine Dimers Quantum Mechanically," Huang, D.; Chen, S.; Pu, J.; Tan, X.; Zhou, Y. *J. Phys. Chem. A* **2019**, *123*, 2025-2039. 
+
+- 38. "Mapping Free Energy Paths for ATP Hydrolysis in the E. coli. ABC-Transporter HlyB by the String Method," Zhou, Y.; Ojeda-May, P.; Nagaraju, M.; Kim, B.; **Pu, J.** *Molecules* **2018**, *23*, 2652. 
+
+- 37. "Elucidating the Role of Surface Passivating Ligand Structural Parameters in Hole Wave Function Delocalization in Semiconductor Cluster Molecules,” Teunis, M. B.; Mulpuri, N.; Dutta, P; **Pu, J.**; Muhoberac, B. B.; Sardar, R.; Agarwal, M. *Nanoscale* **2017**, *9*, 14127-14138. 
+
+- 36. "Toward Determining ATPase Mechanism in ABC Transporters: Development of the Reaction Path-Force Matching QM/MM Method," Zhou, Y.; Ojeda-May, P.; Nagaraju, M.; **Pu, J.** *Methods in Enzymology* (Computational approaches for studying enzyme mechanism) **2016**, *577*, 185-212 (invited Article). 
+
+- 35. "Treating Electrostatics with Wolf Summation in Combined Quantum Mechanical and Molecular Mechanical Simulations,” Ojeda-May, P.ǁ; Pu, J.†ǂ J. Chem. Phys. 2015, 143, 174111. 
+
+- 34. "Trapping the ATP Binding State Leads to a Detailed Understanding of the F1-ATPase Mechanism,” Nam, K.; Pu, J.ǂ; Karplus, M. Proc. Natl. Acad. Sci. USA 2014, 111, 17851-17856. 33. “Assessing the Accuracy of the Isotropic Periodic Sum Method through Madelung Energy Computation,” Ojeda-May, P.ǁ; Pu, J.†ǂ J. Chem. Phys. 2014, 140, 164106. 
+
+- 32. "Reaction Path-Force Matching: A New Strategy of Fitting Specific Reaction Parameters for Semiempirical Methods in QM/MM Simulations,” Zhou, Y.; **Pu, J.** *J. Chem. Theory Comput.* **2014**, *10*, 3038-3054. 
+
+- 31. “Isotropic Periodic Sum Treatment of Long-Range Electrostatic Interactions in Combined Quantum Mechanical and Molecular Mechanical Calculations,” Ojeda-May, P.; **Pu, J.** *J. Chem. Theory Comput.* **2014**, *10*, 134-145. 
+
+- 30. "Replica Exchange Molecular Dynamics Simulations of an α/β-type Small Acid Soluble Protein (SASP)," Ojeda-May, P.; **Pu, J.** *Biophys. Chem.* **2013**, *184*, 17-21. 
+
+- 29. "H-loop Histidine Catalyzes ATP Hydrolysis in the E. coli ABC-Transporter HlyB,” Zhou, Y.; Ojeda-May, P.; **Pu, J.** *Phys. Chem. Chem. Phys.* **2013**, *15*, 15811-15815. 
+
+- 28. "Expanding the Horizon of the Thymine Isostere Biochemistry: Unique Cyclobutane Dimers Formed via Photoreaction Between a Thymine and a Toluene Residue in the Dinucleotide Framework,” Liu, D.; Zhou, Y.; **Pu, J.**; Li, L. *Chem. Eur. J.* **2012**, *18*, 7823-7833.
+
+- 27. "Chemical Synthesis, Crystal Structure and Enzymatic Evaluation of a Dinucleotide Spore Photoproduct Analogue Containing Formacetal Linker," Lin, G.; Chen, C.-H.; Pink, M.; **Pu, J.**; Li, L. *Chem. Eur. J.* **2011**, *17*, 9658-9668.
 
 <!-- Multi-scale clustering and source separation of InSight mission seismic data**  
 A. Siahkoohi, R. Morel, R. Balestriero, E. Allys, G. Sainton, T. Kawamura, and M. V. de Hoop  
@@ -117,23 +147,24 @@ S. Alemohammad, J. Casco-Rodriguez, L. Luzi, A. I. Humayun, H. Babaei, D. LeJeun
 ^[13](https://magazine.rice.edu/winter-2025/ais-mad-loops)^]  
 [[self-consuming AI resources](https://dsp.rice.edu/ai-loops/)] -->
 
+## Google Scholar](https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en)
 ---
 
 ## News
-
 ---
-## Teaching
 
-- * Fall 2025: C362 - Physical Chemistry of Molecules (Lecture + Recitation)
-- * Spring 2025: C696 - Computational Chemistry and Molecular Modeling (Lecture + Lab) 
-- * Spring 2016: C360 - Introductory Physical Chemistry (Lecture)
-- * Fall 2015: C105 - Principles of Chemistry I (Lecture)
-- * Spring 2015: C360 - Introductory Physical Chemistry (Lecture)
-- * Fall 2014: C362 - Physical Chemistry of Molecules (Lecture + Recitation)
-- * Spring 2014: C360 - Introductory Physical Chemistry (Lecture)
-- * Fall 2013: C362 - Physical Chemistry of Molecules (Lecture + Recitation)
-- * Spring 2013: C360 - Introductory Physical Chemistry (Lecture)
-- * Fall 2012: C362 - Physical Chemistry of Molecules (Lecture + Recitation)
-- * Spring 2012: C360 - Introductory Physical Chemistry (Lecture)
-- * Fall 2011: C362 - Physical Chemistry of Molecules (Lecture + Recitation)
-- * Spring 2011: C372 - Chemical Informatics II: Molecular Modeling (Lecture + Lab)
+## Teaching
+---
+- Fall 2025: C362 - Physical Chemistry of Molecules (Lecture + Recitation)
+- Spring 2025: C696 - Computational Chemistry and Molecular Modeling (Lecture + Lab) 
+- Spring 2016: C360 - Introductory Physical Chemistry (Lecture)
+- Fall 2015: C105 - Principles of Chemistry I (Lecture)
+- Spring 2015: C360 - Introductory Physical Chemistry (Lecture)
+- Fall 2014: C362 - Physical Chemistry of Molecules (Lecture + Recitation)
+- Spring 2014: C360 - Introductory Physical Chemistry (Lecture)
+- Fall 2013: C362 - Physical Chemistry of Molecules (Lecture + Recitation)
+- Spring 2013: C360 - Introductory Physical Chemistry (Lecture)
+- Fall 2012: C362 - Physical Chemistry of Molecules (Lecture + Recitation)
+- Spring 2012: C360 - Introductory Physical Chemistry (Lecture)
+- Fall 2011: C362 - Physical Chemistry of Molecules (Lecture + Recitation)
+- Spring 2011: C372 - Chemical Informatics II: Molecular Modeling (Lecture + Lab)
