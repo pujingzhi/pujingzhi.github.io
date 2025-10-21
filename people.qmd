@@ -1,5 +1,5 @@
 ---
-title: Peolple
+title: "Peolple"
 #title: Jingzhi Pu
 subtitle: Associate Professor
 description: |
