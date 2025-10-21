@@ -75,21 +75,23 @@ Our interests lie at the interface between theoretical/computational chemistry a
 
 - 36. "Toward Determining ATPase Mechanism in ABC Transporters: Development of the Reaction Path-Force Matching QM/MM Method," Zhou, Y.; Ojeda-May, P.; Nagaraju, M.; **Pu, J.** *Methods in Enzymology* (Computational approaches for studying enzyme mechanism) **2016**, *577*, 185-212 (invited Article). 
 
-- 35. "Treating Electrostatics with Wolf Summation in Combined Quantum Mechanical and Molecular Mechanical Simulations,” Ojeda-May, P.ǁ; Pu, J.†ǂ J. Chem. Phys. 2015, 143, 174111. 
+- 35. "Treating Electrostatics with Wolf Summation in Combined Quantum Mechanical and Molecular Mechanical Simulations,” Ojeda-May, P.ǁ; Pu, J.†ǂ J. Chem. Phys. 2015, 143, 174111 ([DOI:10.1063/1.4934880](https://dx.doi.org/10.1063/1.4934880)).
 
-- 34. "Trapping the ATP Binding State Leads to a Detailed Understanding of the F1-ATPase Mechanism,” Nam, K.; Pu, J.ǂ; Karplus, M. Proc. Natl. Acad. Sci. USA 2014, 111, 17851-17856. 33. “Assessing the Accuracy of the Isotropic Periodic Sum Method through Madelung Energy Computation,” Ojeda-May, P.ǁ; Pu, J.†ǂ J. Chem. Phys. 2014, 140, 164106. 
+- 34. "Trapping the ATP Binding State Leads to a Detailed Understanding of the F1-ATPase Mechanism,” Nam, K.; Pu, J.ǂ; Karplus, M. Proc. Natl. Acad. Sci. USA 2014, 111, 17851-17856 ([DOI:10.1073/pnas.1419486111](https://dx.doi.org/10.1073/pnas.1419486111)). 
 
-- 32. "Reaction Path-Force Matching: A New Strategy of Fitting Specific Reaction Parameters for Semiempirical Methods in QM/MM Simulations,” Zhou, Y.; **Pu, J.** *J. Chem. Theory Comput.* **2014**, *10*, 3038-3054. 
+- 33. "Assessing the Accuracy of the Isotropic Periodic Sum Method through Madelung Energy Computation,” Ojeda-May, P.; **Pu, J.** *J. Chem. Phys.* **2014**, *140*, 164106 ([DOI:10.1063/1.4871871](https://dx.doi.org/10.1063/1.4871871)). 
 
-- 31. “Isotropic Periodic Sum Treatment of Long-Range Electrostatic Interactions in Combined Quantum Mechanical and Molecular Mechanical Calculations,” Ojeda-May, P.; **Pu, J.** *J. Chem. Theory Comput.* **2014**, *10*, 134-145. 
+- 32. "Reaction Path-Force Matching: A New Strategy of Fitting Specific Reaction Parameters for Semiempirical Methods in QM/MM Simulations,” Zhou, Y.; **Pu, J.** *J. Chem. Theory Comput.* **2014**, *10*, 3038-3054 ([DOI:10.1021/ct4009624](https://dx.doi.org/10.1021/ct4009624)).
 
-- 30. "Replica Exchange Molecular Dynamics Simulations of an α/β-type Small Acid Soluble Protein (SASP)," Ojeda-May, P.; **Pu, J.** *Biophys. Chem.* **2013**, *184*, 17-21. 
+- 31. “Isotropic Periodic Sum Treatment of Long-Range Electrostatic Interactions in Combined Quantum Mechanical and Molecular Mechanical Calculations,” Ojeda-May, P.; **Pu, J.** *J. Chem. Theory Comput.* **2014**, *10*, 134-145 ([DOI:10.1021/ct400724d](https://dx.doi.org/10.1021/ct400724d)).
 
-- 29. "H-loop Histidine Catalyzes ATP Hydrolysis in the E. coli ABC-Transporter HlyB,” Zhou, Y.; Ojeda-May, P.; **Pu, J.** *Phys. Chem. Chem. Phys.* **2013**, *15*, 15811-15815. 
+- 30. "Replica Exchange Molecular Dynamics Simulations of an α/β-type Small Acid Soluble Protein (SASP)," Ojeda-May, P.; **Pu, J.** *Biophys. Chem.* **2013**, *184*, 17-21 ([DOI:10.1016/j.bpc.2013.07.014](https://dx.doi.org/10.1016/j.bpc.2013.07.014)). 
 
-- 28. "Expanding the Horizon of the Thymine Isostere Biochemistry: Unique Cyclobutane Dimers Formed via Photoreaction Between a Thymine and a Toluene Residue in the Dinucleotide Framework,” Liu, D.; Zhou, Y.; **Pu, J.**; Li, L. *Chem. Eur. J.* **2012**, *18*, 7823-7833.
+- 29. "H-loop Histidine Catalyzes ATP Hydrolysis in the E. coli ABC-Transporter HlyB,” Zhou, Y.; Ojeda-May, P.; **Pu, J.** *Phys. Chem. Chem. Phys.* **2013**, *15*, 15811-15815 ([DOI:10.1039/C3CP50965F](https://dx.doi.org/10.1039/C3CP50965F); see also [arXiv:1304.0052](https://arxiv.org/abs/1304.0052)).
 
-- 27. "Chemical Synthesis, Crystal Structure and Enzymatic Evaluation of a Dinucleotide Spore Photoproduct Analogue Containing Formacetal Linker," Lin, G.; Chen, C.-H.; Pink, M.; **Pu, J.**; Li, L. *Chem. Eur. J.* **2011**, *17*, 9658-9668.
+- 28. "Expanding the Horizon of the Thymine Isostere Biochemistry: Unique Cyclobutane Dimers Formed via Photoreaction Between a Thymine and a Toluene Residue in the Dinucleotide Framework,” Liu, D.; Zhou, Y.; **Pu, J.**; Li, L. *Chem. Eur. J.* **2012**, *18*, 7823-7833 ([DOI:10.1002/chem.201200816](https://dx.doi.org/10.1002/chem.201200816)).
+
+- 27. "Chemical Synthesis, Crystal Structure and Enzymatic Evaluation of a Dinucleotide Spore Photoproduct Analogue Containing Formacetal Linker," Lin, G.; Chen, C.-H.; Pink, M.; **Pu, J.**; Li, L. *Chem. Eur. J.* **2011**, *17*, 9658-9668 ([DOI:10.1002/chem.201101821](http://dx.doi.org/10.1002/chem.201101821)).
 
 ### Before IU ###
 
