@@ -37,27 +37,46 @@ Our interests lie at the interface between theoretical/computational chemistry a
 
 ## People
 
-##### Jingzhi Pu (PI) #####
-![](files/jpu.JPG){fig-align="left"}  
+#### Current Members ####
+![](files/jpu.JPG){fig-align="left"}
+Jingzhi Pu (PI)
+Postdoc: Harvard University (2005-2010; with with [Martin Karplus](https://en.wikipedia.org/wiki/Martin_Karplus)) <br>
+Postdoc: University of Minnesota (2004-2025; with [Jiali Gao](https://jialigao.org/)) <br>
+PhD: University of Minnesota (2004; with [Donald G. Truhlar](https://comp.chem.umn.edu/truhlar Donald G. Truhlar)) <br>
+BS, Peking University (1999) <br>
 
-Associate Professor <br>
-Department of Chemistry & Chemical Biology <br>
-Indiana University Indianapolis (IUI) <br> 
+![](files/DongruLi.jpg){fig-align="left"}
+Dongru Li (3rd year PhD student)
+MS: Fudan University (2023)
+BS: Henan Institute of Science and Technology (2020)
 
-BS, Peking University <br>
-Ph.D., University of Minnesota (with [Donald G. Truhlar](https://comp.chem.umn.edu/truhlar Donald G. Truhlar)) <br>
-Postdoc, University of Minnesota (with [Jiali Gao](https://jialigao.org/)); Harvard University (with [Martin Karplus](https://en.wikipedia.org/wiki/Martin_Karplus)) 
-<br>
-<br>
-
-##### Dongru Li (3rd-year PhD student) #####
-![](files/DongruLi.jpg){fig-align="left"}  
-
-##### Tihn Ho (3rd-year PhD student) #####
 ![](files/TinhHo.jpg){fig-align="left"}  
+Tinh Ho (3rd year PhD student; co-advised by Prof. Partha Basu) 
 
-##### Hysum Qazi (undergraduate student) #####
-![](files/HysumQazi_sm.png){fig-align="left"}  
+![](files/HysumQazi_sm.png){fig-align="left"} 
+Hysum Qazi (undergraduate researcher; UROP Scholar: 2024-2026)
+
+#### Former Group Members ####
+
+![](files/RyanSnyder.jpg){fig-align="left"}
+Ryan Snyder (PhD student; 2018-2023)
+PhD: Purdue/IUPUI (2023)
+BS: Indiana University Bloomington (2018)
+
+![](files/BryanKim.jpg){fig-align="left"}
+Bryant Kim (PhD student; 2018-2023)
+PhD: Purdue/IUPUI (2023)
+BS: IUPUI (2018)
+
+![](files/MellisaHege.jpg){fig-align="left"}
+Mellisa Hege (PhD student; 2018-2023)
+PhD: Purdue/IUPUI (2023)
+BS: IUPUI (2018)
+
+![](files/RyanYoung.jpg){fig-align="left"}
+Ryan Young (PhD; 2018-2023)
+PhD: Purdue/IUPUI (2023)
+BS: Indiana University Bloomington (2018)
 
 ## Publications
 
