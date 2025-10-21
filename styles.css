@@ -5,7 +5,7 @@
   background-repeat: no-repeat;
   background-position: 50px center; /* offset 50px from left edge */
   color: white; /* Adjust text color for contrast */
-  padding: 10px 0; /* Adjust padding as needed */
+  padding: 0px 0; /* Adjust padding as needed */
   background-color: white !important /* override the default */
 }
 
