@@ -43,7 +43,7 @@ format:
   html:
     banner: files/Pu_IU_Indy_Banner.svg
     css: styles.css
-        theme:
+    theme:
       light: [simplex, custom.scss]
       dark: [cyborg, custom_dark.scss]
     fontsize: 1.0em
