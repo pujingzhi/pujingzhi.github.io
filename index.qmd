@@ -51,13 +51,13 @@ Postdoc, University of Minnesota (with [Jiali Gao](https://jialigao.org/)); Harv
 <br>
 
 ##### Dongru Li (3rd-year PhD student) #####
-![](files/DongruLi.JPG){fig-align="left"}  
+![](files/DongruLi.jpg){fig-align="left"}  
 
 ##### Tihn Ho (3rd-year PhD student) #####
-![](files/TinhHo.JPG){fig-align="left"}  
+![](files/TinhHo.jpg){fig-align="left"}  
 
 ##### Hysum Qazi (undergraduate student) #####
-![](files/HysumQazi_sm.PNG){fig-align="left"}  
+![](files/HysumQazi_sm.png){fig-align="left"}  
 
 ## Publications
 
@@ -154,9 +154,6 @@ S. Alemohammad, J. Casco-Rodriguez, L. Luzi, A. I. Humayun, H. Babaei, D. LeJeun
 ^[12](https://futurism.com/ai-slowly-killing-itself),^
 ^[13](https://magazine.rice.edu/winter-2025/ais-mad-loops)^]  
 [[self-consuming AI resources](https://dsp.rice.edu/ai-loops/)] -->
-
-## [Google Scholar](https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en)
-
 
 ## News
 
