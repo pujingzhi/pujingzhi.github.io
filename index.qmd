@@ -26,7 +26,11 @@ about:
 
 Our interests lie at the interface between theoretical/computational chemistry and biophysics. The current research in the lab is directed towards understanding how biomolecules perform their functions via dynamical motions that are encoded in their three dimensional structures. Ongoing projects include computer simulations of ABC-transporters and development of combined quantum mechanical/molecular mechanical (QM/MM) methods. 
 
-| ![](files/MalEFGK2.png){fig-align="center"} |![](files/tt_sp.png{fig-align="center"} | ![](files/qmmm.png {fig-align="center"} |
+::: {layout-ncol=3}
+![](files/MalEFGK2.png){fig-alt="Maltose transporter from E. coli" width="250px"}
+![](files/tt_sp.png){fig-alt="SP lesion in DNA" width="250px"}
+![](files/qmmm.png){fig-alt="QM/MM" width="200px"}
+:::
 
 ## People
 
