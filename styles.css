@@ -37,7 +37,7 @@ text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 
 @media (max-width: 768px) {
   .quarto-title-banner {
-    background-size: 720px;  /* fit smaller for mobile */
+    background-size: 690px;  /* fit smaller for mobile */
   }
 }
 
