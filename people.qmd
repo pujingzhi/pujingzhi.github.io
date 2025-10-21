@@ -1,5 +1,5 @@
 ---
-People
+title: "People"
 ---
 
 ![](files/jpu.JPG){fig-align="left"} <br>
