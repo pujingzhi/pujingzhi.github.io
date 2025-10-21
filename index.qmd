@@ -97,7 +97,7 @@ Our interests lie at the interface between theoretical/computational chemistry a
 
 ## People
 
-### Current group members ###
+### Current group ###
 <br>
 ![](files/jpu.JPG){fig-align="left"} <br>
 Jingzhi Pu (PI) <br>
@@ -117,7 +117,7 @@ Tinh Ho (3rd year PhD student; co-advised by Prof. Partha Basu) <br><br>
 ![](files/HysumQazi_sm.png){fig-align="left"} <br>
 Hysum Qazi (undergraduate researcher; UROP Scholar: 2024-2026) <br><br>
 
-### Former group members ###
+### Former members ###
 <br>
 ![](files/RyanSnyder.jpg){fig-align="left"} <br>
 Ryan Snyder (Ph.D. 2023; currently, postdoc at Rutgers) <br>
