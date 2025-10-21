@@ -22,7 +22,7 @@ navbar: false
 :::{#heading}
 :::
 
-![](files/Pu_IU_Indy_Banner.svg){fig-align="left" width="500px"}
+![](files/Pu_IU_Indy_Banner.svg){fig-align="left" width="800px"}
 
 ### Publications ###
 
