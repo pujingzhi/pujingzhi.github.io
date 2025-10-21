@@ -22,7 +22,6 @@ about:
 :::{#heading}
 :::
 
-
 ## Background
 
 - Associate Professor, Indiana University Indianapolis (2017--present)
@@ -32,15 +31,25 @@ about:
 - Ph.D., University of Minnesota, Theoretical and Computational Chemistry (2004)
 - B.Sc., Peking University, Chemistry (1999)
 
-
 ## Research
 
 Our interests lie at the interface between theoretical/computational chemistry and biophysics. The current research in the lab is directed towards understanding how biomolecules perform their functions via dynamical motions that are encoded in their three dimensional structures. Ongoing projects include computer simulations of ABC-transporters and development of combined quantum mechanical/molecular mechanical (QM/MM) methods. 
 
+## People
 
-## Teaching
+### Jingzhi Pu (PI) ###
+![](Jpu.jpg){fig-align="left"}
 
-- [C362 - Physical Chemistry of Molecules] (Fall 2025)
+Assistant Professor <br>
+Department of Chemistry & Chemical Biology <br>
+Indiana University Indianapolis (IUPUI) <br> 
+
+BS, Peking University <br>
+Ph.D., University of Minnesota (with [Donald G. Truhlar](https://comp.chem.umn.edu/truhlar Donald G. Truhlar)) <br>
+Postdoc, University of Minnesota (with [Jiali Gao](https://jialigao.org/)); Harvard University (with [Martin Karplus](https://en.wikipedia.org/wiki/Martin_Karplus Martin Karplus) 
+<br>
+<br>
+
 
 ## Publications
 
@@ -82,7 +91,7 @@ A. Siahkoohi, R. Morel, R. Balestriero, E. Allys, G. Sainton, T. Kawamura, and M
 
 ---
 
-### Conference proceedings and presentations
+<!-- ### Conference proceedings and presentations
 
 **Self-consuming generative models go MAD**  
 S. Alemohammad, J. Casco-Rodriguez, L. Luzi, A. I. Humayun, H. Babaei, D. LeJeune, A. Siahkoohi, and R. G. Baraniuk  
@@ -106,60 +115,25 @@ S. Alemohammad, J. Casco-Rodriguez, L. Luzi, A. I. Humayun, H. Babaei, D. LeJeun
 ^[11](https://www.nytimes.com/interactive/2024/08/26/upshot/ai-synthetic-data.html),^
 ^[12](https://futurism.com/ai-slowly-killing-itself),^
 ^[13](https://magazine.rice.edu/winter-2025/ais-mad-loops)^]  
-[[self-consuming AI resources](https://dsp.rice.edu/ai-loops/)]
-
-
-**Titan: Bringing the deep image prior to implicit representations**  
-L. Luzi, D. LeJeune, A. Siahkoohi, S. Alemohammad, V. Saragadam, H. Babaei, N. Liu, Z. Wang, and R. G. Baraniuk  
-*IEEE International Conference on Acoustics, Speech and Signal Processing*, pages 6165--6169, 2024.  
-[[pdf](https://arxiv.org/abs/2211.00219)]
-[[code](https://github.com/dlej/titan-implicit-prior)]
-[[link](https://ieeexplore.ieee.org/document/10446136)]
-[[bib](https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/files/LuziLeJeuneSiahkoohiEtAl_2024.bib)]
-
-**Conditional score-based diffusion models for Bayesian inference in infinite dimensions**  
-L. Baldassari, A. Siahkoohi, J. Garnier, K. Sølna, and M. V. de Hoop  
-*Advances in Neural Information Processing Systems*, volume 36, pages 24262--24290, 2023.  
-[[pdf](https://papers.nips.cc/paper_files/paper/2023/file/4c79c359b3c5f077c0b955f93cb0f53e-Paper-Conference.pdf)]
-[[slides](https://www.dropbox.com/scl/fi/bmgnbex0zcf575fjgzybu/slides.pdf?rlkey=2rd9nhc4a6tt8s65lk5sqbz2r&dl=0)]
-[[poster](https://www.dropbox.com/scl/fi/7t9p0gogw6g7dmn8u52c6/poster.pdf?rlkey=sftpfelbglvrpi4lkn6tgp31q&dl=0)]
-[[code](https://github.com/alisiahkoohi/csgm)]
-[[link](https://papers.nips.cc/paper_files/paper/2023/hash/4c79c359b3c5f077c0b955f93cb0f53e-Abstract-Conference.html)]
-[[bib](https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/files/BaldassariSiahkoohiGarnierEtAl_2023.bib)] [featured as a [Spotlight presentation](https://nips.cc/virtual/2023/events/spotlight-posters-2023)]
+[[self-consuming AI resources](https://dsp.rice.edu/ai-loops/)] -->
 
 ---
 
-### Thesis
-
-**Deep generative models for solving geophysical inverse problems**  
-A. Siahkoohi  
-*Ph.D. thesis*, Georgia Institute of Technology, 2022.  
-[[pdf](https://slim.gatech.edu/Publications/Public/Thesis/2022/siahkoohi2022THdgmf/siahkoohi2022THdgmf.pdf)]
-[[slides](https://slim.gatech.edu/Publications/Public/Thesis/2022/siahkoohi2022THdgmf/siahkoohi2022THdgmf_pres.pdf)]
-[[link](http://hdl.handle.net/1853/67250)]
-[[bib](https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/files/Siahkoohi_2022.bib)]
+## News
 
 ---
+## Teaching
 
-### Technical reports
-
-**Taming score-based diffusion priors for infinite-dimensional nonlinear inverse problems**  
-L. Baldassari, A. Siahkoohi, J. Garnier, K. Sølna, and M. V. de Hoop  
-Technical Report arXiv:2405.15676, Rice University, 2024.  
-[[pdf](https://arxiv.org/abs/2405.15676)]
-[[bib](https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/files/BaldassariSiahkoohiGarnierEtAl_2024.bib)]
-
-**Low-memory stochastic backpropagation with multi-channel randomized trace estimation**  
-M. Louboutin, A. Siahkoohi, R. Wang, and F. J. Herrmann  
-Technical Report arXiv:2106.06998, Georgia Institute of Technology, 2021.  
-[[pdf](https://arxiv.org/abs/2106.06998)]
-[[code](https://github.com/slimgroup/XConv)]
-[[link](https://slim.gatech.edu/content/low-memory-stochastic-backpropagation-multi-channel-randomized-trace-estimation)]
-[[bib](https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/files/LouboutinSiahkoohiWangEtAl_2021.bib)]
-
----
-
-## Miscellaneous
-
-- "I wish you hadn't talked so much, it was distracting." --- Patrick Winston, [How to Speak](https://youtu.be/Unzc731iCUY)
-- "No one cares about the inside of your head." --- Larry McEnerney, [The Craft of Writing Effectively](https://youtu.be/vtIzMaLkCaM)
+- * Fall 2025: C362 - Physical Chemistry of Molecules (Lecture + Recitation)
+- * Spring 2025: C696 - Computational Chemistry and Molecular Modeling (Lecture + Lab) 
+- * Spring 2016: C360 - Introductory Physical Chemistry (Lecture)
+- * Fall 2015: C105 - Principles of Chemistry I (Lecture)
+- * Spring 2015: C360 - Introductory Physical Chemistry (Lecture)
+- * Fall 2014: C362 - Physical Chemistry of Molecules (Lecture + Recitation)
+- * Spring 2014: C360 - Introductory Physical Chemistry (Lecture)
+- * Fall 2013: C362 - Physical Chemistry of Molecules (Lecture + Recitation)
+- * Spring 2013: C360 - Introductory Physical Chemistry (Lecture)
+- * Fall 2012: C362 - Physical Chemistry of Molecules (Lecture + Recitation)
+- * Spring 2012: C360 - Introductory Physical Chemistry (Lecture)
+- * Fall 2011: C362 - Physical Chemistry of Molecules (Lecture + Recitation)
+- * Spring 2011: C372 - Chemical Informatics II: Molecular Modeling (Lecture + Lab)
