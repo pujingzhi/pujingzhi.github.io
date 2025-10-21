@@ -3,7 +3,7 @@
   background-size: 55%;  /* use 'cover' to fill the container */
   height: 250px;
   background-repeat: no-repeat;
-  background-position: left;
+  background-position: center;
   color: white; /* Adjust text color for contrast */
   padding: 50px 0; /* Adjust padding as needed */
   background-color: white !important /* override the default */
