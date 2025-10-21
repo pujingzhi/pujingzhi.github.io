@@ -58,8 +58,15 @@ P. M. Mayer, L. Luzi, A. Siahkoohi, D. H. Johnson, and R. G. Baraniuk
 
 ### Journal papers
 
-**Free Energy Profile Decomposition Analysis for QM/MM Simulations of Enzymatic Reactions**
-Pan, X.; Van, R.; Pu, J.; Nam, K.; Mao, Y.; Shao, Y. J. Chem. Theory Comput. 2023, 19, 8234-8244
+56. "Training Machine Learning Potentials for Reactive Systems. A Colab Tutorial on Basic Models," Pan, X.; Snyder, R.; Wang, J.-N.; Lander, C.; Wickizer, C.; Van. R.; Chesney, A.; Xue, Y.; Mao, Y.; Mei, Y.; **Pu, J.**; Shao, Y. *J. Comput. Chem.* 2024, *45*, 638-647 ([DOI:10.1002/jcc.27269](  https://doi.org/10.1002/jcc.27269))
+
+55. "Polyrate 2023: A Computer Program for the Calculation of Chemical Reaction Rates for Polyatomics. New Version Announcement," Meana-Paneda, R.; Zheng, J.; Bao, J. L.; Zhang, S.; Lynch, B. J.; Corchado, J. C.; Chuang, Y.-Y.; Fast, P. L.; Hu, W.-P.; Liu, Y.-P.; Lynch, G. C.; Nguyen, K. A.; Jackels, C. F.; Fernandez-Ramos, A.; Ellingson, B. A.; Melissas, V. S.; Villa, J.; Rossi, I.; Coitino, E. L.; **Pu, J.**; Albu, T. V.; Zhang, R. M.; Xu, X.; Ratkiewicz, A.; Steckler, R.; Garrett, B. C.; Isaacson, A. D.; Truhlar, D. G. *Comput. Phys. Commun.* **2024**, *294*, 108933. 
+
+54. "Free Energy Profile Decomposition Analysis for QM/MM Simulations of Enzymatic Reactions," Pan, X.; Van, R.; **Pu, J.**; Nam, K.; Mao, Y.; Shao, Y. J. *Chem. Theory Comput.* **2023**, *19*, 8234-8244.
+
+53. "Hybrid Metal-Ligand Interfacial Dipole Engineering of Functional Plasmonic Nanostructures for Extraordinary Responses of Optoelectronic Properties," Hati, S.; Yang, X.; Gupta, P.; Muhoberac, B.; **Pu, J.**; Zhang, J.; Sardar, R. *ACS Nano* **2023**, *17*, 17499-17515. 
+
+52. "Bridging Semiempirical and Ab Initio QM/MM Potentials by Gaussian Process Regression and Its Sparse Variants for Free Energy Simulation,” Snyder, R.; Kim, B.; Pan, X.; Shao, Y.; **Pu, J.** *J. Chem. Phys.* **2023**, *159*, 054107.
 
 <!-- Multi-scale clustering and source separation of InSight mission seismic data**  
 A. Siahkoohi, R. Morel, R. Balestriero, E. Allys, G. Sainton, T. Kawamura, and M. V. de Hoop  
