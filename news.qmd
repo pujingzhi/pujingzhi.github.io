@@ -19,7 +19,7 @@ about:
   image-width: 215px
 ---
 
-#### News ####
+### News ###
 
 ** 2015 **
 - Sept: Jingzhi Pu presented at the [Midwest Computational Biomolecular Modeling Symposium](https://www.ks.uiuc.edu/Announcements/Symposium/) at UIUC (read [Editorial Overview](https://www-s.ks.uiuc.edu/History/symposium/)).
