@@ -377,24 +377,24 @@ gtag('config', 'G-1W6X56QSLP', { 'anonymize_ip': true});
 </section>
 <section id="dna-damage" class="level3">
 <h3 data-anchor-id="dna-damage">DNA Damage</h3>
-<div>
 <div class="about-flex" style="display: flex; align-items: center;">
+<div>
 <p>Under nutrient scarcity, certain bacteria form endospores that protect bacterial DNA from environmental damage, including UV radiation. UV light can damage DNA by forming cross-links between adjacent thymine bases (TT) in a DNA strand. Under regular conditions, such damage leads to the formation of a cyclobutane pyrimidine dimer (CPD) as the dominant photoproduct. In spores, however, the DNA photoreaction pattern changes: a special lesion, 5-thyminyl-5-6-dihydrothymine (the spore-photoproduct, SP), becomes the major form of TT damage. It is believed that SP lesions “lock” the DNA in a chemically inert state until germination, when these lesions are repaired by a specialized enzyme called spore-photoproduct lyase (SPL). Collaborating with Prof.&nbsp;<a href="http://chem.iupui.edu/~lilei/">Lei Li</a>, we have computationally characterized several dinucleotide analogues of SP <span class="citation" data-cites="Lin2012 Lin2011">(<a href="#ref-Lin2012" role="doc-biblioref">D. Lin et al. 2012</a>; <a href="#ref-Lin2011" role="doc-biblioref">G. Lin et al. 2011</a>)</span>, and are currently developing all-atom models for simulating short segments of SP-containing DNA.</p>
-<p><img src="files/tt_sp.png" style="border-radius:50%; margin-right:20px;" width="250"></p>
-<!-- ![](files/tt_sp.png "*SP lesion in DNA*") {fig-align="right" width="250px"} -->
-<!-- *SP lesion in DNA* -->
+<p><img src="files/tt_sp.png" style="border-radius:50%; margin-right:20px;" width="250"> <!-- ![](files/tt_sp.png "*SP lesion in DNA*") {fig-align="right" width="250px"} --> <!-- *SP lesion in DNA* --></p>
 </div>
 </div>
 <hr>
+</section>
 <section id="qmmm-method-development" class="level3">
 <h3 data-anchor-id="qmmm-method-development">QM/MM Method Development</h3>
 <section id="qmmm-ips" class="level4">
 <h4 data-anchor-id="qmmm-ips">QM/MM-IPS</h4>
 <div class="about-flex" style="display: flex; align-items: center;">
 <div>
-<p><img src="files/Region_ips.png" class="quarto-figure quarto-figure-center" width="250"><br>
-<em>The IPS method: interactions are computed explicitly up to a cutoff distance</em> <em>R<sub>c</sub></em>.<br>
-<em>Beyond that, an average potential is used.</em></p>
+<!-- ![](files/Region_ips.png){fig-align="center" width="250px"} -->
+<!-- *The IPS method: interactions are computed explicitly up to a cutoff distance* _R<sub>c</sub>_. -->
+<!-- *Beyond that, an average potential is used.* -->
+<p><img src="files/Region_ips.png" style="border-radius:50%; margin-right:20px;" width="250"></p>
 <p>We are developing new approaches to include long-range electrostatic interactions in combined quantum mechanical and molecular mechanical (QM/MM) calculations. Traditionally, such interactions in molecular simulations are handled by lattice-sum methods such as Ewald summation, which considers all periodic images of particles.<br>
 The Isotropic Periodic Sum (IPS) method <span class="citation" data-cites="Wu2005 Wu2008 Wu2009 OjedaMay2014a">(<a href="#ref-Wu2005" role="doc-biblioref">Wu and Brooks 2005</a>; <a href="#ref-Wu2008" role="doc-biblioref">X. and Brooks 2008</a>; <a href="#ref-Wu2009" role="doc-biblioref">Wu  Xȧnd Brooks 2009</a>; <a href="#ref-OjedaMay2014a" role="doc-biblioref">Ojeda-May and Pu 2014</a>)</span> offers an efficient alternative: pairwise interactions are computed locally within a cutoff distance, while contributions beyond the cutoff are treated via a mean-field approximation assuming isotropic distribution of image particles. So far, IPS has been applied to purely classical systems. We are extending the method to combined QM/MM potentials <span class="citation" data-cites="OjedaMay2014b">(<a href="#ref-OjedaMay2014b" role="doc-biblioref">P. and Pu 2014</a>)</span>, laying the groundwork for its use in enzyme simulations.</p>
 </div>
@@ -406,19 +406,22 @@ The Isotropic Periodic Sum (IPS) method <span class="citation" data-cites="Wu200
 <div class="about-flex" style="display: flex; align-items: center;">
 <div>
 <p>A long-standing challenge in computational enzymology is obtaining accurate free energy profiles for chemical reactions in condensed phases. Direct <em>ab initio</em> (AI) QM/MM sampling is computationally infeasible, so semiempirical (SE) methods are used instead — but they require careful reparameterization. We recently proposed <strong>Reaction Path Force Matching (RP-FM)</strong> <span class="citation" data-cites="ZhouPu2014">(<a href="#ref-ZhouPu2014" role="doc-biblioref">Zhou and Pu 2014</a>)</span>, a new SRP-fitting strategy that reparametrizes SE methods directly against AI/MM forces in condensed-phase simulations. RP-FM proceeds iteratively: 1. Sample configurations along a reaction path on an SE/MM potential energy surface. 2. Adjust SE parameters to reproduce AI/MM atomic forces via force matching. Repeating this cycle enables SE/MM simulations to achieve AI/MM-level accuracy without direct AI sampling. We have demonstrated the effectiveness of RP-FM on proton transfer reactions in both gas and solution phases, and extensions to enzymatic reactions are underway.</p>
-<p><img src="files/RP-FM.png" class="quarto-figure quarto-figure-center" width="350"><br>
-<em>The RP-FM strategy: sampling is carried out on efficient SE/MM surfaces and then SE-SRPs are optimized to reproduce AI/MM atomic forces.</em></p>
+<p><img src="files/RP-FM.png" style="border-radius:50%; margin-right:20px;" width="350"></p>
+<!-- ![](files/RP-FM.png){fig-align="center" width="350px"} -->
+<!-- *The RP-FM strategy: sampling is carried out on efficient SE/MM surfaces and then SE-SRPs are optimized to reproduce AI/MM atomic forces.* -->
 </div>
 </div>
 <hr>
 </section>
 </section>
 <section id="references" class="level3">
-<h3 data-anchor-id="references">References</h3>
+
+
 
 
 </section>
-</section><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
 <div id="ref-Davidson2008" class="csl-entry" role="listitem">
 Davidson, Amy L., Elie Dassa, Cedric Orelle, and Jue Chen. 2008. <span>“Structure, Function, and Evolution of Bacterial ATP-Binding Cassette Systems.”</span> <em>Microbiology and Molecular Biology Reviews</em> 72 (2): 317–64. <a href="https://doi.org/10.1128/MMBR.00031-07">https://doi.org/10.1128/MMBR.00031-07</a>.
 </div>
@@ -449,11 +452,7 @@ Zhou, Y., P. Ojeda-May, and J. Pu. 2013. <span>“H-Loop Histidine Catalyzes ATP
 <div id="ref-ZhouPu2014" class="csl-entry" role="listitem">
 Zhou, Y., and J. Pu. 2014. <span>“Reaction Path Force Matching: A New Strategy of Fitting Specific Reaction Parameters for Semiempirical Methods in Combined QM/MM Simulations.”</span> <em>Journal of Chemical Theory and Computation</em> 10 (7): 3038–54. <a href="https://doi.org/10.1021/ct5002023">https://doi.org/10.1021/ct5002023</a>.
 </div>
-</div></section></div></main></div>
-
-
-
- <!-- /main -->
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
@@ -489,7 +488,7 @@ Zhou, Y., and J. Pu. 2014. <span>“Reaction Path Force Matching: A New Strategy
       }
   });
   </script>
- <!-- /content -->
+</div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
