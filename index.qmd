@@ -38,7 +38,7 @@ Our interests lie at the interface between theoretical/computational chemistry a
 ## People
 
 ##### Jingzhi Pu (PI) #####
-![](jpu.JPG){fig-align="left"}
+![](files/jpu.JPG){fig-align="left"}
 
 Assistant Professor <br>
 Department of Chemistry & Chemical Biology <br>
@@ -46,7 +46,7 @@ Indiana University Indianapolis (IUPUI) <br>
 
 BS, Peking University <br>
 Ph.D., University of Minnesota (with [Donald G. Truhlar](https://comp.chem.umn.edu/truhlar Donald G. Truhlar)) <br>
-Postdoc, University of Minnesota (with [Jiali Gao](https://jialigao.org/)); Harvard University (with [Martin Karplus](https://en.wikipedia.org/wiki/Martin_Karplus) 
+Postdoc, University of Minnesota (with [Jiali Gao](https://jialigao.org/)); Harvard University (with [Martin Karplus](https://en.wikipedia.org/wiki/Martin_Karplus)) 
 <br>
 <br>
 
