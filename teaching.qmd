@@ -19,6 +19,9 @@ about:
   image-width: 215px
 ---
 
+:::{#heading}
+:::
+
 ### Teaching ###
 
 - Fall 2025: C362 - Physical Chemistry of Molecules (Lecture + Recitation)
