@@ -22,6 +22,8 @@ about:
 :::{#heading}
 :::
 
+![](files/Pu_IU_Indy_Banner.svg){fig-align="left" width="500px"}
+
 ### News ###
 
 #### 2015 ####
