@@ -37,41 +37,41 @@ Our interests lie at the interface between theoretical/computational chemistry a
 
 ## People
 
-![](files/jpu.JPG){fig-align="left"}
-Jingzhi Pu (PI)
+![](files/jpu.JPG){fig-align="left"} <br>
+Jingzhi Pu (PI) <br>
 Postdoc: Harvard University (2005-2010; with with [Martin Karplus](https://en.wikipedia.org/wiki/Martin_Karplus)) <br>
 Postdoc: University of Minnesota (2004-2025; with [Jiali Gao](https://jialigao.org/)) <br>
 PhD: University of Minnesota (2004; with [Donald G. Truhlar](https://comp.chem.umn.edu/truhlar Donald G. Truhlar)) <br>
 BS, Peking University (1999) <br>
 
-![](files/DongruLi.jpg){fig-align="left"}
-Dongru Li (3rd year PhD student)
-MS: Fudan University (2023)
-BS: Henan Institute of Science and Technology (2020)
+![](files/DongruLi.jpg){fig-align="left"} <br>
+Dongru Li (3rd year PhD student) <br>
+MS: Fudan University (2023) <br>
+BS: Henan Institute of Science and Technology (2020) <br>
 
-![](files/TinhHo.jpg){fig-align="left"}  
-Tinh Ho (3rd year PhD student; co-advised by Prof. Partha Basu) 
+![](files/TinhHo.jpg){fig-align="left"} <br> 
+Tinh Ho (3rd year PhD student; co-advised by Prof. Partha Basu) <br>
 
-![](files/HysumQazi_sm.png){fig-align="left"} 
-Hysum Qazi (undergraduate researcher; UROP Scholar: 2024-2026)
+![](files/HysumQazi_sm.png){fig-align="left"} <br>
+Hysum Qazi (undergraduate researcher; UROP Scholar: 2024-2026) <br>
 
 #### Former Group Members ####
 
-![](files/RyanSnyder.jpg){fig-align="left"}
-Ryan Snyder (Ph.D. 2023; currently, postdoc at Rutgers)
-BS: IU Bloomington
+![](files/RyanSnyder.jpg){fig-align="left"} <br>
+Ryan Snyder (Ph.D. 2023; currently, postdoc at Rutgers) <br>
+BS: IU Bloomington <br>
 
-![](files/BryanKim.JPG){fig-align="left"}
-Bryant Kim (Ph.D. 2023; currently, postdoc at Merck) 
-BA: IUPUI
+![](files/BryanKim.JPG){fig-align="left"} <br>
+Bryant Kim (Ph.D. 2023; currently, postdoc at Merck) <br>
+BA: IUPUI <br>
 
-![](files/MellisaHege.jpg){fig-align="left"}
-Mellisa Hege (Ph.D. 2023; currently, IU School of Medicine)
-BA: IUPUI
+![](files/MellisaHege.jpg){fig-align="left"} <br>
+Mellisa Hege (Ph.D. 2023; currently, IU School of Medicine) <br>
+BA: IUPUI <br>
 
-![](files/RyanYoung.jpg){fig-align="left"}
-Ryan Young (Ph.D. 2023)
-BS: IU Bloomington
+![](files/RyanYoung.jpg){fig-align="left"} <br>
+Ryan Young (Ph.D. 2023) <br>
+BS: IU Bloomington <br>
 
 ## Publications
 
