@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "index.html#background",
-    "href": "index.html#background",
-    "title": "Jingzhi Pu",
-    "section": "Background",
-    "text": "Background\n\nAssociate Professor, Indiana University Indianapolis (2017–present)\nAssistant Professor, Indiana University-Purdue University Indianapolis (2010–2017)\nPostdoc, Harvard University (2005–2010)\nPostdoc, University of Minnesota (2004–2005)\nPh.D., University of Minnesota, Theoretical and Computational Chemistry (2004)\nB.Sc., Peking University, Chemistry (1999)"
-  },
-  {
     "objectID": "index.html#research",
     "href": "index.html#research",
     "title": "Jingzhi Pu",
     "section": "Research",
-    "text": "Research\nOur interests lie at the interface between theoretical/computational chemistry and biophysics. The current research in the lab is directed towards understanding how biomolecules perform their functions via dynamical motions that are encoded in their three dimensional structures. Ongoing projects include computer simulations of ABC-transporters and development of combined quantum mechanical/molecular mechanical (QM/MM) methods."
+    "text": "Research\nOur interests lie at the interface between theoretical/computational chemistry and biophysics. The current research in the lab is directed towards understanding how biomolecules perform their functions via dynamical motions that are encoded in their three dimensional structures. Ongoing projects include computer simulations of ABC-transporters and development of combined quantum mechanical/molecular mechanical (QM/MM) methods.\n |![](files/tt_sp.png{fig-align=“center”} | ![](files/qmmm.png {fig-align=“center”} |"
   },
   {
     "objectID": "index.html#people",
