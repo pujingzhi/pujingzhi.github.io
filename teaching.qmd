@@ -19,7 +19,7 @@ about:
   image-width: 215px
 ---
 
-#### Teaching ####
+### Teaching ###
 
 - Fall 2025: C362 - Physical Chemistry of Molecules (Lecture + Recitation)
 - Spring 2025: C696 - Computational Chemistry and Molecular Modeling (Lecture + Lab) 
