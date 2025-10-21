@@ -72,7 +72,8 @@ Under nutrient scarcity, certain bacteria form endospores that protect bacterial
 <!-- ![](files/Region_ips.png){fig-align="center" width="250px"} --> 
 <!-- *The IPS method: interactions are computed explicitly up to a cutoff distance* _R<sub>c</sub>_. -->
 <!-- *Beyond that, an average potential is used.* -->
-![](files/Region_ips.png){width="250px" style="flex-shrink:0;"} 
+
+![](files/Region_ips.png){width="220px" style="flex-shrink:0;"} 
 
 <div>
 We are developing new approaches to include long-range electrostatic interactions in combined quantum mechanical and molecular mechanical (QM/MM) calculations. Traditionally, such interactions in molecular simulations are handled by lattice-sum methods such as Ewald summation, which considers all periodic images of particles.  
