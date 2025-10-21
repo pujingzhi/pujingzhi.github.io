@@ -8,7 +8,7 @@ description: |
   402 N. Blackford St., LD 326<br>
   Indianapolis, IN, USA
   
-  <!-- [[Google Map](https://maps.app.goo.gl/gsY6GJxhxzBsWk1H7)] &ensp; [[jpu@iu.edu](mailto:jpu@iu.edu)] &ensp; [[CV](./files/JPu-CV.pdf)] &ensp; [[GitHub](https://github.com/pujingzhi)] &ensp; [[Google Scholar](https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en)] -->
+  # [[Google Map](https://maps.app.goo.gl/gsY6GJxhxzBsWk1H7)] &ensp; [[jpu@iu.edu](mailto:jpu@iu.edu)] &ensp; [[CV](./files/JPu-CV.pdf)] &ensp; [[GitHub](https://github.com/pujingzhi)] &ensp; [[Google Scholar](https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en)]
 
 navbar: false
 about:
