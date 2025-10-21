@@ -11,16 +11,18 @@ description: |
   [[ORCID](https://orcid.org/0000-0002-3042-335X)] &ensp; [[Google Scholar](https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en)] &ensp; [[GitHub](https://github.com/pujingzhi)] &ensp; [[CV](./files/JPu-CV.pdf)] &ensp; [[E-mail](mailto:jpu@iu.edu)] 
 
 navbar: false
-about:
-  id: heading
-  template: solana
-  image: files/jpu_photo.png
-  image-shape: round
-  image-width: 215px
+#about:
+#  id: heading
+#  template: solana
+#  image: files/jpu_photo.png
+#  image-shape: round
+#  image-width: 215px
 ---
 
 :::{#heading}
 :::
+
+![](files/Pu_IU_Indy_Banner.svg){fig-align="left" width="500px"}
 
 ### Publications ###
 
