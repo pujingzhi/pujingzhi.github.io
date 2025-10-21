@@ -10,8 +10,6 @@ description: |
 
   [[ORCID](https://orcid.org/0000-0002-3042-335X)] &ensp; [[jpu@iu.edu](mailto:jpu@iu.edu)] &ensp; [[CV](./files/JPu-CV.pdf)] &ensp; [[GitHub](https://github.com/pujingzhi)] &ensp; [[Google Scholar](https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en)]
 
-title-block-banner: files/Pu_IU_Indy_Banner.svg 
-
 navbar: false
 about:
   id: heading
@@ -121,44 +119,21 @@ Postdoc, University of Minnesota (with [Jiali Gao](https://jialigao.org/)); Harv
 
 - 27. "Chemical Synthesis, Crystal Structure and Enzymatic Evaluation of a Dinucleotide Spore Photoproduct Analogue Containing Formacetal Linker," Lin, G.; Chen, C.-H.; Pink, M.; **Pu, J.**; Li, L. *Chem. Eur. J.* **2011**, *17*, 9658-9668.
 
-<!-- Multi-scale clustering and source separation of InSight mission seismic data**  
-A. Siahkoohi, R. Morel, R. Balestriero, E. Allys, G. Sainton, T. Kawamura, and M. V. de Hoop  
-*IEEE Transactions on Geoscience and Remote Sensing*, 2025, In print.  
-[[pdf](https://arxiv.org/abs/2305.16189)]
-[[code](https://github.com/alisiahkoohi/facvae)]
-[[slides](https://www.dropbox.com/s/ycwu3y3jik33xpo/slides.pdf?dl=0)]
-[[bib](https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/files/SiahkoohiMorelBalestrieroEtAl_2025.bib)] -->
-
----
-
-<!-- ### Conference proceedings and presentations
-
-**Self-consuming generative models go MAD**  
-S. Alemohammad, J. Casco-Rodriguez, L. Luzi, A. I. Humayun, H. Babaei, D. LeJeune, A. Siahkoohi, and R. G. Baraniuk  
-*The Twelfth International Conference on Learning Representations*, 2024.  
-[[pdf](https://openreview.net/pdf?id=ShjMHfmPs0)]
-[[extended pdf](https://arxiv.org/abs/2307.01850)]
-[[poster](https://iclr.cc/media/PosterPDFs/ICLR%202024/18592.png?t=1714784281.722506)]
-[[link](https://iclr.cc/virtual/2024/poster/18592)]
-[[bib](https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/files/AlemohammadCasco_RodriguezLuziEtAl_2024.bib)]
-[featured in the news
-^[1](https://www.tomshardware.com/news/generative-ai-goes-mad-when-trained-on-artificial-data-over-five-times),^
-^[2](https://futurism.com/ai-trained-ai-generated-data),^
-^[3](https://www.tweaktown.com/news/92328/scientists-make-ai-go-crazy-by-feeding-it-generated-content/),^
-^[4](https://www.newscientist.com/article/2382519-ais-trained-on-ai-generated-images-produce-glitches-and-blurs/),^
-^[5](https://www.cdotrends.com/story/18288/training-ai-outputs-generative-ai-mad/),^
-^[6](https://futurism.com/ai-trained-ai-generated-data-interview),^
-^[7](https://www.telegraph.co.uk/business/2024/02/01/why-ai-new-age-of-fake-news-and-disinformation/),^
-^[8](https://finance.yahoo.com/news/ais-mad-cow-disease-problem-tramples-into-earnings-season-100005953.html),^
-^[9](https://fortune.com/2024/04/18/linkedin-microsoft-collaborative-articles-generative-ai-feedback-loop-user-backlash/?456789),^
-^[10](https://news.rice.edu/news/2024/breaking-mad-generative-ai-could-break-internet),^
-^[11](https://www.nytimes.com/interactive/2024/08/26/upshot/ai-synthetic-data.html),^
-^[12](https://futurism.com/ai-slowly-killing-itself),^
-^[13](https://magazine.rice.edu/winter-2025/ais-mad-loops)^]  
-[[self-consuming AI resources](https://dsp.rice.edu/ai-loops/)] -->
-
 ## News
 
+#### 2015 ####
+- Sept: Jingzhi Pu presented at the [Midwest Computational Biomolecular Modeling Symposium](https://www.ks.uiuc.edu/Announcements/Symposium/) at UIUC (read [Editorial Overview](https://www-s.ks.uiuc.edu/History/symposium/)).
+- Aug: Jingzhi Pu presented at the [ACS 250th National Meeting](https://www.acs.org/content/acs/en/meetings/fall-2015.html) in Boston.
+- Aug: Jingzhi Pu's [R15 grant](https://projectreporter.nih.gov/project_info_details.cfm?aid=8958346&icde=25623525) is funded by NIH.
+- July: Jingzhi Pu presented at a [Snowmass Biophysics Workshop](https://vothgroup.uchicago.edu/conferences/).
+- June: Jingzhi Pu received an [RSFG](https://research.iupui.edu/funding/documents/internalawards2015_000.pdf) grant from Office of the Vice Chancellor for Research at IUPUI. 
+- Apr: Jingzhi Pu received an International Travel Grant from the Purdue Research Foundation.
+- Feb: Jingzhi Pu presented a [Mechanical Engineering seminar](https://engr.iupui.edu/departments/me/research/seminars/upcoming.php) at IUPUI.
+
+#### 2014 ####
+* Oct: Jingzhi Pu gave a talk at the [Martin Karplus Celebration Symposium](https://martinkarplus.net/). 
+* May: Jingzhi Pu received a Summer Faculty Grant from the Purdue Research Foundation.
+* Apr: Mulpuri Nagaraju (Raju) joined the lab as a postdoc.
 
 ## Teaching
 
