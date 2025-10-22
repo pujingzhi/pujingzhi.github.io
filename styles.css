@@ -59,12 +59,6 @@ body {
   font-size: 80% !important;
 }
 
-/* Optional: reduce heading size inside sidebar */
-.sidebar h2,
-.sidebar h3 {
-  font-size: 90% !important;
-}
-
 ul {
   margin-left: 0em;   /* default is around 2em */
   padding-left: 1.2em;
