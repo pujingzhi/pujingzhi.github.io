@@ -38,11 +38,11 @@ navbar: false
 </li>
 
 <li value="58">
-"Design of Light‐Induced Solid‐State Plasmonic Rulers via Tethering Photoswitchable Molecular Machines to Gold Nanostructures Displaying Angstrom Length Resolution," Langlais, S. R.; Hati, S.; Simas, M. V.; **Pu, J.** Muhoberac, B. B.; Sardar, R. *Adv. Opt. Mater.* **2024**, *12* , 2400801 ([DOI:10.1002/adom.202400801](https://doi.org/10.1002/adom.202400801)).
+"Design of Light‐Induced Solid‐State Plasmonic Rulers via Tethering Photoswitchable Molecular Machines to Gold Nanostructures Displaying Angstrom Length Resolution," Langlais, S. R.; Hati, S.; Simas, M. V.; **Pu, J.**; Muhoberac, B. B.; Sardar, R. *Adv. Opt. Mater.* **2024**, *12* , 2400801 ([DOI:10.1002/adom.202400801](https://doi.org/10.1002/adom.202400801)).
 </li>
 
 <li value="57">
-"DFT/MM Simulations for Cycloreversion Reaction of Cyclobutane Pyrimidine Dimer with Deprotonated and Protonated E283," Xue, P.; Huang, D.; **Pu, J.** Zhou, Y. *J. Phys. Chem. B* **2024**, *128*, 6670-6683 [DOI:10.1021/acs.jpcb.4c01011](https://doi.org/10.1021/acs.jpcb.4c01011).
+"DFT/MM Simulations for Cycloreversion Reaction of Cyclobutane Pyrimidine Dimer with Deprotonated and Protonated E283," Xue, P.; Huang, D.; **Pu, J.**; Zhou, Y. *J. Phys. Chem. B* **2024**, *128*, 6670-6683 [DOI:10.1021/acs.jpcb.4c01011](https://doi.org/10.1021/acs.jpcb.4c01011).
 </li>
 
 <li value="56">
