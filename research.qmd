@@ -73,7 +73,7 @@ Under nutrient scarcity, certain bacteria form endospores that protect bacterial
 <!-- *The IPS method: interactions are computed explicitly up to a cutoff distance* _R<sub>c</sub>_. -->
 <!-- *Beyond that, an average potential is used.* -->
 
-![](files/Region_ips.png){width="240px" style="flex-shrink:0;"} 
+![](files/Region_ips.png){width="220px" style="flex-shrink:0;"} 
 
 <div>
 We are developing new approaches to include long-range electrostatic interactions in combined quantum mechanical and molecular mechanical (QM/MM) calculations. Traditionally, such interactions in molecular simulations are handled by lattice-sum methods such as Ewald summation, which considers all periodic images of particles. The Isotropic Periodic Sum (IPS) method [@Wu2005; @Wu2008; @Wu2009; @OjedaMay2014a] offers an efficient alternative: pairwise interactions are computed locally within a cutoff distance, while contributions beyond the cutoff are treated via a mean-field approximation assuming isotropic distribution of image particles. So far, IPS has been applied to purely classical systems. We are extending the method to combined QM/MM potentials [@OjedaMay2014b], laying the groundwork for its use in enzyme simulations.
