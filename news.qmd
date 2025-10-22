@@ -27,12 +27,12 @@ navbar: false
 
 ### News ###
 
-**2024**
+#### 2024 ####
 - Oct: Jingzhi Pu presented at the *SMART Symposium: AI-Driven Computational Biology and Medicine* in Shenzhen China. 
 - Aug: Jingzhi Pu co-organized an *ACS COMP Symposium in Honor of the 80th Birthday of Prof. Donald G. Truhlar* in Denver CO.  
 - Jan: Jingzhi Pu is recognized by IU Indy's student-athletes as one of their "Favorite Professors" 
 
-**2023**
+#### 2023 ####
 - Sept: Taemoor Hasan and Salma Abdelhamid joined the lab as "1st-Year Research Immersion Program" (1RIP) undergraduate scholars. Welcome! 
 - Sept: Tinh Ho joined the lab as a Ph.D. student, co-advised by Prof. Partha Basu. Welcome! 
 - Sept: Dongru Li joined the lab as a Ph.D. student. Welcome! 
@@ -47,7 +47,7 @@ navbar: false
 - Mar: Bryant Kim successfully defended his Ph.D. thesis. Congratulations! 
 - Mar: Mellisa Hege published her first-author SP-DNA paper. Congratulations!
 
-**2022**
+#### 2022 ####
 - Nov: Ryan Young successfully defended his Ph.D. thesis. Congratulations!
 - Oct: Ryan Snyder published his first-author GPRwDO-QM/MM paper, which was also selected as a 2022 PCCP Hot Article. Congratulations! 
 - July Jingzhi Pu presented at the *2022 CHARMM Developers' Meeting* at Harvard University. 
@@ -56,7 +56,7 @@ navbar: false
 - Mar: Jingzhi Pu received an IU Trustees Teaching Award. 
 - Mar: Rebekah Jackson received an NIH IRTA postbaccalaurate intramural research training award. Congratulations! 
 
-**2021**
+#### 2021 ####
 - Dec: Jingzhi Pu and Ryan Snyder received an RSFT grant from the Office of the Vice Chancellor for Research at IUPUI. 
 - Nov: Bryant Kim's first-author dp-QM/MM paper was published. Congratulations! 
 - Oct: Rebekah Jackson received a second UROP grant for undergraduate research. Congratulations! 
@@ -66,12 +66,37 @@ navbar: false
 - Apr: Bryant Kimu won the "grand prize" poster award at the "Think Like A Molecule" Symposium sponsored by the ACS Indiana section. Congratulations! 
 - Apr: Ryan Snyder gave a talk at the "Think Like A Molecule" Symposium sponsored by the ACS Indiana section. 
 
-**2020** 
+#### 2020 ####
 - July: Jingzhi Pu presented at the *2020 CHARMM Developers' Meeting* hosted by Harvard University and Boston University. 
 
-<!--
-2019 2019 2019 * june jingzhi puu800 presented atu800 theu800 santa feu800 free energy meeting \"free energy calculations entering theu800 fourth decade ofu800 adventure inu800 chemistry andu800 biophysics\" . 2018 2018 2018 * sept ryan snyder joined theu800 labu800 asu800 au800 phu800u82edu800. student. welcome * july jingzhi puu800 presented atu800 theu800 2018 charmm developers meeting atu800 uu800 ofu800 chicago. * june jingzhi puu800 received anu800 rsfg grant from theu800 office ofu800 theu800 vice chancellor foru800 research atu800 iupui. * june jingzhi puu800 presented atu800 theu800 2ndu800 worldwide chinese computational biology andu800 molecular simulation conference atu800 sunu800 yatu800-senu800 university guangzhou. * june harry wang from carmel high school joined theu800 labu800 foru800 project stem research internship. welcome * mayu800 jingzhi puu800 received au800 summer faculty grant from theu800 purdue research foundation. * apru800 puu800 labu800 received au800 computing grant 100k cpuu800 hrsu800 from theu800 center foru800 functional nanomaterials cfnu800 atu800 theu800 brookhaven national laboratory bnlu800 . * apru800 bryant kimu800 wonu800 au800 1stu800 place poster award atu800 theu800 \"think like au800 molecule\" symposium sponsored byu800 acsu800 indiana section. congratulations * maru800 bryant kimu800 presented au800 poster atu800 theu800 255th acsu800 national meeting inu800 newu800 orleans. * janu800 ryan snyder joined theu800 labu800 asu800 au800 post-baccalaureate student. welcome 2017 2017 2017 * sept ryan young joined theu800 labu800 asu800 au800 phu800u82edu800. student. welcome * july jingzhi puu800 presented atu800 theu800 2017 charmm developers meeting atu800 harvard cambridge mau800. * july jingzhi puu800 presented atu800 theu800 telluride research conference \"free energy calculations three decades ofu800 adventure inu800 chemistry andu800 biophysics\". * june joanna zhang from carmel high school andu800 yiyang benu800 sunu800 from theu800 kingu8e28099s academy joined theu800 labu800 foru800 project stem seed research internship. welcome * janu800 mellisa hege cameron meadows darlene evans andu800 seth keeton joined theu800 labu800 foru800 undergraduate research. * janu800 bryant kimu800 joined theu800 labu800 asu800 au800 phu800u82edu800. student. welcome 2016 2016 2016 * augu800 jingzhi puu800 cou800-organized anu800 media acs_qmmm_symposium_fall2016_phillyu82epdfu800 acsu800 comp symposium andu800 presented atu800 theu800 acsu800 252nd national meeting inu800 philadelphia media acs_comp_tech_program_fall2016u82epdfu800 program . * july jingzhi puu800 presented atu800 theu800 2016 charmm developers meeting atu800 uu800 ofu800 michigan annu800 arbor. * maru800 jingzhi puu800 presented au800 chemistry seminar atu800 university ofu800 colorado denver . 
--->
+
+#### 2019 #### 
+- June: Jingzhi Pu presented at the Santa Fe research conference "Free Energy Calculations Entering the Fourth Decade of Adventure in Chemistry and Biophysics". 
+
+#### 2018 ####  
+- Sept: Ryan Snyder joined the lab as a Ph.D. student. Welcome!
+- July: Jingzhi Pu presented at the *2018 CHARMM Developers' Meeting* at U of Chicago. 
+- June: Jingzhi Pu received an RSFG grant from the Office of the Vice Chancellor for Research at IUPUI. 
+- June: Jingzhi Pu presented at the *2nd Worldwide Chinese Computational Biology and Molecular Simulation Conference* at Sun Yat-Sen University, GuangZhou. 
+- June: Harry Wang from Carmel High School joined the lab for Project STEM research internship. Welcome!
+- May: Jingzhi Pu received a summer faculty grant from the Purdue Research Foundation. 
+- Apr: Pu lab received a computing grant of 100k CPU hrs from the Center for Functional Nanomaterials (CFN) at the Brookhaven National Laboratory (BNL). 
+- Apr: Bryant Kim won a 1st Place Poster Award at the *Think Like A Molecule* Symposium sponsored by the ACS Indiana section. Congratulations! 
+- Mar: Bryant Kim presented a poster at the *255th ACS National Meeting in New Orleans. 
+- Jan: Ryan Snyder joined the lab as a post-baccalaureate student. Welcome! 
+
+#### 2017 ####
+- Sept: Ryan Young joined the lab as a Ph.D. student. Welcome!
+- July: Jingzhi Pu presented at the *2017 CHARMM Developers' Meeting* at Harvard University. 
+- July: Jingzhi Pu presented at the Telluride Research Conference "Free Energy Calculations: Three Decades of Adventure in Chemistry and Biophysics". 
+- June: Joanna Zhang from Carmel High School and Yiyang (Ben) Sun from the King's Academy joined the lab for Project STEM/SEED research internship. Welcome! 
+- Jan: Mellisa Hege, Cameron Meadows, Darlene Evans, and Seth Keeton joined the lab for undergraduate research. Welcome! 
+- Jan: Bryant Kimu joined the lab as a Ph.D. student. Welcome! 
+
+#### 2016 #### 
+- Aug: Jingzhi Pu co-organized an ACS COMP Symposium titled "QM/MM Simulation of Chemical and Biochemical Reaction Pathways: Recent Developments and Applications" and presented at the 252nd ACS National Meeting in Philadelphia. 
+- July: Jingzhi Pu presented at the *2016 CHARMM Developers' Meeting* at U of Michigan Ann Arbor. 
+- Mar: Jingzhi Pu presented a Chemistry seminar at University of Colorado Denver. 
 
 #### 2015 ####
 - Sept: Jingzhi Pu presented at the [Midwest Computational Biomolecular Modeling Symposium](https://www.ks.uiuc.edu/Announcements/Symposium/) at UIUC (read [Editorial Overview](https://www-s.ks.uiuc.edu/History/symposium/)).
