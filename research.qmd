@@ -97,6 +97,4 @@ We recently proposed **Reaction Path Force Matching (RP-FM)** [@ZhouPu2014], a n
 </div>
 :::
 
----
-
 ### References ###
