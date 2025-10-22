@@ -87,7 +87,7 @@ Postdoc, Georgia State University <br>
 Postdoc, Indiana University-Purdue University Indianapolis <br>
 E-mail: mulpurinagaraju[at]gmail.com <br><br>
 
-![](files/YanZhou.jpg){fig-align="left"} <br>
+![](files/YanZhou.png){fig-align="left"} <br>
 Yan Zhou (postdoc, 2011-2014; currently, faculty at GuangXi University for Nationalities, China) <br>
 B.S., University of Science & Technology of China <br>
 Ph.D., University of Minnesota <br>
