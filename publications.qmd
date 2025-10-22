@@ -212,27 +212,27 @@ navbar: false
 </li>
 
 <li value="16"> 
-"Nonperfect Synchronization of Reaction Center Rehybridization in the Transition State of the Hydride Transfer Catalyzed by Dihydrofolate Reductase," **Pu, J.**; Ma, S.; Garcia-Viloca, M.; Gao, J.; Truhlar, D. G.; Kohen, A. *J. Am. Chem. Soc.* **2005**, *127*, 14879-14886 ([http://dx.doi.org/10.1021/ja054170t DOI:10.1021/ja054170t]).
+"Nonperfect Synchronization of Reaction Center Rehybridization in the Transition State of the Hydride Transfer Catalyzed by Dihydrofolate Reductase," **Pu, J.**; Ma, S.; Garcia-Viloca, M.; Gao, J.; Truhlar, D. G.; Kohen, A. *J. Am. Chem. Soc.* **2005**, *127*, 14879-14886 ([DOI:10.1021/ja054170t](https://dx.doi.org/10.1021/ja054170t)).
 </li>
 
 <li value="15"> 
-"Generalized Hybrid-Orbital Method for Combined Density Functional Theory and Molecular Mechanics," **Pu, J.**; Gao, J.; Truhlar, D. G. *ChemPhysChem* **2005**, *6*, 1853-1865 ([http://dx.doi.org/10.1002/cphc.200400602 DOI:10.1002/cphc.200400602]). 
+"Generalized Hybrid-Orbital Method for Combined Density Functional Theory and Molecular Mechanics," **Pu, J.**; Gao, J.; Truhlar, D. G. *ChemPhysChem* **2005**, *6*, 1853-1865 ([DOI:10.1002/cphc.200400602](https://dx.doi.org/10.1002/cphc.200400602)). 
 </li>
 
 <li value="14"> 
-"Small Temperature Dependence of the Kinetic Isotope Effect for the  Hydride Transfer Reaction Catalyzed by Escherichia coli Dihydrofolate Reductase," **Pu, J.**; Gao, J.; Truhlar, D. G. *J. Phys. Chem. B* **2005**, *109*, 8551-8556 ([http://dx.doi.org/10.1021/jp051184c DOI:10.1021/jp051184c]).
+"Small Temperature Dependence of the Kinetic Isotope Effect for the  Hydride Transfer Reaction Catalyzed by Escherichia coli Dihydrofolate Reductase," **Pu, J.**; Gao, J.; Truhlar, D. G. *J. Phys. Chem. B* **2005**, *109*, 8551-8556 ([DOI:10.1021/jp051184c](https://dx.doi.org/10.1021/jp051184c)).
 </li>
 
 <li value="13"> 
-"Temperature Dependence of Carbon-13 Kinetic Isotope Effects of Importance to Global Climate Change," Lin, H.; Zhao, Y.; Ellingson, B. A.; **Pu, J.**; Truhlar, D. G. *J. Am. Chem. Soc.* **2005**, *127*, 2830-2831 ([http://dx.doi.org/10.1021/ja0434026 DOI:10.1021/ja043402]). 
+"Temperature Dependence of Carbon-13 Kinetic Isotope Effects of Importance to Global Climate Change," Lin, H.; Zhao, Y.; Ellingson, B. A.; **Pu, J.**; Truhlar, D. G. *J. Am. Chem. Soc.* **2005**, *127*, 2830-2831 ([DOI:10.1021/ja043402](https://dx.doi.org/10.1021/ja0434026)). 
 </li>
 
 <li value="12"> 
-"Benchmark Calculations of Reaction Energies, Barrier Heights, and Transition State Geometries for Hydrogen Abstraction from Methanol by a Hydrogen Atom," **Pu, J.**; Truhlar, D. G. *J. Phys. Chem. A* **2005**, *109*, 773-778 ([http://dx.doi.org/10.1021/jp045574v DOI:10.1021/jp045574v]).
+"Benchmark Calculations of Reaction Energies, Barrier Heights, and Transition State Geometries for Hydrogen Abstraction from Methanol by a Hydrogen Atom," **Pu, J.**; Truhlar, D. G. *J. Phys. Chem. A* **2005**, *109*, 773-778 ([DOI:10.1021/jp045574v](https://dx.doi.org/10.1021/jp045574v)).
 </li>
 
 <li value="11"> 
-"Use of Block Hessians for the Optimization of Molecular Geometries," **Pu, J.**; Truhlar, D. G. *J. Chem. Theory Comput.* **2005**, *1*, 54-60 ([http://dx.doi.org/10.1021/ct0400020 DOI:10.1021/ct0400020]).  
+"Use of Block Hessians for the Optimization of Molecular Geometries," **Pu, J.**; Truhlar, D. G. *J. Chem. Theory Comput.* **2005**, *1*, 54-60 ([DOI:10.1021/ct0400020](https://dx.doi.org/10.1021/ct0400020)).  
 </li>
 
 <li value="10"> 
@@ -244,27 +244,27 @@ navbar: false
 </li>
 
 <li value="8"> 
-"Tests of Second-Generation and Third-Generation Density Functionals for Thermochemical Kinetics," Zhao, Y.; **Pu, J.**; Lynch, B. J. Truhlar, D. G. *Phys. Chem. Chem. Phys.* **2004**, *6*, 673-676 ([http://dx.doi.org/10.1039/B316260E DOI:10.1039/B316260E]).  
+"Tests of Second-Generation and Third-Generation Density Functionals for Thermochemical Kinetics," Zhao, Y.; **Pu, J.**; Lynch, B. J. Truhlar, D. G. *Phys. Chem. Chem. Phys.* **2004**, *6*, 673-676 ([DOI:10.1039/B316260E](https://dx.doi.org/10.1039/B316260E)).  
 </li>
 
 <li value="7"> 
-"Benchmark Results for Hydrogen Atom Transfer between Carbon Centers and Validation of Electronic Structure Methods for Bond Energies and Barrier Heights," Dybala-Defratyka, A.; Paneth, P.; **Pu, J.**; Truhlar, D. G. *J. Phys. Chem. A* **2004**, *108*, 2475-2486 ([http://dx.doi.org/10.1021/jp037312j DOI:10.1021/jp037312j]). 
+"Benchmark Results for Hydrogen Atom Transfer between Carbon Centers and Validation of Electronic Structure Methods for Bond Energies and Barrier Heights," Dybala-Defratyka, A.; Paneth, P.; **Pu, J.**; Truhlar, D. G. *J. Phys. Chem. A* **2004**, *108*, 2475-2486 ([DOI:10.1021/jp037312j](https://dx.doi.org/10.1021/jp037312j)). 
 </li>
 
 <li value="6"> 
-"Generalized Hybrid Orbital (GHO) Method for Combining Ab Initio Hartree-Fock Wave Functions with Molecular Mechanics," **Pu, J.**; Gao, J.; Truhlar, D. G. *J. Phys. Chem. A* **2004**, *108*, 632-650 ([http://dx.doi.org/10.1021/jp036755k DOI:10.1021/jp036755k]). 
+"Generalized Hybrid Orbital (GHO) Method for Combining Ab Initio Hartree-Fock Wave Functions with Molecular Mechanics," **Pu, J.**; Gao, J.; Truhlar, D. G. *J. Phys. Chem. A* **2004**, *108*, 632-650 ([DOI:10.1021/jp036755k](https://dx.doi.org/10.1021/jp036755k)). 
 </li>
 
 <li value="5"> 
-"Lateral Confinement of Image Electron Wave Function by an Interfacial Dipole Lattice," Dutton, G.; **Pu, J.**; Truhlar, D. G.; Zhu, X. -Y. *J. Chem. Phys.* **2003**, *118*, 4337 ([http://dx.doi.org/10.1063/1.1556848 DOI:10.1063/1.1556848]). 
+"Lateral Confinement of Image Electron Wave Function by an Interfacial Dipole Lattice," Dutton, G.; **Pu, J.**; Truhlar, D. G.; Zhu, X. -Y. *J. Chem. Phys.* **2003**, *118*, 4337 ([DOI:10.1063/1.1556848](https://dx.doi.org/10.1063/1.1556848)). 
 </li>
 
 <li value="4"> 
-"Tests of Potential Energy Surfaces for H + CH<sub>4</sub> &rarr; CH<sub>3</sub> + H<sub>2</sub>: Deuterium and Muonium Kinetic Isotope Effects for the Forward and Reverse Reaction," **Pu, J.**; Truhlar, D. G. *J. Chem. Phys.* **2002**, *117*, 10675 ([http://dx.doi.org/10.1063/1.1518471 DOI:10.1063/1.1518471]). 
+"Tests of Potential Energy Surfaces for H + CH<sub>4</sub> &rarr; CH<sub>3</sub> + H<sub>2</sub>: Deuterium and Muonium Kinetic Isotope Effects for the Forward and Reverse Reaction," **Pu, J.**; Truhlar, D. G. *J. Chem. Phys.* **2002**, *117*, 10675 ([DOI:10.1063/1.1518471](https://dx.doi.org/10.1063/1.1518471)). 
 </li>
 
 <li value="3"> 
-"Validation of Variational Transition State Theory with Multidimensional Tunneling Contributions against Accurate Quantum Mechanical Dynamics for H + CH<sub>4</sub> &rarr; CH<sub>3</sub> + H<sub>2</sub> in an Extended Temperature Interval," **Pu, J.**; Truhlar, D. G. *J. Chem. Phys.* **2002**, *117*, 1479 ([http://dx.doi.org/10.1063/1.1485063 DOI:10.1063/1.1485063]). 
+"Validation of Variational Transition State Theory with Multidimensional Tunneling Contributions against Accurate Quantum Mechanical Dynamics for H + CH<sub>4</sub> &rarr; CH<sub>3</sub> + H<sub>2</sub> in an Extended Temperature Interval," **Pu, J.**; Truhlar, D. G. *J. Chem. Phys.* **2002**, *117*, 1479 ([DOI:10.1063/1.1485063](https://dx.doi.org/10.1063/1.1485063)). 
 </li>
 
 <li value="2"> 
