@@ -4,10 +4,10 @@ title: "Contact"
 
 ### Contact ###
 
-<br>
 :::{.about-flex style="display: flex; align-items: center;"}
 
 <div>
+<br>
 Jingzhi Pu  
 Associate Professor  
 Department of Chemistry and Chemical Biology  
