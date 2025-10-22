@@ -401,25 +401,22 @@ gtag('config', 'G-1W6X56QSLP', { 'anonymize_ip': true});
 <hr>
 </section>
 <section id="rp-fm" class="level4">
-<h4>RP-FM</h4>
+<h4 data-anchor-id="rp-fm">RP-FM</h4>
 <div class="about-flex" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 <div style="flex:1; min-width:200px;">
-A long-standing challenge in computational enzymology is obtaining accurate free energy profiles for chemical reactions in condensed phases. Direct <em>ab initio</em> (AI) QM/MM sampling is computationally infeasible, so semiempirical (SE) methods are used instead — but they require careful reparameterization. We recently proposed <strong>Reaction Path Force Matching (RP-FM)</strong> <span class="citation" data-cites="ZhouPu2014">(<a href="#ref-ZhouPu2014" role="doc-biblioref">Zhou and Pu 2014</a>)</span>, a new SRP-fitting strategy that reparametrizes SE methods directly against AI/MM forces in condensed-phase simulations. RP-FM proceeds iteratively: 1. Sample configurations along a reaction path on an SE/MM potential energy surface. 2. Adjust SE parameters to reproduce AI/MM atomic forces via force matching. Repeating this cycle enables SE/MM simulations to achieve AI/MM-level accuracy without direct AI sampling. We have demonstrated the effectiveness of RP-FM on proton transfer reactions in both gas and solution phases, and extensions to enzymatic reactions are underway.
-<div>
+<p>A long-standing challenge in computational enzymology is obtaining accurate free energy profiles for chemical reactions in condensed phases. Direct <em>ab initio</em> (AI) QM/MM sampling is computationally infeasible, so semiempirical (SE) methods are used instead — but they require careful reparameterization. We recently proposed <strong>Reaction Path Force Matching (RP-FM)</strong> <span class="citation" data-cites="ZhouPu2014">(<a href="#ref-ZhouPu2014" role="doc-biblioref">Zhou and Pu 2014</a>)</span>, a new SRP-fitting strategy that reparametrizes SE methods directly against AI/MM forces in condensed-phase simulations. RP-FM proceeds iteratively: 1. Sample configurations along a reaction path on an SE/MM potential energy surface. 2. Adjust SE parameters to reproduce AI/MM atomic forces via force matching. Repeating this cycle enables SE/MM simulations to achieve AI/MM-level accuracy without direct AI sampling. We have demonstrated the effectiveness of RP-FM on proton transfer reactions in both gas and solution phases, and extensions to enzymatic reactions are underway.</p>
+</div>
 <p><img src="files/RP-FM.png" style="flex-shrink:0;" width="350"></p>
 <!-- ![](files/RP-FM.png){fig-align="center" width="350px"} -->
 <!-- *The RP-FM strategy: sampling is carried out on efficient SE/MM surfaces and then SE-SRPs are optimized to reproduce AI/MM atomic forces.* -->
-<p>:::</p>
+</div>
+</section>
+</section>
 <section id="references" class="level3">
-<h3 data-anchor-id="references">References</h3>
 
 
-</section>
-</div>
-</div>
-</div>
 
-</section>
+
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
