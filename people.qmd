@@ -71,8 +71,8 @@ B.S., IU Bloomington <br><br>
 Karen Thomson (MS, Fall 2013) <br><br>
 
 Aimee Rinas (Ph.D. student, 2011-2012) <br>
-Currently, Principal Scientist at Nexelis <br><
-Previously, Ph.D. student in [Lisa Jones](https://chem.iupui.edu/people/lisa-m-jones) group at IUPUI <br>br>
+Currently, Principal Scientist at Nexelis <br>
+Previously, Ph.D. student in [Lisa Jones](https://chem.iupui.edu/people/lisa-m-jones) group at IUPUI <br><br>
 
 Pamela Filby (graduate student, 2015-2016; co-advised by Prof. Eric Long) <br>
 B.S., Ball State University (Cum Laude, ) (2012) <br> 
@@ -101,11 +101,11 @@ E-mail: pojedama[at]iupui.edu <br><br>
 
 <u> Undergraduates </u> <br>
 
-![](files/SalmaAbdelhamid.jpg){fig-align="left"} <br>SalmaAbdelhamid
-Salma Abdelhamid (undergraduate student, "1st Year Research Immersion" 1RIP fellow, 2024) 
+![](files/SalmaAbdelhamid.jpg){fig-align="left"} <br>
+Salma Abdelhamid (undergraduate student, "1st Year Research Immersion" 1RIP fellow, 2024) <br><br>
 
 ![](files/TaemoorHasan.jpg){fig-align="left"} <br>
-Taemoor Hasan (undergraduate student, "1st Year Research Immersion" 1RIP fellow, 2024) 
+Taemoor Hasan (undergraduate student, "1st Year Research Immersion" 1RIP fellow, 2024) <br><br>
 
 ![](files/RebekahJackson.jpg){fig-align="left"} <br>
 Rebekah Jackson (undergraduate, 2021-2022; NIH postbacceloriate grant awardee; currently, Yale) <br>
@@ -125,7 +125,7 @@ Jacques Roettcher (undergraduate, 2015) <br><br>
 Seunghwan (Robin) Lee (undergraduate, 2015) <br><br>
 
 ![](files/JeremiahSaylae.jpg){fig-align="left"} <br>
-Jeremiah Saylae (undergraduate, 2014) 
+Jeremiah Saylae (undergraduate, 2014) <br><br>
 
 Murad Beg (undergraduate, 2013) <br><br>
 
