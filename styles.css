@@ -50,10 +50,17 @@ text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   flex-wrap: wrap;      /* allow wrapping on small screens */
 }
 
-/* Narrow screens (e.g., mobile portrait) */
+/* Narrow screens on any device */
 @media (max-width: 768px) {
   .about-flex {
-    align-items: flex-start;  /* align top when wrapping */
+    align-items: flex-start; /* applies to narrow desktop AND mobile */
+  }
+}
+
+/* Optional: override for mobile landscape only */
+@media (max-width: 768px) and (orientation: landscape) {
+  .about-flex {
+    align-items: center; /* only mobile landscape */
   }
 }
 
