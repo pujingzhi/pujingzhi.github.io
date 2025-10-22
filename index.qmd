@@ -27,6 +27,19 @@ navbar: false
 
 Our interests lie at the interface between theoretical/computational chemistry and biophysics. The current research in the lab is directed towards understanding how biomolecules perform their functions via dynamical motions that are encoded in their three dimensional structures. Ongoing projects include computer simulations of ABC-transporters and development of combined quantum mechanical/molecular mechanical (QM/MM) methods. 
 
+:::{.about-flex}
+<!-- :::{.about-flex style="display: flex; align-items: flex-start; gap: 5px; flex-wrap: wrap;"} -->
+<div style="flex:1; min-width: 300px;">
+![](files/MalEFGK2.png){width="300px" style="flex-shrink:0;"}
+</div>
+<div style="flex:1; min-width: 220px;">
+![](files/tt_sp.png){width="220px" style="flex-shrink:0;"}
+</div>
+<div style="flex:1; min-width: 250px;">
+![](files/qmmm.png){width="250px" style="flex-shrink:0;"}
+</div>
+:::
+
 <!-- <table class="responsive-table" style="width:800px; margin:auto; text-align:center; border-collapse:collapse; border-spacing:0;"> -->
 <table style="width:800px; margin:auto; text-align:center; border-collapse:collapse; border-spacing:0;">
   <tr>
