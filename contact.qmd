@@ -12,15 +12,15 @@ Associate Professor
 Department of Chemistry and Chemical Biology  
 Indiana University Indianapolis  
 402 N. Blackford St., LD 326  
-Indianapolis, IN, USA
-Email: jpu[at]iu.edu 
-Phone: (317) 278-5721  
-Fax: (317) 274-4701
+Indianapolis, IN, USA <br>
+Email: jpu[at]iu.edu <br>
+Phone: (317) 278-5721 <br>
+Fax: (317) 274-4701 <br>
 Webpage: [https://pujingzhi.github.io](https://pujingzhi.github.io) 
 </div>
 
 <div>
-![](files/jpu_photo.png){width="215px" style="border-radius:40%; margin-right:20px;"}
+![](files/jpu_photo.png){width="200px" style="border-radius:50%; margin-right:20px;"}
 </div>
 
 :::
