@@ -154,7 +154,7 @@ navbar: false
 </li>
 
 <li value="29">
-- 29. "H-loop Histidine Catalyzes ATP Hydrolysis in the E. coli ABC-Transporter HlyB,” Zhou, Y.; Ojeda-May, P.; **Pu, J.** *Phys. Chem. Chem. Phys.* **2013**, *15*, 15811-15815 ([DOI:10.1039/C3CP50965F](https://dx.doi.org/10.1039/C3CP50965F); see also [arXiv:1304.0052](https://arxiv.org/abs/1304.0052)).
+"H-loop Histidine Catalyzes ATP Hydrolysis in the E. coli ABC-Transporter HlyB,” Zhou, Y.; Ojeda-May, P.; **Pu, J.** *Phys. Chem. Chem. Phys.* **2013**, *15*, 15811-15815 ([DOI:10.1039/C3CP50965F](https://dx.doi.org/10.1039/C3CP50965F); see also [arXiv:1304.0052](https://arxiv.org/abs/1304.0052)).
 </li>
 
 <li value="28">
