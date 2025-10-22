@@ -365,7 +365,6 @@ gtag('config', 'G-1W6X56QSLP', { 'anonymize_ip': true});
 </section>
 <section id="abc-transporters" class="level3">
 <h3 data-anchor-id="abc-transporters">ABC Transporters</h3>
-<!-- :::{.about-flex style="display: flex; align-items: center; gap: 20px;"} -->
 <div class="about-flex" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 <!-- ![](files/MalEFGK2.png "*Maltose transporter from* _E. coli_ <small>(PDB: 3FH6 / 2R6G)</small>"){fig-align="right" width="350px"} -->
 <!-- *Maltose transporter from* _E. coli_ <small>(PDB: 3FH6 / 2R6G)</small> -->
@@ -378,7 +377,6 @@ gtag('config', 'G-1W6X56QSLP', { 'anonymize_ip': true});
 </section>
 <section id="dna-damage" class="level3">
 <h3 data-anchor-id="dna-damage">DNA Damage</h3>
-<!-- :::{.about-flex style="display: flex; align-items: center; gap: 20px;"} -->
 <div class="about-flex" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 <div style="flex:1; min-width:200px;">
 <p>Under nutrient scarcity, certain bacteria form endospores that protect bacterial DNA from environmental damage, including UV radiation. UV light can damage DNA by forming cross-links between adjacent thymine bases (TT) in a DNA strand. Under regular conditions, such damage leads to the formation of a cyclobutane pyrimidine dimer (CPD) as the dominant photoproduct. In spores, however, the DNA photoreaction pattern changes: a special lesion, 5-thyminyl-5-6-dihydrothymine (the spore-photoproduct, SP), becomes the major form of TT damage. It is believed that SP lesions “lock” the DNA in a chemically inert state until germination, when these lesions are repaired by a specialized enzyme called spore-photoproduct lyase (SPL). Collaborating with Prof.&nbsp;<a href="http://chem.iupui.edu/~lilei/">Lei Li</a>, we have computationally characterized several dinucleotide analogues of SP <span class="citation" data-cites="Lin2012 Lin2011">(<a href="#ref-Lin2012" role="doc-biblioref">D. Lin et al. 2012</a>; <a href="#ref-Lin2011" role="doc-biblioref">G. Lin et al. 2011</a>)</span>, and are currently developing all-atom models for simulating short segments of SP-containing DNA.</p>
@@ -391,34 +389,37 @@ gtag('config', 'G-1W6X56QSLP', { 'anonymize_ip': true});
 <h3 data-anchor-id="qmmm-method-development">QM/MM Method Development</h3>
 <section id="qmmm-ips" class="level4">
 <h4 data-anchor-id="qmmm-ips">QM/MM-IPS</h4>
-<div class="about-flex" style="display: flex; align-items: center; gap: 20px;">
+<div class="about-flex" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 <!-- ![](files/Region_ips.png){fig-align="center" width="240px"} -->
 <!-- *The IPS method: interactions are computed explicitly up to a cutoff distance* _R<sub>c</sub>_. -->
 <!-- *Beyond that, an average potential is used.* -->
 <p><img src="files/Region_ips.png" style="flex-shrink:0;" width="200"></p>
-<div>
+<div style="flex:1; min-width: 200px;">
 <p>We are developing new approaches to include long-range electrostatic interactions in combined quantum mechanical and molecular mechanical (QM/MM) calculations. Traditionally, such interactions in molecular simulations are handled by lattice-sum methods such as Ewald summation, which considers all periodic images of particles. The Isotropic Periodic Sum (IPS) method <span class="citation" data-cites="Wu2005 Wu2008 Wu2009 OjedaMay2014a">(<a href="#ref-Wu2005" role="doc-biblioref">Wu and Brooks 2005</a>, <a href="#ref-Wu2009" role="doc-biblioref">2009</a>; <a href="#ref-Wu2008" role="doc-biblioref">WU and Brooks 2008</a>; <a href="#ref-OjedaMay2014a" role="doc-biblioref">Ojeda-May and Pu 2014</a>)</span> offers an efficient alternative: pairwise interactions are computed locally within a cutoff distance, while contributions beyond the cutoff are treated via a mean-field approximation assuming isotropic distribution of image particles. So far, IPS has been applied to purely classical systems. We are extending the method to combined QM/MM potentials <span class="citation" data-cites="OjedaMay2014b">(<a href="#ref-OjedaMay2014b" role="doc-biblioref">Ojeda–May and Pu 2014</a>)</span>, laying the groundwork for its use in enzyme simulations.</p>
 </div>
 </div>
 <hr>
 </section>
 <section id="rp-fm" class="level4">
-<h4 data-anchor-id="rp-fm">RP-FM</h4>
-<div class="about-flex" style="display: flex; align-items: center; gap: 20px;">
-<p>A long-standing challenge in computational enzymology is obtaining accurate free energy profiles for chemical reactions in condensed phases. Direct <em>ab initio</em> (AI) QM/MM sampling is computationally infeasible, so semiempirical (SE) methods are used instead — but they require careful reparameterization. We recently proposed <strong>Reaction Path Force Matching (RP-FM)</strong> <span class="citation" data-cites="ZhouPu2014">(<a href="#ref-ZhouPu2014" role="doc-biblioref">Zhou and Pu 2014</a>)</span>, a new SRP-fitting strategy that reparametrizes SE methods directly against AI/MM forces in condensed-phase simulations. RP-FM proceeds iteratively: 1. Sample configurations along a reaction path on an SE/MM potential energy surface. 2. Adjust SE parameters to reproduce AI/MM atomic forces via force matching. Repeating this cycle enables SE/MM simulations to achieve AI/MM-level accuracy without direct AI sampling. We have demonstrated the effectiveness of RP-FM on proton transfer reactions in both gas and solution phases, and extensions to enzymatic reactions are underway.</p>
+<h4>RP-FM</h4>
+<div class="about-flex" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+<div style="flex:1; min-width:200px;">
+A long-standing challenge in computational enzymology is obtaining accurate free energy profiles for chemical reactions in condensed phases. Direct <em>ab initio</em> (AI) QM/MM sampling is computationally infeasible, so semiempirical (SE) methods are used instead — but they require careful reparameterization. We recently proposed <strong>Reaction Path Force Matching (RP-FM)</strong> <span class="citation" data-cites="ZhouPu2014">(<a href="#ref-ZhouPu2014" role="doc-biblioref">Zhou and Pu 2014</a>)</span>, a new SRP-fitting strategy that reparametrizes SE methods directly against AI/MM forces in condensed-phase simulations. RP-FM proceeds iteratively: 1. Sample configurations along a reaction path on an SE/MM potential energy surface. 2. Adjust SE parameters to reproduce AI/MM atomic forces via force matching. Repeating this cycle enables SE/MM simulations to achieve AI/MM-level accuracy without direct AI sampling. We have demonstrated the effectiveness of RP-FM on proton transfer reactions in both gas and solution phases, and extensions to enzymatic reactions are underway.
 <div>
 <p><img src="files/RP-FM.png" style="flex-shrink:0;" width="350"></p>
 <!-- ![](files/RP-FM.png){fig-align="center" width="350px"} -->
 <!-- *The RP-FM strategy: sampling is carried out on efficient SE/MM surfaces and then SE-SRPs are optimized to reproduce AI/MM atomic forces.* -->
-</div>
-</div>
-</section>
-</section>
+<p>:::</p>
 <section id="references" class="level3">
+<h3 data-anchor-id="references">References</h3>
 
 
+</section>
+</div>
+</div>
+</div>
 
-
+</section>
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
