@@ -389,7 +389,7 @@ gtag('config', 'G-1W6X56QSLP', { 'anonymize_ip': true});
 <h3 data-anchor-id="qmmm-method-development">QM/MM Method Development</h3>
 <section id="qmmm-ips" class="level4">
 <h4 data-anchor-id="qmmm-ips">QM/MM-IPS</h4>
-<div class="about-flex" style="display: flex; align-items: center;">
+<div class="about-flex" style="display: flex; align-items: center; gap: 20px;">
 <!-- ![](files/Region_ips.png){fig-align="center" width="240px"} -->
 <!-- *The IPS method: interactions are computed explicitly up to a cutoff distance* _R<sub>c</sub>_. -->
 <!-- *Beyond that, an average potential is used.* -->
@@ -402,7 +402,7 @@ gtag('config', 'G-1W6X56QSLP', { 'anonymize_ip': true});
 </section>
 <section id="rp-fm" class="level4">
 <h4 data-anchor-id="rp-fm">RP-FM</h4>
-<div class="about-flex" style="display: flex; align-items: center;">
+<div class="about-flex" style="display: flex; align-items: center; gap: 20px;">
 <p>A long-standing challenge in computational enzymology is obtaining accurate free energy profiles for chemical reactions in condensed phases. Direct <em>ab initio</em> (AI) QM/MM sampling is computationally infeasible, so semiempirical (SE) methods are used instead — but they require careful reparameterization. We recently proposed <strong>Reaction Path Force Matching (RP-FM)</strong> <span class="citation" data-cites="ZhouPu2014">(<a href="#ref-ZhouPu2014" role="doc-biblioref">Zhou and Pu 2014</a>)</span>, a new SRP-fitting strategy that reparametrizes SE methods directly against AI/MM forces in condensed-phase simulations. RP-FM proceeds iteratively: 1. Sample configurations along a reaction path on an SE/MM potential energy surface. 2. Adjust SE parameters to reproduce AI/MM atomic forces via force matching. Repeating this cycle enables SE/MM simulations to achieve AI/MM-level accuracy without direct AI sampling. We have demonstrated the effectiveness of RP-FM on proton transfer reactions in both gas and solution phases, and extensions to enzymatic reactions are underway.</p>
 <div>
 <p><img src="files/RP-FM.png" style="flex-shrink:0;" width="350"></p>
