@@ -49,9 +49,7 @@ format:
     css: styles.css
     theme:
       light: [simplex, custom.scss]
-      dark: [darkly, custom_dark.scss]
-      #dark: [cyborg, custom_dark.scss]
-    #toggle: false # Disable the toggle dark mode icon
+      dark: [cyborg, custom_dark.scss]
     fontsize: 0.8em
     linestretch: 1.4
     mainfont: "sans-serif"
