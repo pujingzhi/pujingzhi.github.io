@@ -14,6 +14,18 @@ $navbar-bg: #990000;   // Crimson background
 $navbar-fg: #ffffff;   // white text/icon color
 $navbar-border-color: transparent;
 
-// Optional: hover and active colors for navbar links
-$navbar-light-hover-color: #ffcccb;  // light pink on hover
-$navbar-light-active-color: #ffffff; // white when active
+// Optional: hover and active link colors (brighter cream tones)
+$navbar-light-hover-color: #f8f5e1 !default; 
+$navbar-light-active-color: #ffffff !default;
+
+// Boost link weight and remove transparency
+.navbar,
+.navbar a,
+.navbar-nav .nav-link,
+.navbar-brand,
+.navbar-title,
+.navbar-toggler-icon {
+  color: #ffffff !important;
+  font-weight: 600;
+  text-shadow: 0 0 2px rgba(0, 0, 0, 0.2); // subtle contrast edge
+}
