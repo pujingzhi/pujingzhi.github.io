@@ -42,8 +42,27 @@ text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 }
 
+/* Reduce font size across the project */
 body {
   font-size: 80%;
+}
+
+/* Reduce sidebar font size */
+.sidebar,
+.sidebar-title,
+.sidebar-item,
+.sidebar-item a,
+.sidebar-item .sidebar-section,
+.sidebar nav,
+.sidebar ul,
+.sidebar li {
+  font-size: 80% !important;
+}
+
+/* Optional: reduce heading size inside sidebar */
+.sidebar h2,
+.sidebar h3 {
+  font-size: 90% !important;
 }
 
 ul {
