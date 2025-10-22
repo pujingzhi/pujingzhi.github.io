@@ -8,7 +8,7 @@ website:
   search: false
 
   sidebar:
-    style: "docked"
+    style: "floating"
     search: false
     logo: files/hlyb_poket_new_dark_mid.png
     contents:
