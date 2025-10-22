@@ -90,7 +90,7 @@ navbar: false
 </li>
 
 <li value="45">
-"Doubly Polarized QM/MM with Machine Learning Chaperone Polarizability," Kim, B.; Shao, Y.; **Pu, J.** *J. Chem. Theory Comput.* **2021**, *17*, 7682-7695 (DOI:10.1021/acs.jctc.1c00567](https://doi.org/10.1021/acs.jctc.1c00567)).
+"Doubly Polarized QM/MM with Machine Learning Chaperone Polarizability," Kim, B.; Shao, Y.; **Pu, J.** *J. Chem. Theory Comput.* **2021**, *17*, 7682-7695 [DOI:10.1021/acs.jctc.1c00567](https://doi.org/10.1021/acs.jctc.1c00567)).
 </li>
 
 <li value="44">
@@ -180,7 +180,7 @@ navbar: false
 </li>
 
 <li value="24"> 
-"CHARMM: The Biomolecular Simulation Program," Brooks, B. R.; Brooks, III C. L.; MacKerell, Jr. A. D.; Nilsson, L.; Petrella, R. J.; Roux, B.; Won, Y.; Archontis, G.; Bartels, C.; Boresch, S.; Caflisch, A.; Caves, L.; Cui, Q.; Dinner, A. R.; Feig, M.; Fischer, S.; Gao, J.; Hodoscek, M.; Im, W.; Kuczera, K.; Lazaridis, T.; Ma, J.; Ovchinnikov, V.; Paci, E.; Pastor, R. W.; Post, C. B.; **Pu, J.**; Schaefer, M.; Tidor, B.; Venable, R. M.; Woodcock, H. L.; Wu, X.; Yang, W.; York, D. M.; Karplus, M. *J. Comput. Chem.* **2009**, *30*, 1545-1614 ([DOI:10.1002/jcc.21287](https://dx.doi.org/10.1002/jcc.21287).
+"CHARMM: The Biomolecular Simulation Program," Brooks, B. R.; Brooks, III C. L.; MacKerell, Jr. A. D.; Nilsson, L.; Petrella, R. J.; Roux, B.; Won, Y.; Archontis, G.; Bartels, C.; Boresch, S.; Caflisch, A.; Caves, L.; Cui, Q.; Dinner, A. R.; Feig, M.; Fischer, S.; Gao, J.; Hodoscek, M.; Im, W.; Kuczera, K.; Lazaridis, T.; Ma, J.; Ovchinnikov, V.; Paci, E.; Pastor, R. W.; Post, C. B.; **Pu, J.**; Schaefer, M.; Tidor, B.; Venable, R. M.; Woodcock, H. L.; Wu, X.; Yang, W.; York, D. M.; Karplus, M. *J. Comput. Chem.* **2009**, *30*, 1545-1614 ([DOI:10.1002/jcc.21287](https://dx.doi.org/10.1002/jcc.21287)).
 </li>
 
 <li value="23"> 
