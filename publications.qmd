@@ -27,87 +27,182 @@ navbar: false
 
 ### Publications ###
 
-- 60. "Anisotropically Shaped Plasmonic WO3–x Nanostructure-Driven Ultrasensitive SERS Detection and Machine Learning-Based Differentiation of Nitro-Explosives," Simas, M. V.; Davis Jr, G. A.; Hati, S.; **Pu, J.**; Goodpaster, J. V.; Sardar, R. *ACS Appl. Mater. Interfaces* **2024**, *17*, 7 ([DOI:10.1021/acsami.4c19673](https://doi.org/10.1021/acsami.4c19673)).
+<ol>
+<li value="60"> 
+"Anisotropically Shaped Plasmonic WO3–x Nanostructure-Driven Ultrasensitive SERS Detection and Machine Learning-Based Differentiation of Nitro-Explosives," Simas, M. V.; Davis Jr, G. A.; Hati, S.; **Pu, J.**; Goodpaster, J. V.; Sardar, R. *ACS Appl. Mater. Interfaces* **2024**, *17*, 7 ([DOI:10.1021/acsami.4c19673](https://doi.org/10.1021/acsami.4c19673)).
+</li>
 
-- 59. "CHARMM at 45: Enhancements in Accessibility, Functionality, and Speed," Hwang, W.; Austin, S. L.; Blondel, A.; Boittier, E. D.; Boresch, S.; Buck, M.; Buckner, J.; Caflisch, A.; Chang, H.-T.; Cheng, X.; Choi, K. Y.; Chu, J.-W.; Crowley, M. F.; Cui, Q.; Damjanovic, A.; Deng, Y.; Devereux, M.; Ding, X.; Feig, M. F.; Gao, J.; Glowacki, D. R.; Gonzales, J. E.; Hamaneh, M. B.; Harder, E. D.; Hayes, R. L.; Huang, J.; Huang, Y.; Hudson, P. S.; Im, W.; Islam, S. M.; Jiang, W.; Jones, M. R.; Kaser, S.; Kearns, F. L.; Kern, N. R.; Klauda, J. B.; Lazaridis, T.; Lee, J.; Lemkul, J. A.; Liu, X.; Luo, Y.; MacKerell Jr, A. D.; Major, D. T.; Meuwly, M.; Nam, K.; Nilsson, L.; Ovchinnikov, V.; Paci, E.; Park, S.; Pastor, R. W.; Pittman, A. R.; Post, C. B.; Prasad, S.; **Pu, J.**; Qi, Y.; Rathinavelan, T.; Roe, D. R.; Roux, B.; Rowley, C. N.; Shen, J.; Simmonett, A. C.; Sodt, A. J.; Topfer, K.; Upadhyay, M.; van der Vaart, A.; Vazquez-Salazar, L. I.; Venable, R. M.; Warrensford, L. C.; Woodcock, H. L.; Wu, Y.; Brooks III, C. L.; Brooks, B. R.; Karplus, M. *J. Phys. Chem. B.* **2024**, *128* , 9976-10042 ([DOI:10.1021/acs.jpcb.4c04100](https://doi.org/10.1021/acs.jpcb.4c04100)).
+<ol>
+<li value="59">
+"CHARMM at 45: Enhancements in Accessibility, Functionality, and Speed," Hwang, W.; Austin, S. L.; Blondel, A.; Boittier, E. D.; Boresch, S.; Buck, M.; Buckner, J.; Caflisch, A.; Chang, H.-T.; Cheng, X.; Choi, K. Y.; Chu, J.-W.; Crowley, M. F.; Cui, Q.; Damjanovic, A.; Deng, Y.; Devereux, M.; Ding, X.; Feig, M. F.; Gao, J.; Glowacki, D. R.; Gonzales, J. E.; Hamaneh, M. B.; Harder, E. D.; Hayes, R. L.; Huang, J.; Huang, Y.; Hudson, P. S.; Im, W.; Islam, S. M.; Jiang, W.; Jones, M. R.; Kaser, S.; Kearns, F. L.; Kern, N. R.; Klauda, J. B.; Lazaridis, T.; Lee, J.; Lemkul, J. A.; Liu, X.; Luo, Y.; MacKerell Jr, A. D.; Major, D. T.; Meuwly, M.; Nam, K.; Nilsson, L.; Ovchinnikov, V.; Paci, E.; Park, S.; Pastor, R. W.; Pittman, A. R.; Post, C. B.; Prasad, S.; **Pu, J.**; Qi, Y.; Rathinavelan, T.; Roe, D. R.; Roux, B.; Rowley, C. N.; Shen, J.; Simmonett, A. C.; Sodt, A. J.; Topfer, K.; Upadhyay, M.; van der Vaart, A.; Vazquez-Salazar, L. I.; Venable, R. M.; Warrensford, L. C.; Woodcock, H. L.; Wu, Y.; Brooks III, C. L.; Brooks, B. R.; Karplus, M. *J. Phys. Chem. B.* **2024**, *128* , 9976-10042 ([DOI:10.1021/acs.jpcb.4c04100](https://doi.org/10.1021/acs.jpcb.4c04100)).
+</li>
 
-- 58. "Design of Light‐Induced Solid‐State Plasmonic Rulers via Tethering Photoswitchable Molecular Machines to Gold Nanostructures Displaying Angstrom Length Resolution," Langlais, S. R.; Hati, S.; Simas, M. V.; **Pu, J.** Muhoberac, B. B.; Sardar, R. *Adv. Opt. Mater.* **2024**, *12* , 2400801 ([DOI:10.1002/adom.202400801](https://doi.org/10.1002/adom.202400801)).
+<ol>
+<li value="58">
+"Design of Light‐Induced Solid‐State Plasmonic Rulers via Tethering Photoswitchable Molecular Machines to Gold Nanostructures Displaying Angstrom Length Resolution," Langlais, S. R.; Hati, S.; Simas, M. V.; **Pu, J.** Muhoberac, B. B.; Sardar, R. *Adv. Opt. Mater.* **2024**, *12* , 2400801 ([DOI:10.1002/adom.202400801](https://doi.org/10.1002/adom.202400801)).
+</li>
 
+<ol>
+<li value="57">
 - 57. "DFT/MM Simulations for Cycloreversion Reaction of Cyclobutane Pyrimidine Dimer with Deprotonated and Protonated E283," Xue, P.; Huang, D.; **Pu, J.** Zhou, Y. *J. Phys. Chem. B* **2024**, *128*, 6670-6683 [DOI:10.1021/acs.jpcb.4c01011](https://doi.org/10.1021/acs.jpcb.4c01011).
+</li>
 
+<ol>
+<li value="56">
 - 56. "Polyrate 2023: A Computer Program for the Calculation of Chemical Reaction Rates for Polyatomics. New Version Announcement," Meana-Paneda, R.; Zheng, J.; Bao, J. L.; Zhang, S.; Lynch, B. J.; Corchado, J. C.; Chuang, Y.-Y.; Fast, P. L.; Hu, W.-P.; Liu, Y.-P.; Lynch, G. C.; Nguyen, K. A.; Jackels, C. F.; Fernandez-Ramos, A.; Ellingson, B. A.; Melissas, V. S.; Villa, J.; Rossi, I.; Coitino, E. L.; **Pu, J.**; Albu, T. V.; Zhang, R. M.; Xu, X.; Ratkiewicz, A.; Steckler, R.; Garrett, B. C.; Isaacson, A. D.; Truhlar, D. G. *Comput. Phys. Commun.* **2024**, *294*, 108933 ([DOI:10.1016/j.cpc.2023.108933](https://doi.org/10.1016/j.cpc.2023.108933)).
+</li>
 
+<ol>
+<li value="55">
 - 55. "Training Machine Learning Potentials for Reactive Systems. A Colab Tutorial on Basic Models," Pan, X.; Snyder, R.; Wang, J.-N.; Lander, C.; Wickizer, C.; Van. R.; Chesney, A.; Xue, Y.; Mao, Y.; Mei, Y.; **Pu, J.**; Shao, Y. *J. Comput. Chem.* 2024, *45*, 638-647 ([DOI:10.1002/jcc.27269](  https://doi.org/10.1002/jcc.27269))
+</li>
 
+<ol>
+<li value="54">
 - 54. "Free Energy Profile Decomposition Analysis for QM/MM Simulations of Enzymatic Reactions," Pan, X.; Van, R.; **Pu, J.**; Nam, K.; Mao, Y.; Shao, Y. J. *Chem. Theory Comput.* **2023**, *19*, 8234-8244 ([DOI:10.1021/acs.jctc.3c00973](https://doi.org/10.1021/acs.jctc.3c00973)).
+</li>
 
+<ol>
+<li value="53">
 - 53. "Hybrid Metal-Ligand Interfacial Dipole Engineering of Functional Plasmonic Nanostructures for Extraordinary Responses of Optoelectronic Properties," Hati, S.; Yang, X.; Gupta, P.; Muhoberac, B.; **Pu, J.**; Zhang, J.; Sardar, R. *ACS Nano* **2023**, *17*, 17499-17515 ([DOI:10.1021/acsnano.3c06047](https://doi.org/10.1021/acsnano.3c06047)).
+</li>
 
+<ol>
+<li value="52">
 - 52. "Bridging Semiempirical and Ab Initio QM/MM Potentials by Gaussian Process Regression and Its Sparse Variants for Free Energy Simulation,” Snyder, R.; Kim, B.; Pan, X.; Shao, Y.; **Pu, J.** *J. Chem. Phys.* **2023**, *159*, 054107 ([DOI:10.1063/5.0156327](https://doi.org/10.1063/5.0156327)).
+</li>
 
+<ol>
+<li value="51">
 - 51. "Revealing Intrinsic Changes of DNA Induced by Spore Photoproduct Lesion through Computer Simulation," Hege, M.; Li, L.; **Pu, J.** *Biophys. Chem.* **2023**, *296*, 106992 ([DOI:10.1016/j.bpc.2023.106992](https://doi.org/10.1016/j.bpc.2023.106992)).
+</li>
 
+<ol>
+<li value="50">
 - 50. "Photoactivities of Thiophene Monomer/Polymer Transition in Gel–Based Photoelectrochemical Assembly: A Theoretical/Experimental Approach." Kasem, K.; **Pu, J.**; Cox, L. *Int. J. Electrochem. Sci.* **2023**, *18*, 1000077 ([DOI:10.1016/j.ijoes.2023.100077](https://doi.org/10.1016/j.ijoes.2023.100077)).
+</li>
 
+<ol>
+<li value="49">
 - 49. "Machine Learning Based Implicit Solvent Model for Aqueous–Solution Alanine Dipeptide Molecular Dynamics Simulations," Yao, S.; Van, R.; Pan, X.; Park, J. H.; Mao, Y.; **Pu, J.**;  Mei, Y.; Shao, Y. *RSC Adv.* **2023**, *13*, 4565-4577 ([DOI:10.1039/D2RA08180F](https://doi.org/10.1039/D2RA08180F)).
+</li>
 
+<ol>
+<li value="48">
 - 48. "Facilitating Ab Initio QM/MM Free Energy Simulations by Gaussian Process Regression with Derivative Observations," Snyder, R.; Kim, B.; Pan, X.; Shao, Y.; **Pu, J.** *Phys. Chem. Chem. Phys.* **2022**, *24*, 25134-25143 (selected as a 2022 PCCP HOT Article) ([DOI:10.1039/D2CP02820D](https://doi.org/10.1039/D2CP02820D)).
+</li>
 
+<ol>
+<li value="47">
 - 47. "Photoinduced Site-Selective Functionalization of Aliphatic C-H Bonds by Pyridine N-oxide Based HAT Catalysts," Wang, B.; Ascenzi Pettenuzzo, C.; Singh, J.; Mccabe, G.; Clark, L.; Young, R.; **Pu, J.**; Deng, Y. *ACS Catalysis* **2022**, *12*, 10441-10448 ([DOI:10.1021/acscatal.2c02993](https://doi.org/10.1021/acscatal.2c02993)).
+</li>
 
+<ol>
+<li value="46">
 - 46. "Accelerating ab initio QM/MM Molecular Dynamics Simulations with Multiple Time Step Integration and a Recalibrated Semiempirical QM/MM Hamiltonian," Pan, X.; Van, R.; Epifanovsky, E.; Liu, J.; **Pu, J.**; Nam, K.; Shao, Y. J. *Phys. Chem. B* **2022**, *126*, 4226-4235 ([DOI:10.1021/acs.jpcb.2c02262](https://doi.org/10.1021/acs.jpcb.2c02262)).
+</li>
 
+<ol>
+<li value="45">
 - 45. "Doubly Polarized QM/MM with Machine Learning Chaperone Polarizability," Kim, B.; Shao, Y.; **Pu, J.** *J. Chem. Theory Comput.* **2021**, *17*, 7682-7695 (DOI:10.1021/acs.jctc.1c00567](https://doi.org/10.1021/acs.jctc.1c00567)).
+</li>
 
+<ol>
+<li value="44">
 - 44. "Machine-Learning-Assisted Free Energy Simulation of Solution-Phase and Enzyme Reactions," Pan, X.; Yang, J.; Van, R.; Epifanovsky, E.; Ho, J.; Huang, J.; **Pu, J.**, Mei, Y.; Nam, K.; Shao, Y. *J. Chem. Theory Comput.* **2021**, *17*, 5745-5758 [DOI:10.1021/acs.jctc.1c00565](https://doi.org/10.1021/acs.jctc.1c00565)).
+</li>
 
+<ol>
+<li value="43">
 - 43. "Reaction Path-Force Matching in Collective Variables: Determining Ab Initio QM/MM Free Energy Profiles by Fitting Mean Force," Bryant, K.; Snyder, R.; Nagaraju, M.; Zhou, Y.; Ojeda-May. P.; Keeton, S.; Hege, M.; Shao, Y.; **Pu, J.** *J. Chem. Theory Comput.* **2021**, *17*, 4961-4980 ([DOI:10.1021/acs.jctc.1c00245](https://doi.org/10.1021/acs.jctc.1c00245)).
+</li>
 
+<ol>
+<li value="42">
 - 42. "Interligand Communication in a Metal Mediated LL’CT System – A Case Study," Dille, S. A.; Colston, K.; Ratvasky, S. C.; **Pu, J.**; Basu, P. *RSC Adv.* **2021**, *11*, 24381-24386 ([DOI:10.1039/D1RA04716G](https://doi.org/10.1039/D1RA04716G)).
+</li>
 
+<ol>
+<li value="41">
 - 41. "Identifying Thermal Decomposition Products of Nitrate Ester Explosives via Gas Chromatography/Vacuum UV (VUV) Spectroscopy: An Experimental and Computational Study," Cruse, C. A.; **Pu, J.**; Goodpaster, J. V. *Applied Spec.* **2020**, *74*, 1486-1495 ([DOI:10.1177/0003702820915506](https://doi.org/10.1177/0003702820915506)).
+</li>
 
+<ol>
+<li value="40">
 - 40. "Accelerated Computation of Free Energy Profile at ab Initio Quantum Mechanical/Molecular Mechanics Accuracy via a Semi-Empirical Reference Potential. II. Recalibrating Semi-Empirical Parameters with Force Matching," Pan, X.; Li, P.; Ho, J.; **Pu, J.**; Mei, Y.; Shao, Y. *Phys. Chem. Chem. Phys.* **2019**, *21*, 20595-20605 ([DOI:10.1039/C9CP02593F](https://doi.org/10.1039/C9CP02593F)).
+</li>
 
+<ol>
+<li value="39">
 - 39. "Exploring Cycloreversion Reaction of Cyclobutane Pyrimidine Dimers Quantum Mechanically," Huang, D.; Chen, S.; Pu, J.; Tan, X.; Zhou, Y. *J. Phys. Chem. A* **2019**, *123*, 2025-2039 ([DOI:10.1021/acs.jpca.8b12345](https://doi.org/10.1021/acs.jpca.8b12345)).
+</li>
 
+<ol>
+<li value="38">
 - 38. "Mapping Free Energy Paths for ATP Hydrolysis in the E. coli. ABC-Transporter HlyB by the String Method," Zhou, Y.; Ojeda-May, P.; Nagaraju, M.; Kim, B.; **Pu, J.** *Molecules* **2018**, *23*, 2652 ([DOI:10.3390/molecules23102652](https://doi.org/10.3390/molecules23102652)).
+</li>
 
+<ol>
+<li value="37">
 - 37. "Elucidating the Role of Surface Passivating Ligand Structural Parameters in Hole Wave Function Delocalization in Semiconductor Cluster Molecules,” Teunis, M. B.; Mulpuri, N.; Dutta, P; **Pu, J.**; Muhoberac, B. B.; Sardar, R.; Agarwal, M. *Nanoscale* **2017**, *9*, 14127-14138 ([DOI:10.1039/C7NR04874B](https://doi.org/10.1039/C7NR04874B)).
+</li>
 
+<ol>
+<li value="36">
 - 36. "Toward Determining ATPase Mechanism in ABC Transporters: Development of the Reaction Path-Force Matching QM/MM Method," Zhou, Y.; Ojeda-May, P.; Nagaraju, M.; **Pu, J.** *Methods in Enzymology* (Computational approaches for studying enzyme mechanism) **2016**, *577*, 185-212 (invited Article) ([DOI:10.1016/bs.mie.2016.05.054](https://doi.org/10.1016/bs.mie.2016.05.054)).
+</li>
 
+<li value="35">
 - 35. "Treating Electrostatics with Wolf Summation in Combined Quantum Mechanical and Molecular Mechanical Simulations,” Ojeda-May, P.; **Pu, J.** *J. Chem. Phys.* **2015**, *143*, 174111 ([DOI:10.1063/1.4934880](https://dx.doi.org/10.1063/1.4934880)).
+</li>
 
+<li value="34">
 - 34. "Trapping the ATP Binding State Leads to a Detailed Understanding of the F1-ATPase Mechanism,” Nam, K.; **Pu, J.**; Karplus, M. *Proc. Natl. Acad. Sci. USA* **2014**, *111*, 17851-17856 ([DOI:10.1073/pnas.1419486111](https://dx.doi.org/10.1073/pnas.1419486111)). 
+</li>
 
+<li value="33">
 - 33. "Assessing the Accuracy of the Isotropic Periodic Sum Method through Madelung Energy Computation,” Ojeda-May, P.; **Pu, J.** *J. Chem. Phys.* **2014**, *140*, 164106 ([DOI:10.1063/1.4871871](https://dx.doi.org/10.1063/1.4871871)). 
+</li>
 
+<li value="32">
 - 32. "Reaction Path-Force Matching: A New Strategy of Fitting Specific Reaction Parameters for Semiempirical Methods in QM/MM Simulations,” Zhou, Y.; **Pu, J.** *J. Chem. Theory Comput.* **2014**, *10*, 3038-3054 ([DOI:10.1021/ct4009624](https://dx.doi.org/10.1021/ct4009624)).
+</li>
 
+<li value="31">
 - 31. “Isotropic Periodic Sum Treatment of Long-Range Electrostatic Interactions in Combined Quantum Mechanical and Molecular Mechanical Calculations,” Ojeda-May, P.; **Pu, J.** *J. Chem. Theory Comput.* **2014**, *10*, 134-145 ([DOI:10.1021/ct400724d](https://dx.doi.org/10.1021/ct400724d)).
+</li>
 
+<li value="30">
 - 30. "Replica Exchange Molecular Dynamics Simulations of an α/β-type Small Acid Soluble Protein (SASP)," Ojeda-May, P.; **Pu, J.** *Biophys. Chem.* **2013**, *184*, 17-21 ([DOI:10.1016/j.bpc.2013.07.014](https://dx.doi.org/10.1016/j.bpc.2013.07.014)). 
+</li>
 
+<li value="29">
 - 29. "H-loop Histidine Catalyzes ATP Hydrolysis in the E. coli ABC-Transporter HlyB,” Zhou, Y.; Ojeda-May, P.; **Pu, J.** *Phys. Chem. Chem. Phys.* **2013**, *15*, 15811-15815 ([DOI:10.1039/C3CP50965F](https://dx.doi.org/10.1039/C3CP50965F); see also [arXiv:1304.0052](https://arxiv.org/abs/1304.0052)).
+</li>
 
+<li value="28">
 - 28. "Expanding the Horizon of the Thymine Isostere Biochemistry: Unique Cyclobutane Dimers Formed via Photoreaction Between a Thymine and a Toluene Residue in the Dinucleotide Framework,” Liu, D.; Zhou, Y.; **Pu, J.**; Li, L. *Chem. Eur. J.* **2012**, *18*, 7823-7833 ([DOI:10.1002/chem.201200816](https://dx.doi.org/10.1002/chem.201200816)).
+</li>
 
+<li value="27">
 - 27. "Chemical Synthesis, Crystal Structure and Enzymatic Evaluation of a Dinucleotide Spore Photoproduct Analogue Containing Formacetal Linker," Lin, G.; Chen, C.-H.; Pink, M.; **Pu, J.**; Li, L. *Chem. Eur. J.* **2011**, *17*, 9658-9668 ([DOI:10.1002/chem.201101821](http://dx.doi.org/10.1002/chem.201101821)).
+</li>
+
+</ol>
 
 #### Before IUPUI ####
 
 <ol>
 <li value="26"> 
-"How Biomolecular Motors Work: Synergy between Single Molecule Experiments and Single Molecule Simulations," Karplus, M.; '''Pu, J.''', in Springer Series in Chemical Physics '''2010''', ''96'' (''Single Molecule Spectroscopy in Chemistry, Physics, and Biology''), pp. 271-285.
+"How Biomolecular Motors Work: Synergy between Single Molecule Experiments and Single Molecule Simulations," Karplus, M.; **Pu, J.**, in Springer Series in Chemical Physics **2010**, *96* (*Single Molecule Spectroscopy in Chemistry, Physics, and Biology*), pp. 271-285.
 </li>
 
 <li value="25"> 
-"A Coupled Polarization-Matrix Inversion and Iteration Approach for Accelerating the Dipole Convergence in a Polarizable Potential Function," Xie, W.; '''Pu, J.'''; Gao, J. ''J. Phys. Chem. A'' '''2009''', ''113'', 2109-2116 ([http://dx.doi.org/10.1021/jp808952m  DOI:10.1021/jp808952m]).
+"A Coupled Polarization-Matrix Inversion and Iteration Approach for Accelerating the Dipole Convergence in a Polarizable Potential Function," Xie, W.; '''Pu, J.'''; Gao, J. *J. Phys. Chem. A* **2009**, *113*, 2109-2116 ([DOI:10.1021/jp808952m](https://dx.doi.org/10.1021/jp808952m)).
 </li>
 
 <li value="24"> 
-"CHARMM: The Biomolecular Simulation Program," Brooks, B. R.; Brooks III, C. L.; MacKerell, Jr., A. D.; Nilsson, L.; Petrella, R. J.; Roux, B.; Won, Y.; Archontis, G.; Bartels, C.; Boresch, S.; Caflisch, A.; Caves, L.; Cui, Q.; Dinner, A. R.; Feig, M.; Fischer, S.; Gao, J.; Hodoscek, M.; Im, W.; Kuczera, K.; Lazaridis, T.; Ma, J.; Ovchinnikov, V.; Paci, E.; Pastor, R. W.; Post, C. B.; '''Pu, J.'''; Schaefer, M.; Tidor, B.; Venable, R. M.; Woodcock, H. L.; Wu, X.; Yang, W.; York, D. M.; Karplus, M. ''J. Comput. Chem.'' '''2009''', ''30'', 1545-1614 ([http://dx.doi.org/10.1002/jcc.21287 DOI:10.1002/jcc.21287]).
+"CHARMM: The Biomolecular Simulation Program," Brooks, B. R.; Brooks III, C. L.; MacKerell, Jr., A. D.; Nilsson, L.; Petrella, R. J.; Roux, B.; Won, Y.; Archontis, G.; Bartels, C.; Boresch, S.; Caflisch, A.; Caves, L.; Cui, Q.; Dinner, A. R.; Feig, M.; Fischer, S.; Gao, J.; Hodoscek, M.; Im, W.; Kuczera, K.; Lazaridis, T.; Ma, J.; Ovchinnikov, V.; Paci, E.; Pastor, R. W.; Post, C. B.; **Pu, J.**; Schaefer, M.; Tidor, B.; Venable, R. M.; Woodcock, H. L.; Wu, X.; Yang, W.; York, D. M.; Karplus, M. *J. Comput. Chem.* **2009**, *30*, 1545-1614 ([DOI:10.1002/jcc.21287](https://dx.doi.org/10.1002/jcc.21287).
 </li>
 
 <li value="23"> 
@@ -196,10 +291,11 @@ navbar: false
 </li>
 
 <li value="2"> 
-"Parametrized Direct Dynamics Study of Rate Constants of H with CH<sub>4</sub> from 250 to 2400 K," '''Pu, J.'''; Truhlar, D. G. ''J. Chem. Phys.'' '''2002''', ''116'', 1468  ([http://dx.doi.org/10.1063/1.1427917 DOI:10.1063/1.1427917]). 
+"Parametrized Direct Dynamics Study of Rate Constants of H with CH<sub>4</sub> from 250 to 2400 K," **Pu, J.**; Truhlar, D. G. *J. Chem. Phys.* **2002**, *116*, 1468  ([DOI:10.1063/1.1427917](https://dx.doi.org/10.1063/1.1427917)). 
 </li>
 
 <li value="1"> 
-"Test of Variational Transition State Theory with Multidimensional Tunneling Contributions Against an Accurate Full-Dimensional Rate Constant Calculation for a Six-Atom system," '''Pu, J.'''; Corchado, J. C.; Truhlar, D. G. ''J. Chem. Phys.'' '''2001''', ''115'', 6266 ([http://dx.doi.org/10.1063/1.1398581 DOI:10.1063/1.1398581]).
+"Test of Variational Transition State Theory with Multidimensional Tunneling Contributions Against an Accurate Full-Dimensional Rate Constant Calculation for a Six-Atom system," **Pu, J.**; Corchado, J. C.; Truhlar, D. G. *J. Chem. Phys.* **2001**, *115*, 6266 ([DOI:10.1063/1.1398581](https://dx.doi.org/10.1063/1.1398581)).
 </li>
+
 </ol>
