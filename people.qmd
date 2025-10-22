@@ -30,36 +30,133 @@ navbar: false
 <br>
 ![](files/jpu.JPG){fig-align="left"} <br>
 Jingzhi Pu (PI) <br>
-Postdoc: Harvard University (2005-2010; with with [Martin Karplus](https://en.wikipedia.org/wiki/Martin_Karplus)) <br>
-Postdoc: University of Minnesota (2004-2025; with [Jiali Gao](https://jialigao.org/)) <br>
-PhD: University of Minnesota (2004; with [Donald G. Truhlar](https://comp.chem.umn.edu/truhlar)) <br>
-BS, Peking University (1999) <br><br>
+Postdoc, Harvard University (2005-2010; with with [Martin Karplus](https://en.wikipedia.org/wiki/Martin_Karplus)) <br>
+Postdoc, University of Minnesota (2004-2025; with [Jiali Gao](https://jialigao.org/)) <br>
+Ph.D., University of Minnesota (2004; with [Donald G. Truhlar](https://comp.chem.umn.edu/truhlar)) <br>
+B.S., Peking University (1999) <br><br>
 
 ![](files/DongruLi.jpg){fig-align="left"} <br>
-Dongru Li (3rd year PhD student) <br>
-MS: Fudan University (2023) <br>
-BS: Henan Institute of Science and Technology (2020) <br><br>
+Dongru Li (3rd year Ph.D. student) <br>
+M.S., Fudan University (2023) <br>
+B.S., Henan Institute of Science and Technology (2020) <br><br>
 
 ![](files/TinhHo.jpg){fig-align="left"} <br> 
-Tinh Ho (3rd year PhD student; co-advised by Prof. Partha Basu) <br><br>
+Tinh Ho (3rd year Ph.D. student; co-advised by Prof. Partha Basu) <br><br>
 
 ![](files/HysumQazi_sm.png){fig-align="left"} <br>
 Hysum Qazi (undergraduate researcher; UROP Scholar: 2024-2026) <br><br>
 
-#### Former members ####
-<br>
+---
+
+#### Former group members ####
+
+<u> Graduate students </u> <br>
+
 ![](files/RyanSnyder.jpg){fig-align="left"} <br>
 Ryan Snyder (Ph.D. 2023; currently, postdoc at Rutgers) <br>
-BS: IU Bloomington <br><br>
+B.S., IU Bloomington <br><br>
 
 ![](files/BryantKim.JPG){fig-align="left"} <br>
 Bryant Kim (Ph.D. 2023; currently, postdoc at Merck) <br>
-BA: IUPUI <br><br>
+B.A., IUPUI <br><br>
 
 ![](files/MellisaHege.jpg){fig-align="left"} <br>
 Mellisa Hege (Ph.D. 2023; currently, IU School of Medicine) <br>
-BA: IUPUI <br><br>
+B.A., IUPUI <br><br>
 
 ![](files/RyanYoung.jpg){fig-align="left"} <br>
 Ryan Young (Ph.D. 2023) <br>
-BS: IU Bloomington <br><br>
+B.S., IU Bloomington <br><br>
+
+Karen Thomson (MS, Fall 2013) <br><br>
+
+Aimee Rinas (Ph.D. student, 2011-2012) <br>
+Currently, Principal Scientist at Nexelis <br><
+Previously, Ph.D. student in [Lisa Jones](https://chem.iupui.edu/people/lisa-m-jones) group at IUPUI <br>br>
+
+Pamela Filby (graduate student, 2015-2016; co-advised by Prof. Eric Long) <br>
+B.S., Ball State University (Cum Laude, ) (2012) <br> 
+M.S., Ball State University (2014) <br><br>
+
+<u> Postdocs </u> <br>
+
+![](files/Raju.jpg){fig-align="left"} <br>
+Mulpuri Nagaraju (postdoc, 2014-2017) <br>
+Ph.D., Indian Institute of Chemical Technology <br>
+Postdoc, Georgia State University <br>
+Postdoc, Indiana University-Purdue University Indianapolis <br>
+E-mail: mulpurinagaraju[at]gmail.com <br><br>
+
+![](files/YanZhou.jpg){fig-align="left"} <br>
+Yan Zhou (postdoc, 2011-2014; currently, faculty at GuangXi University for Nationalities, China) <br>
+B.S., University of Science & Technology of China <br>
+Ph.D., University of Minnesota <br>
+Postdoc, Indiana University-Purdue University Indianapolis <br> 
+E-mail: zhouyan[at]iupui.edu <br><br>
+
+![](files/Pedro_iupui.gif){fig-align="left"} <br>
+Pedro Ojeda-May (postdoc, 2011-2014; currently, Senior Research Engineer, Umeå University, Sweden) <br><br>
+Ph.D., Universität Kassel, Germany <br> 
+E-mail: pojedama[at]iupui.edu <br><br>
+
+<u> Undergraduates </u> <br>
+
+![](files/SalmaAbdelhamid.jpg){fig-align="left"} <br>SalmaAbdelhamid
+Salma Abdelhamid (undergraduate student, "1st Year Research Immersion" 1RIP fellow, 2024) 
+
+![](files/TaemoorHasan.jpg){fig-align="left"} <br>
+Taemoor Hasan (undergraduate student, "1st Year Research Immersion" 1RIP fellow, 2024) 
+
+![](files/RebekahJackson.jpg){fig-align="left"} <br>
+Rebekah Jackson (undergraduate, 2021-2022; NIH postbacceloriate grant awardee; currently, Yale) <br>
+UROP scholarship, Summers 2021 and 2022 <br>
+Email: rebajack[at]iu.edu <br><br>
+
+Darlene Evans (undergraduate, 2018) <br><br>
+
+Cameron Meadows (undergraduate, 2017) <br><br>
+
+Seth Keeton (undergraduate, 2017) <br><br>
+
+Tung Ho (undergraduate, 2015) <br><br>
+
+Jacques Roettcher (undergraduate, 2015) <br><br>
+
+Seunghwan (Robin) Lee (undergraduate, 2015) <br><br>
+
+![](files/JeremiahSaylae.jpg){fig-align="left"} <br>
+Jeremiah Saylae (undergraduate, 2014) 
+
+Murad Beg (undergraduate, 2013) <br><br>
+
+Duy Nguyen (undergraduate, 2012) <br>
+Currently, Indiana National Guard and PTS Diagnostics <br><br>
+
+Kimberly Adams (undergraduate, 2013) <br><br>
+
+Anne Cook (undergraduate, 2012) <br><br>
+
+Brett Palencer (undergraduate, 2012) <br> 
+Currently, Kremers Urban Pharmaceuticals Inc. <br><br>
+
+Hongdi Bai (undergraduate, 2012) <br><br> 
+
+![](files/Cornelius_Audu.png){fig-align="left"} <br>
+Cornelius Audu (undergraduate, 2011-2012) <br>
+McNair Scholar, IUPUI (2011) <br>
+Currently, Northwestern University <br><br>
+
+<u> Highschool students </u> <br>
+
+![](files/JoannaZhang.jpg){fig-align="left"} <br>
+Joanna Zhang (highschool student, Carmel High School, 2017) <br> 
+Project STEM Summer Research Intern <br><br>
+
+![](files/BenSun.jpg){fig-align="left"} <br>
+Yiyang (Ben) Sun (highschool student, The King\'s Academ, 2017)
+Project SEED Summer Research Intern <br><br>
+
+![](files/jacob_lucas.png){fig-align="left"} <br>
+Jacob Lucas (highschool student, Arsenal Tech High School, 2012 & 2013) <br>
+ACS SEED Summer Research Intern <br><br>
+
