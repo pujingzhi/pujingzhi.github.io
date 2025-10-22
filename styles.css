@@ -47,6 +47,41 @@ body {
   font-size: 80%;
 }
 
+/* === IU "Cream and Crimson" theme — for mobile navbar only === */
+@media screen and (max-width: 991px) {
+
+  /* Top bar background */
+  .navbar, .quarto-navbar {
+    background-color: #990000 !important;  /* IU Crimson */
+    color: #EEEDEB !important;             /* IU Cream text */
+  }
+
+  /* Page title text shown in the top bar */
+  .navbar-title, 
+  .quarto-navbar .navbar-brand {
+    color: #EEEDEB !important;
+    font-weight: 600;
+  }
+
+  /* Hamburger menu icon (the 3-line icon) */
+  .navbar-toggler-icon {
+    filter: invert(100%); /* makes the icon cream/white on crimson */
+  }
+
+  /* The button containing the hamburger icon */
+  .navbar-toggler {
+    color: #EEEDEB !important;
+    border: none !important;
+    background: transparent !important;
+  }
+
+  /* Optional hover/active states */
+  .navbar-toggler:hover,
+  .navbar-title:hover {
+    opacity: 0.85;
+  }
+}
+
 ul {
   margin-left: 0em;   /* default is around 2em */
   padding-left: 1.2em;
