@@ -28,7 +28,7 @@ navbar: false
 ### People ###
 
 <br>
-![](files/jpu.JPG){fig-align="left" width="90px"} <br>
+![](files/jpu.JPG){fig-align="left" width="100px"} <br>
 Jingzhi Pu (PI) <br>
 Postdoc, Harvard University (2005-2010; with with [Martin Karplus](https://en.wikipedia.org/wiki/Martin_Karplus)) <br>
 Postdoc, University of Minnesota (2004-2025; with [Jiali Gao](https://jialigao.org/)) <br>
@@ -80,7 +80,7 @@ M.S., Ball State University (2014) <br><br>
 
 <u> Postdocs </u> <br>
 
-![](files/raju.jpg){fig-align="left"} <br>
+![](files/raju.jpg){fig-align="left" width=90px} <br>
 Mulpuri Nagaraju (Raju) (postdoc, 2014-2017) <br>
 Ph.D., Indian Institute of Chemical Technology <br>
 Postdoc, Georgia State University <br>
