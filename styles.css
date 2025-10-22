@@ -42,6 +42,37 @@ text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 }
 
+/* flexible wrappinpg */
+.about-flex {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.about-flex > div:first-child {
+  flex: 1 1 300px;
+  min-width: 250px;
+}
+
+.about-flex > div:last-child {
+  flex: 0 0 auto;
+}
+
+.about-flex img {
+  border-radius: 50%;
+  margin-top: 10px;
+}
+
+/* Optional: tighter alignment on narrow screens */
+@media (max-width: 600px) {
+  .about-flex {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+}
+
 ul {
   margin-left: 0em;   /* default is around 2em */
   padding-left: 1.2em;
