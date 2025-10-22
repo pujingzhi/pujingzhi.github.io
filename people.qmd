@@ -80,8 +80,8 @@ M.S., Ball State University (2014) <br><br>
 
 <u> Postdocs </u> <br>
 
-![](files/Raju.jpg){fig-align="left"} <br>
-Mulpuri Nagaraju (postdoc, 2014-2017) <br>
+![](files/raju.jpg){fig-align="left"} <br>
+Mulpuri Nagaraju (Raju) (postdoc, 2014-2017) <br>
 Ph.D., Indian Institute of Chemical Technology <br>
 Postdoc, Georgia State University <br>
 Postdoc, Indiana University-Purdue University Indianapolis <br>
