@@ -4,6 +4,7 @@ title: "Contact"
 
 ### Contact ###
 
+<br>
 :::{.about-flex style="display: flex; align-items: center;"}
 
 <div>
