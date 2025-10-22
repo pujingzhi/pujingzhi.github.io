@@ -94,7 +94,7 @@ navbar: false
 </li>
 
 <li value="44">
-"Machine-Learning-Assisted Free Energy Simulation of Solution-Phase and Enzyme Reactions," Pan, X.; Yang, J.; Van, R.; Epifanovsky, E.; Ho, J.; Huang, J.; **Pu, J.**, Mei, Y.; Nam, K.; Shao, Y. *J. Chem. Theory Comput.* **2021**, *17*, 5745-5758 [DOI:10.1021/acs.jctc.1c00565](https://doi.org/10.1021/acs.jctc.1c00565)).
+"Machine-Learning-Assisted Free Energy Simulation of Solution-Phase and Enzyme Reactions," Pan, X.; Yang, J.; Van, R.; Epifanovsky, E.; Ho, J.; Huang, J.; **Pu, J.**; Mei, Y.; Nam, K.; Shao, Y. *J. Chem. Theory Comput.* **2021**, *17*, 5745-5758 [DOI:10.1021/acs.jctc.1c00565](https://doi.org/10.1021/acs.jctc.1c00565)).
 </li>
 
 <li value="43">
