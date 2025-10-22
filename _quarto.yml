@@ -50,7 +50,7 @@ format:
     theme:
       light: [simplex, custom.scss]
       dark: [cyborg, custom_dark.scss]
-    fontsize: 1.0em
+    fontsize: 0.8em
     linestretch: 1.4
     mainfont: "sans-serif"
     #toc: true
