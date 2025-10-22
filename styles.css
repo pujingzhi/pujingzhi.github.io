@@ -43,17 +43,19 @@ text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 /* Reduce font size across the project */
+/*
 body {
   font-size: 80%;
 }
+*/
 
-/* === IU "Cream and Crimson" theme — for mobile navbar only === */
-@media screen and (max-width: 991px) {
+/* === "Cream and Crimson" theme — for mobile navbar only === */
+@media (max-width: 768px) {
 
   /* Top bar background */
   .navbar, .quarto-navbar {
-    background-color: #990000 !important;  /* IU Crimson */
-    color: #EEEDEB !important;             /* IU Cream text */
+    background-color: #990000 !important;  /* Crimson */
+    color: #EEEDEB !important;             /* Cream text */
   }
 
   /* Page title text shown in the top bar */
