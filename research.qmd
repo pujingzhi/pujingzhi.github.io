@@ -34,7 +34,8 @@ Our interests lie at the interface between theoretical/computational chemistry a
 
 ### ABC Transporters ###
 
-:::{.about-flex style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;"}
+:::{.about-flex}
+<!-- :::{.about-flex style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;"} -->
 
 <!-- ![](files/MalEFGK2.png "*Maltose transporter from* _E. coli_ <small>(PDB: 3FH6 / 2R6G)</small>"){fig-align="right" width="350px"} --> 
 <!-- *Maltose transporter from* _E. coli_ <small>(PDB: 3FH6 / 2R6G)</small> -->
@@ -50,7 +51,8 @@ Many essential functions of living cells are performed by nanoscale motors consi
 
 ### DNA Damage ###
 
-:::{.about-flex style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;"}
+:::{.about-flex}
+<!-- :::{.about-flex style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;"} -->
 
 <div style="flex:1; min-width:200px;">
 Under nutrient scarcity, certain bacteria form endospores that protect bacterial DNA from environmental damage, including UV radiation. UV light can damage DNA by forming cross-links between adjacent thymine bases (TT) in a DNA strand. Under regular conditions, such damage leads to the formation of a cyclobutane pyrimidine dimer (CPD) as the dominant photoproduct. In spores, however, the DNA photoreaction pattern changes: a special lesion, 5-thyminyl-5-6-dihydrothymine (the spore-photoproduct, SP), becomes the major form of TT damage. It is believed that SP lesions “lock” the DNA in a chemically inert state until germination, when these lesions are repaired by a specialized enzyme called spore-photoproduct lyase (SPL). Collaborating with Prof. [Lei Li](http://chem.iupui.edu/~lilei/), we have computationally characterized several dinucleotide analogues of SP [@Lin2012; @Lin2011], and are currently developing all-atom models for simulating short segments of SP-containing DNA.
@@ -68,7 +70,8 @@ Under nutrient scarcity, certain bacteria form endospores that protect bacterial
 
 #### QM/MM-IPS ####
 
-:::{.about-flex style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;"}
+:::{.about-flex}
+<!-- :::{.about-flex style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;"} -->
 
 <!-- ![](files/Region_ips.png){fig-align="center" width="240px"} --> 
 <!-- *The IPS method: interactions are computed explicitly up to a cutoff distance* _R<sub>c</sub>_. -->
@@ -85,7 +88,8 @@ We are developing new approaches to include long-range electrostatic interaction
 
 #### RP-FM ####
 
-:::{.about-flex style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;"}
+:::{.about-flex}
+<-- :::{.about-flex style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;"} -->
 
 <div style="flex:1; min-width:200px;">
 A long-standing challenge in computational enzymology is obtaining accurate free energy profiles for chemical reactions in condensed phases. Direct *ab initio* (AI) QM/MM sampling is computationally infeasible, so semiempirical (SE) methods are used instead — but they require careful reparameterization.
