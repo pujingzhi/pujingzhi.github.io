@@ -8,3 +8,12 @@ $primary:       $blue !default;
     border: 1px solid #727475;
     background-color: #ffffff;
   }
+
+// Cream & Crimson for navbar only
+$navbar-bg: #990000;   // Crimson background
+$navbar-fg: #ffffff;   // white text/icon color
+$navbar-border-color: transparent;
+
+// Optional: hover and active colors for navbar links
+$navbar-light-hover-color: #ffcccb;  // light pink on hover
+$navbar-light-active-color: #ffffff; // white when active
