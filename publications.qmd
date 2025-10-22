@@ -170,6 +170,7 @@ navbar: false
 #### Before IUPUI ####
 
 <ol>
+
 <li value="26"> 
 "How Biomolecular Motors Work: Synergy between Single Molecule Experiments and Single Molecule Simulations," Karplus, M.; **Pu, J.**, in Springer Series in Chemical Physics **2010**, *96* (*Single Molecule Spectroscopy in Chemistry, Physics, and Biology*), pp. 271-285.
 </li>
@@ -199,16 +200,15 @@ navbar: false
 </li>
 
 <li value="19"> 
-"Multidimensional Tunneling, Recrossing, and Transmission Coefficient for Enzymatic Reactions," '''Pu, J.'''; Gao, J.; Truhlar, D. G. ''Chem. Rev.'' '''2006''', ''106'', 3140-3169 ([http://dx.doi.org/10.1021/cr050308e DOI:10.1021/cr050308e]).
-.
+"Multidimensional Tunneling, Recrossing, and Transmission Coefficient for Enzymatic Reactions," **Pu, J.**; Gao, J.; Truhlar, D. G. *Chem. Rev.* **2006**, *106*, 3140-3169 ([DOI:10.1021/cr050308e](https://dx.doi.org/10.1021/cr050308e)).
 </li>
 
 <li value="18"> 
-"Hydride Transfer Reaction Catalyzed by Hyperthermophilic Dihydrofolate Reductase is Dominated by Quantum Mechanical Tunneling and is Promoted by Both Inter- and Intramonomeric Correlated Motions," Pang, J.; '''Pu, J.'''; Gao, J.; Truhlar, D. G; Allemann, R. K. ''J. Am. Chem. Soc.'' '''2006''', ''128'', 8015-8023 ([http://dx.doi.org/10.1021/ja061585l DOI:10.1021/ja061585l]). 
+"Hydride Transfer Reaction Catalyzed by Hyperthermophilic Dihydrofolate Reductase is Dominated by Quantum Mechanical Tunneling and is Promoted by Both Inter- and Intramonomeric Correlated Motions," Pang, J.; **Pu, J.**; Gao, J.; Truhlar, D. G; Allemann, R. K. *J. Am. Chem. Soc.* **2006**, *128*, 8015-8023 ([DOI:10.1021/ja061585l](https://dx.doi.org/10.1021/ja061585l)). 
 </li>
 
 <li value="17"> 
-"Searching for Saddle Points by Using the Nudged Elastic Band Method: An Implementation for Gas-Phase Systems," Gonzalez-Garcia, N.; '''Pu, J.'''; Gonzalez-Lafont, A.; Lluch, J. M.; Truhlar, D. G. ''J. Chem. Theory Comput.'' '''2006''', ''2'', 895-904 ([http://dx.doi.org/10.1021/ct060032y DOI:10.1021/ct060032y]). 
+"Searching for Saddle Points by Using the Nudged Elastic Band Method: An Implementation for Gas-Phase Systems," Gonzalez-Garcia, N.; **Pu, J.**; Gonzalez-Lafont, A.; Lluch, J. M.; Truhlar, D. G. *J. Chem. Theory Comput.* **2006**, *2*, 895-904 ([DOI:10.1021/ct060032y](https://dx.doi.org/10.1021/ct060032y)). 
 </li>
 
 <li value="16"> 
