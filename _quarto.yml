@@ -8,7 +8,7 @@ website:
   search: false
 
   sidebar:
-    style: "floating"
+    style: "docked"
     search: false
     logo: files/hlyb_poket_new_dark_mid.png
     contents:
@@ -50,6 +50,7 @@ format:
     theme:
       light: [simplex, custom.scss]
       dark: [cyborg, custom_dark.scss]
+    toggle: false # Disable the toggle dark mode icon
     fontsize: 0.8em
     linestretch: 1.4
     mainfont: "sans-serif"
