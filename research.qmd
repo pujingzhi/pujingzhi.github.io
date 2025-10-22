@@ -89,7 +89,7 @@ We are developing new approaches to include long-range electrostatic interaction
 #### RP-FM ####
 
 :::{.about-flex}
-<-- :::{.about-flex style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;"} -->
+<!-- :::{.about-flex style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;"} -->
 
 <div style="flex:1; min-width:200px;">
 A long-standing challenge in computational enzymology is obtaining accurate free energy profiles for chemical reactions in condensed phases. Direct *ab initio* (AI) QM/MM sampling is computationally infeasible, so semiempirical (SE) methods are used instead — but they require careful reparameterization.
