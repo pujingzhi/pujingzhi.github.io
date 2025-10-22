@@ -6,22 +6,21 @@ title: "Contact"
 
 :::{.about-flex style="display: flex; align-items: center;"}
 
-<div>
 Jingzhi Pu  
 Associate Professor  
 Department of Chemistry and Chemical Biology  
 Indiana University Indianapolis  
 402 N. Blackford St., LD 326  
 Indianapolis, IN, USA
-
 Email: jpu[at]iu.edu 
 Phone: (317) 278-5721 (office); (317) 274-5342 (lab)  
 Fax: (317) 274-4701 
-Webpage: https://pujingzhi.github.io
+Webpage: [https://pujingzhi.github.io](https://pujingzhi.github.io)
 
-[ORCID](https://orcid.org/0000-0002-3042-335X) &ensp; [Google Scholar](https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en) &ensp; [GitHub](https://github.com/pujingzhi) &ensp; [CV](./files/JPu-CV.pdf) &ensp; [E-mail](mailto:jpu@iu.edu)
+<div>
+![](files/jpu_photo.png){width="215px" style="border-radius:50%; margin-right:20px;"}
 </div>
 
-![](files/jpu_photo.png){width="215px" style="border-radius:50%; margin-right:20px;"}
+[ORCID](https://orcid.org/0000-0002-3042-335X) &ensp; [Google Scholar](https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en) &ensp; [GitHub](https://github.com/pujingzhi) &ensp; [CV](./files/JPu-CV.pdf) &ensp; [E-mail](mailto:jpu@iu.edu)
 
 :::
