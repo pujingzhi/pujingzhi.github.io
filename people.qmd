@@ -28,7 +28,7 @@ navbar: false
 ### People ###
 
 <br>
-![](files/jpu_photo.png){fig-align="left" width="100px"} <br>
+![](files/jpu.JPG){fig-align="left" width="90px"} <br>
 Jingzhi Pu (PI) <br>
 Postdoc, Harvard University (2005-2010; with with [Martin Karplus](https://en.wikipedia.org/wiki/Martin_Karplus)) <br>
 Postdoc, University of Minnesota (2004-2025; with [Jiali Gao](https://jialigao.org/)) <br>
@@ -87,7 +87,7 @@ Postdoc, Georgia State University <br>
 Postdoc, Indiana University-Purdue University Indianapolis <br>
 E-mail: mulpurinagaraju[at]gmail.com <br><br>
 
-![](files/YanZhou.png){fig-align="left" width="100px"} <br>
+![](files/YanZhou.png){fig-align="left" width="90px"} <br>
 Yan Zhou (postdoc, 2011-2014; currently, faculty at GuangXi University for Nationalities, China) <br>
 B.S., University of Science & Technology of China <br>
 Ph.D., University of Minnesota <br>
