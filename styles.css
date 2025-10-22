@@ -42,6 +42,21 @@ text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 }
 
+/* Default: wide screens */
+.about-flex {
+  display: flex;
+  align-items: center;  /* vertical center alignment */
+  gap: 20px;
+  flex-wrap: wrap;      /* allow wrapping on small screens */
+}
+
+/* Narrow screens (e.g., mobile portrait) */
+@media (max-width: 768px) {
+  .about-flex {
+    align-items: flex-start;  /* align top when wrapping */
+  }
+}
+
 ul {
   margin-left: 0em;   /* default is around 2em */
   padding-left: 1.2em;
