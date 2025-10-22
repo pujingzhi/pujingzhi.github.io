@@ -34,7 +34,6 @@ Our interests lie at the interface between theoretical/computational chemistry a
 
 ### ABC Transporters ###
 
-<!-- :::{.about-flex style="display: flex; align-items: center; gap: 20px;"} -->
 :::{.about-flex style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;"}
 
 <!-- ![](files/MalEFGK2.png "*Maltose transporter from* _E. coli_ <small>(PDB: 3FH6 / 2R6G)</small>"){fig-align="right" width="350px"} --> 
@@ -51,7 +50,6 @@ Many essential functions of living cells are performed by nanoscale motors consi
 
 ### DNA Damage ###
 
-<!-- :::{.about-flex style="display: flex; align-items: center; gap: 20px;"} -->
 :::{.about-flex style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;"}
 
 <div style="flex:1; min-width:200px;">
@@ -70,7 +68,7 @@ Under nutrient scarcity, certain bacteria form endospores that protect bacterial
 
 #### QM/MM-IPS ####
 
-:::{.about-flex style="display: flex; align-items: center; gap: 20px;"}
+:::{.about-flex style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;"}
 
 <!-- ![](files/Region_ips.png){fig-align="center" width="240px"} --> 
 <!-- *The IPS method: interactions are computed explicitly up to a cutoff distance* _R<sub>c</sub>_. -->
@@ -78,7 +76,7 @@ Under nutrient scarcity, certain bacteria form endospores that protect bacterial
 
 ![](files/Region_ips.png){width="200px" style="flex-shrink:0;"} 
 
-<div>
+<div style="flex:1; min-width: 200px;">
 We are developing new approaches to include long-range electrostatic interactions in combined quantum mechanical and molecular mechanical (QM/MM) calculations. Traditionally, such interactions in molecular simulations are handled by lattice-sum methods such as Ewald summation, which considers all periodic images of particles. The Isotropic Periodic Sum (IPS) method [@Wu2005; @Wu2008; @Wu2009; @OjedaMay2014a] offers an efficient alternative: pairwise interactions are computed locally within a cutoff distance, while contributions beyond the cutoff are treated via a mean-field approximation assuming isotropic distribution of image particles. So far, IPS has been applied to purely classical systems. We are extending the method to combined QM/MM potentials [@OjedaMay2014b], laying the groundwork for its use in enzyme simulations.
 </div>
 :::
@@ -87,17 +85,18 @@ We are developing new approaches to include long-range electrostatic interaction
 
 #### RP-FM ####
 
-:::{.about-flex style="display: flex; align-items: center; gap: 20px;"}
+:::{.about-flex style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;"}
 
+<div style="flex:1; min-width:200px;">
 A long-standing challenge in computational enzymology is obtaining accurate free energy profiles for chemical reactions in condensed phases. Direct *ab initio* (AI) QM/MM sampling is computationally infeasible, so semiempirical (SE) methods are used instead — but they require careful reparameterization.
 We recently proposed **Reaction Path Force Matching (RP-FM)** [@ZhouPu2014], a new SRP-fitting strategy that reparametrizes SE methods directly against AI/MM forces in condensed-phase simulations. RP-FM proceeds iteratively: 1. Sample configurations along a reaction path on an SE/MM potential energy surface. 2. Adjust SE parameters to reproduce AI/MM atomic forces via force matching. Repeating this cycle enables SE/MM simulations to achieve AI/MM-level accuracy without direct AI sampling. We have demonstrated the effectiveness of RP-FM on proton transfer reactions in both gas and solution phases, and extensions to enzymatic reactions are underway.
-
 <div>
+
 ![](files/RP-FM.png){width="350px" style="flex-shrink:0;"}  
 
 <!-- ![](files/RP-FM.png){fig-align="center" width="350px"} -->  
 <!-- *The RP-FM strategy: sampling is carried out on efficient SE/MM surfaces and then SE-SRPs are optimized to reproduce AI/MM atomic forces.* -->
-</div>
+
 :::
 
 ### References ###
