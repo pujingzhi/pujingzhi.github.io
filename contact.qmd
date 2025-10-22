@@ -21,6 +21,6 @@ Webpage: [https://pujingzhi.github.io](https://pujingzhi.github.io)
 ![](files/jpu_photo.png){width="215px" style="border-radius:50%; margin-right:20px;"}
 </div>
 
-[ORCID](https://orcid.org/0000-0002-3042-335X) &ensp; [Google Scholar](https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en) &ensp; [GitHub](https://github.com/pujingzhi) &ensp; [CV](./files/JPu-CV.pdf) &ensp; [E-mail](mailto:jpu@iu.edu)
-
 :::
+
+[ORCID](https://orcid.org/0000-0002-3042-335X) &ensp; [Google Scholar](https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en) &ensp; [GitHub](https://github.com/pujingzhi) &ensp; [CV](./files/JPu-CV.pdf) &ensp; [E-mail](mailto:jpu@iu.edu)
