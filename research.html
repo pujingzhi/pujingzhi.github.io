@@ -365,7 +365,8 @@ gtag('config', 'G-1W6X56QSLP', { 'anonymize_ip': true});
 </section>
 <section id="abc-transporters" class="level3">
 <h3 data-anchor-id="abc-transporters">ABC Transporters</h3>
-<div class="about-flex" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+<div class="about-flex">
+<!-- :::{.about-flex style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;"} -->
 <!-- ![](files/MalEFGK2.png "*Maltose transporter from* _E. coli_ <small>(PDB: 3FH6 / 2R6G)</small>"){fig-align="right" width="350px"} -->
 <!-- *Maltose transporter from* _E. coli_ <small>(PDB: 3FH6 / 2R6G)</small> -->
 <p><img src="files/MalEFGK2.png" style="flex-shrink:0;" width="350"></p>
@@ -377,7 +378,8 @@ gtag('config', 'G-1W6X56QSLP', { 'anonymize_ip': true});
 </section>
 <section id="dna-damage" class="level3">
 <h3 data-anchor-id="dna-damage">DNA Damage</h3>
-<div class="about-flex" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+<div class="about-flex">
+<!-- :::{.about-flex style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;"} -->
 <div style="flex:1; min-width:200px;">
 <p>Under nutrient scarcity, certain bacteria form endospores that protect bacterial DNA from environmental damage, including UV radiation. UV light can damage DNA by forming cross-links between adjacent thymine bases (TT) in a DNA strand. Under regular conditions, such damage leads to the formation of a cyclobutane pyrimidine dimer (CPD) as the dominant photoproduct. In spores, however, the DNA photoreaction pattern changes: a special lesion, 5-thyminyl-5-6-dihydrothymine (the spore-photoproduct, SP), becomes the major form of TT damage. It is believed that SP lesions “lock” the DNA in a chemically inert state until germination, when these lesions are repaired by a specialized enzyme called spore-photoproduct lyase (SPL). Collaborating with Prof.&nbsp;<a href="http://chem.iupui.edu/~lilei/">Lei Li</a>, we have computationally characterized several dinucleotide analogues of SP <span class="citation" data-cites="Lin2012 Lin2011">(<a href="#ref-Lin2012" role="doc-biblioref">D. Lin et al. 2012</a>; <a href="#ref-Lin2011" role="doc-biblioref">G. Lin et al. 2011</a>)</span>, and are currently developing all-atom models for simulating short segments of SP-containing DNA.</p>
 </div>
@@ -389,7 +391,8 @@ gtag('config', 'G-1W6X56QSLP', { 'anonymize_ip': true});
 <h3 data-anchor-id="qmmm-method-development">QM/MM Method Development</h3>
 <section id="qmmm-ips" class="level4">
 <h4 data-anchor-id="qmmm-ips">QM/MM-IPS</h4>
-<div class="about-flex" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+<div class="about-flex">
+<!-- :::{.about-flex style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;"} -->
 <!-- ![](files/Region_ips.png){fig-align="center" width="240px"} -->
 <!-- *The IPS method: interactions are computed explicitly up to a cutoff distance* _R<sub>c</sub>_. -->
 <!-- *Beyond that, an average potential is used.* -->
@@ -402,7 +405,8 @@ gtag('config', 'G-1W6X56QSLP', { 'anonymize_ip': true});
 </section>
 <section id="rp-fm" class="level4">
 <h4 data-anchor-id="rp-fm">RP-FM</h4>
-<div class="about-flex" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+<div class="about-flex">
+<p>&lt;– :::{.about-flex style=“display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;”} –&gt;</p>
 <div style="flex:1; min-width:200px;">
 <p>A long-standing challenge in computational enzymology is obtaining accurate free energy profiles for chemical reactions in condensed phases. Direct <em>ab initio</em> (AI) QM/MM sampling is computationally infeasible, so semiempirical (SE) methods are used instead — but they require careful reparameterization. We recently proposed <strong>Reaction Path Force Matching (RP-FM)</strong> <span class="citation" data-cites="ZhouPu2014">(<a href="#ref-ZhouPu2014" role="doc-biblioref">Zhou and Pu 2014</a>)</span>, a new SRP-fitting strategy that reparametrizes SE methods directly against AI/MM forces in condensed-phase simulations. RP-FM proceeds iteratively: 1. Sample configurations along a reaction path on an SE/MM potential energy surface. 2. Adjust SE parameters to reproduce AI/MM atomic forces via force matching. Repeating this cycle enables SE/MM simulations to achieve AI/MM-level accuracy without direct AI sampling. We have demonstrated the effectiveness of RP-FM on proton transfer reactions in both gas and solution phases, and extensions to enzymatic reactions are underway.</p>
 </div>
