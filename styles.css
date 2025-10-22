@@ -97,11 +97,15 @@ text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 /* Hide the dark-mode toggle button */
-/*
 .quarto-color-scheme-toggle {
   display: none !important;
 } 
-*/
+
+/* Remove extra padding/margin reserved for the toggle in the sidebar header */
+.quarto-sidebar-header {
+  justify-content: flex-start !important; /* align logo to left, removes space for toggle */
+  gap: 0 !important;                      /* remove any spacing between items */
+}
 
 ul {
   margin-left: 0em;   /* default is around 2em */
