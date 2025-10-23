@@ -31,8 +31,8 @@ navbar: false
 ![](files/jpu.JPG){fig-align="left" width="100px"} <br>
 Jingzhi Pu (PI) <br>
 Postdoc, Harvard University (2005-2010; with with [Martin Karplus](https://en.wikipedia.org/wiki/Martin_Karplus)) <br>
-Postdoc, University of Minnesota (2004-2025; with [Jiali Gao](https://jialigao.org/)) <br>
-Ph.D., University of Minnesota (2004; with [Donald G. Truhlar](https://comp.chem.umn.edu/truhlar)) <br>
+Postdoc, University of Minnesota (2004-2025; with [Jiali Gao](http://jialigao.org/)) <br>
+Ph.D., University of Minnesota (2004; with [Donald G. Truhlar](https://truhlar.chem.umn.edu/)) <br>
 B.S., Peking University (1999) <br><br>
 
 ![](files/DongruLi.jpg){fig-align="left"} <br>
