@@ -3,7 +3,7 @@
   background-size: 750px;  /* use 'cover' to fill the container */
   height: 170px;
   background-repeat: no-repeat;
-  background-position: cennter center; /* use 50px center to offset 50px from left edge */
+  background-position: 50px center; /* use 50px center to offset 50px from left edge */
   color: white; /* Adjust text color for contrast */
   padding: 0px 0; /* Adjust padding as needed */
   background-color: white !important /* override the default */
@@ -39,7 +39,7 @@ text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 @media (max-width: 768px) {
   .quarto-title-banner {
     background-size: 90%;  /* fit smaller for mobile */
-    background-position: center center; /* use 20px center to offset 20px from left edge */
+    background-position: 20px center; /* use 20px center to offset 20px from left edge */
     height: 135px;
   }
 }
