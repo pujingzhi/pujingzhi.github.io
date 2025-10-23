@@ -28,75 +28,75 @@ navbar: false
 ### News ###
 
 #### 2024 ####
-- Oct: Jingzhi Pu presented at the "*SMART Symposium: AI-Driven Computational Biology and Medicine*" in Shenzhen China. 
-- Aug: Jingzhi Pu co-organized an "*ACS COMP Symposium in Honor of the 80th Birthday of Prof. Donald G. Truhlar*" in Denver.  
+- Oct: Jingzhi Pu presented at the [SMART Symposium: AI-Driven Computational Biology and Medicine](https://symposia.smart.org.cn/sym/event/02c7c44a1a4e44039e9dab4b4ccb3ad6/658e23ed-d78d-4b35-9f36-) in Shenzhen China. 
+- Aug: Jingzhi Pu co-organized an [ACS COMP Symposium in Honor of the 80th Birthday of Prof. Donald G. Truhlar](https://acs.digitellinc.com/p/s/symposium-in-honor-of-the-80th-birthday-of-prof-donald-g-truhlar-607469) at the Fall 2024 National ACS Meeting in Denver.  
 - Jan: Jingzhi Pu is recognized by IU Indy's student-athletes as one of their "Favorite Professors" 
 
 #### 2023 ####
 - Sept: Taemoor Hasan and Salma Abdelhamid joined the lab as "1st-Year Research Immersion Program" (1RIP) undergraduate scholars. Welcome! 
-- Sept: Tinh Ho joined the lab as a Ph.D. student, co-advised by Prof. Partha Basu. Welcome! 
+- Sept: Tinh Ho joined the lab as a Ph.D. student, co-advised by [Prof. Partha Basu](https://basu.chem.indianapolis.iu.edu/). Welcome! 
 - Sept: Dongru Li joined the lab as a Ph.D. student. Welcome! 
 - Sept: Hysum Qazi received an Academic-Year UROP Grant from the Center for Research and Learning (CRL) at IUPUI. Congratulations!
-- Aug: Ryan Snyder's first-author Sparse-GPR-QM/MM paper was published in JCP. Congratulations! 
-- July: Jingzhi Pu presented at the *2023 CHARMM Developers' Meeting* at the U of Michigan. 
+- Aug: Ryan Snyder's first-author [Sparse-GPR-QM/MM paper](https://doi.org/10.1063/5.0156327) was published in JCP. Congratulations! 
+- July: Jingzhi Pu presented at the 2023 CHARMM Developers' Meeting at the U of Michigan. 
 - July: Ryan Snyder successfully defended his Ph.D. thesis. Congratulations! 
 - Apr: Hysum Qazi joined the lab for undergraduate research. Welcome! 
 - Apr: Mellisa Hege successfully defended her Ph.D. thesis. Congratulations! 
 - Mar: Bryant Kim and Ryan Snyder presented at the Spring 2023 ACS national Meeting. 
-- Mar: Jingzhi Pu co-organized an "*ACS Comp Symposium in Honor of Prof. Jiali Gao*". 
+- Mar: Jingzhi Pu co-organized an [ACS Comp Symposium in Honor of Prof. Jiali Gao](https://acs.digitellinc.com/p/s/acs-award-for-computers-in-chemical-and-pharmaceutical-research-symposium-in-honor-of-jiali-gao-invited-529504) at the Spring 2023 ACS National Meeting in Indianapolis. 
 - Mar: Bryant Kim successfully defended his Ph.D. thesis. Congratulations! 
-- Mar: Mellisa Hege published her first-author SP-DNA paper. Congratulations!
+- Mar: Mellisa Hege published her first-author [SP-DNA paper](https://doi.org/10.1016/j.bpc.2023.106992). Congratulations!
 
 #### 2022 ####
 - Nov: Ryan Young successfully defended his Ph.D. thesis. Congratulations!
-- Oct: Ryan Snyder published his first-author GPRwDO-QM/MM paper, which was also selected as a 2022 PCCP Hot Article. Congratulations! 
-- July Jingzhi Pu presented at the *2022 CHARMM Developers' Meeting* at Harvard University. 
-- June Bryant Kim accepted a drug-discovery internship position at Roivant Sciences in NYC. 
+- Oct: Ryan Snyder published his first-author [GPRwDO-QM/MM paper](https://pubs.rsc.org/en/content/articlehtml/2022/cp/d2cp02820d), which was also selected as a [2022 PCCP Hot Article](https://rsc.li/pccp-hot22). Congratulations! 
+- July Jingzhi Pu presented at the 2022 CHARMM Developers' Meeting at Harvard University. 
+- June Bryant Kim accepted a drug-discovery internship position at [Roivant Sciences](https://roivant.com/) in NYC. 
 - May: Rebekah Jackson received an ACS Physical Chemistry Undergraduate Award. Congratulations! 
 - Mar: Jingzhi Pu received an IU Trustees Teaching Award. 
-- Mar: Rebekah Jackson received an NIH IRTA postbaccalaurate intramural research training award. Congratulations! 
+- Mar: Rebekah Jackson received an [NIH IRTA](https://www.training.nih.gov/programs/postbac_irta) postbaccalaurate intramural research training award. Congratulations! 
 
 #### 2021 ####
-- Dec: Jingzhi Pu and Ryan Snyder received an RSFT grant from the Office of the Vice Chancellor for Research at IUPUI. 
-- Nov: Bryant Kim's first-author dp-QM/MM paper was published. Congratulations! 
+- Dec: Jingzhi Pu and Ryan Snyder received an RSFG grant from the Office of the Vice Chancellor for Research at IUPUI. 
+- Nov: Bryant Kim's first-author [dp-QM/MM paper](https://pubs.acs.org/doi/10.1021/acs.jctc.1c00567) was published. Congratulations! 
 - Oct: Rebekah Jackson received a second UROP grant for undergraduate research. Congratulations! 
-- July: Bryant Kim's first-author RP-FM-CV paper was published. congratulations 
-- July: Jingzhi Pu presented at the *2021 CHARMM Developers' Meeting* hosted by the Michigan State University. 
+- July: Bryant Kim's first-author [RP-FM-CV paper](https://doi.org/10.1021/acs.jctc.1c00245) was published. congratulations 
+- July: Jingzhi Pu presented at the 2021 CHARMM Developers' Meeting hosted by the Michigan State University. 
 - June: Rebekah Jackson received an UROP grant for summer undergraduate research. Congratulations 
-- Apr: Bryant Kimu won the "grand prize" poster award at the "*Think Like A Molecule*" Symposium sponsored by the ACS Indiana section. Congratulations! 
-- Apr: Ryan Snyder gave a talk at the "*Think Like A Molecule*" Symposium sponsored by the ACS Indiana section. 
+- Apr: Bryant Kimu won the "grand prize" poster award at the "Think Like a Molecule" Symposium sponsored by the ACS Indiana section. Congratulations! 
+- Apr: Ryan Snyder gave a talk at the "Think Like a Molecule" Symposium sponsored by the ACS Indiana section. 
 
 #### 2020 ####
-- July: Jingzhi Pu presented at the *2020 CHARMM Developers' Meeting* hosted by Harvard University and Boston University. 
+- July: Jingzhi Pu presented at the 2020 CHARMM Developers' Meeting hosted by Harvard University and Boston University. 
 
 
 #### 2019 #### 
-- June: Jingzhi Pu presented at the [Santa Fe free energy conference](https://www.freeenergy-santafe.org) "*Free Energy Calculations Entering the Fourth Decade of Adventure in Chemistry and Biophysics*". 
+- June: Jingzhi Pu presented at the [Santa Fe free energy conference](https://www.freeenergy-santafe.org) titled "Free Energy Calculations Entering the Fourth Decade of Adventure in Chemistry and Biophysics". 
 
 #### 2018 ####  
 - Sept: Ryan Snyder joined the lab as a Ph.D. student. Welcome!
-- July: Jingzhi Pu presented at the *2018 CHARMM Developers' Meeting* at U of Chicago. 
+- July: Jingzhi Pu presented at the 2018 CHARMM Developers' Meeting at U of Chicago. 
 - June: Jingzhi Pu received an RSFG grant from the Office of the Vice Chancellor for Research at IUPUI. 
-- June: Jingzhi Pu presented at the [*2nd Worldwide Chinese Computational Biology and Molecular Simulation Conference*](https://www.wccb2018.org/Speakers/Speakers.html) at Sun Yat-Sen University, GuangZhou. 
+- June: Jingzhi Pu presented at the [2nd Worldwide Chinese Computational Biology and Molecular Simulation Conference](https://www.wccb2018.org/Speakers/Speakers.html) at Sun Yat-Sen University, GuangZhou. 
 - June: Harry Wang from Carmel High School joined the lab for Project STEM research internship. Welcome!
-- May: Jingzhi Pu received a summer faculty grant from the [Purdue Research Foundation](http://prf.org). 
+- May: Jingzhi Pu received a Summer Faculty Grant from the [Purdue Research Foundation](http://prf.org). 
 - Apr: Pu lab received a computing grant of 100k CPU hrs from the [Center for Functional Nanomaterials](https://www.bnl.gov/cfn/) (CFN) at the Brookhaven National Laboratory (BNL). 
-- Apr: Bryant Kim won a 1st Place Poster Award at the *Think Like A Molecule* Symposium sponsored by the ACS Indiana section. Congratulations! 
-- Mar: Bryant Kim presented a poster at the *255th ACS National Meeting in New Orleans. 
+- Apr: Bryant Kim won a 1st Place Poster Award at the *Think Like a Molecule* Symposium sponsored by the ACS Indiana section. Congratulations! 
+- Mar: Bryant Kim presented a poster at the 255th ACS National Meeting in New Orleans. 
 - Jan: Ryan Snyder joined the lab as a post-baccalaureate student. Welcome! 
 
 #### 2017 ####
 - Sept: Ryan Young joined the lab as a Ph.D. student. Welcome!
-- July: Jingzhi Pu presented at the *2017 CHARMM Developers' Meeting* at Harvard University. 
-- July: Jingzhi Pu presented at the Telluride Research Conference "*Free Energy Calculations: Three Decades of Adventure in Chemistry and Biophysics*". 
+- July: Jingzhi Pu presented at the 2017 CHARMM Developers' Meeting at Harvard University. 
+- July: Jingzhi Pu presented at the Telluride Research Conference "Free Energy Calculations: Three Decades of Adventure in Chemistry and Biophysics". 
 - June: Joanna Zhang from Carmel High School and Yiyang (Ben) Sun from the King's Academy joined the lab for Project STEM/SEED research internship. Welcome! 
 - Jan: Mellisa Hege, Cameron Meadows, Darlene Evans, and Seth Keeton joined the lab for undergraduate research. Welcome! 
 - Jan: Bryant Kimu joined the lab as a Ph.D. student. Welcome! 
 
 #### 2016 #### 
-- Aug: Jingzhi Pu co-organized an ACS COMP Symposium titled [*QM/MM Simulation of Chemical and Biochemical Reaction Pathways: Recent Developments and Applications*](https://web2011.acscomp.org/meetings/national-acs-program/philadelphia-fall-2016) and presented at the *252nd ACS National Meeting* in Philadelphia. 
-- July: Jingzhi Pu presented at the *2016 CHARMM Developers' Meeting* at U of Michigan Ann Arbor. 
-- Mar: Jingzhi Pu presented a [Chemistry seminar](https://www.ucdenver.edu/academics/colleges/CLAS/Departments/chemistry/AboutUs/Pages/Seminar.aspx) at University of Colorado Denver. 
+- Aug: Jingzhi Pu co-organized an ACS COMP Symposium titled "QM/MM Simulation of Chemical and Biochemical Reaction Pathways: Recent Developments and Applications" and presented at the [252nd ACS National Meeting](https://www.acs.org/content/dam/acsorg/meetings/national-meetings/program-book/2016-philadelphia.pdf) in Philadelphia. 
+- July: Jingzhi Pu presented at the 2016 CHARMM Developers' Meeting at U of Michigan Ann Arbor. 
+- Mar: Jingzhi Pu presented a Chemistry seminar at [University of Colorado Denver](https://clas.ucdenver.edu/chemistry/seminars-and-events) . 
 
 #### 2015 ####
 - Sept: Jingzhi Pu presented at the [Midwest Computational Biomolecular Modeling Symposium](https://www.ks.uiuc.edu/Announcements/Symposium/) at UIUC (read [Editorial Overview](https://www-s.ks.uiuc.edu/History/symposium/)).
@@ -104,12 +104,12 @@ navbar: false
 - Aug: Jingzhi Pu's [R15 grant](https://reporter.nih.gov/search/CyO8qZgafU2fzbCetM92HA/project-details/8958346) is funded by NIH.
 - July: Jingzhi Pu presented at a [Snowmass Biophysics Workshop](https://vothgroup.uchicago.edu/conferences/).
 - June: Jingzhi Pu received an [RSFG](https://research.iupui.edu/funding/documents/internalawards2015_000.pdf) grant from Office of the Vice Chancellor for Research at IUPUI. 
-- Apr: Jingzhi Pu received an International Travel Grant from the Purdue Research Foundation.
+- Apr: Jingzhi Pu received an International Travel Grant from the [Purdue Research Foundation](http://prf.org).
 - Feb: Jingzhi Pu presented a [Mechanical Engineering seminar](https://engr.iupui.edu/departments/me/research/seminars/upcoming.php) at IUPUI.
 
 #### 2014 ####
 - Oct: Jingzhi Pu gave a talk at the [Martin Karplus Celebration Symposium](https://martinkarplus.net/). 
-- May: Jingzhi Pu received a Summer Faculty Grant from the Purdue Research Foundation.
+- May: Jingzhi Pu received a Summer Faculty Grant from the [Purdue Research Foundation](http://prf.org).
 - Apr: Mulpuri Nagaraju (Raju) joined the lab as a postdoc. Welcome!
 
 #### 2013 ####
