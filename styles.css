@@ -66,36 +66,6 @@ text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 }
 
-/* Base style for desktop */
-.responsive-table {
-  width: 770px;
-  margin: auto;
-  text-align: center;
-  border-collapse: collapse;
-}
-
-/* Make images flexible */
-.responsive-table img {
-  max-width: 100%;
-  height: auto;
-}
-
-/* Responsive rule for narrow screens */
-@media (max-width: 768px) {
-  .responsive-table {
-    width: 100%;                /* Let table fit the screen */
-  }
-  .responsive-table td {
-    width: auto !important;     /* Let cells auto-size */
-    padding: 2px;
-  }
-  .responsive-table img {
-    width: 100%;                /* Image fills its cell */
-    max-width: 100%;            /* Prevent overflow */
-    height: auto;               /* Keep aspect ratio */
-  }
-}
-
 /* Hide the dark-mode toggle button */
 .quarto-color-scheme-toggle {
   display: none !important;
