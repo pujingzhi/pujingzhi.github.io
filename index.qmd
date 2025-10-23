@@ -29,7 +29,7 @@ Our interests lie at the interface between theoretical/computational chemistry a
 
 
 <!-- <table style="width:770px; margin:auto; text-align:center; border-collapse:collapse; border-spacing:0;"> -->
-<table class="responsive-table" style="width:800px; margin:auto; text-align:center; border-collapse:collapse; border-spacing:0;"> 
+<table class="responsive-table" style="width:770px; margin:auto; text-align:center; border-collapse:collapse; border-spacing:0;"> 
   <tr>
     <td style="width:310px; padding:0;">
       <img src="files/MalEFGK2.png" width="300px">
