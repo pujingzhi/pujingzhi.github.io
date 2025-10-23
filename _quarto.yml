@@ -40,7 +40,7 @@ website:
       - text: \[Source\]
         href: https://github.com/pujingzhi/pujingzhi.github.io
       - text: \[License\]
-        href: https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/LICENSE
+        href: https://raw.githubusercontent.com/pujingzhi/pujingzhi.github.io/master/LICENSE
 
 format:
   html:
