@@ -71,16 +71,16 @@ navbar: false
 
 
 #### 2019 #### 
-- June: Jingzhi Pu presented at the Santa Fe research conference "*Free Energy Calculations Entering the Fourth Decade of Adventure in Chemistry and Biophysics*". 
+- June: Jingzhi Pu presented at the [Santa Fe free energy conference](https://www.freeenergy-santafe.org) "*Free Energy Calculations Entering the Fourth Decade of Adventure in Chemistry and Biophysics*". 
 
 #### 2018 ####  
 - Sept: Ryan Snyder joined the lab as a Ph.D. student. Welcome!
 - July: Jingzhi Pu presented at the *2018 CHARMM Developers' Meeting* at U of Chicago. 
 - June: Jingzhi Pu received an RSFG grant from the Office of the Vice Chancellor for Research at IUPUI. 
-- June: Jingzhi Pu presented at the "*2nd Worldwide Chinese Computational Biology and Molecular Simulation Conference*" at Sun Yat-Sen University, GuangZhou. 
+- June: Jingzhi Pu presented at the [*2nd Worldwide Chinese Computational Biology and Molecular Simulation Conference*](https://www.wccb2018.org/Speakers/Speakers.html) at Sun Yat-Sen University, GuangZhou. 
 - June: Harry Wang from Carmel High School joined the lab for Project STEM research internship. Welcome!
 - May: Jingzhi Pu received a summer faculty grant from the [Purdue Research Foundation](http://prf.org). 
-- Apr: Pu lab received a computing grant of 100k CPU hrs from the Center for Functional Nanomaterials (CFN) at the Brookhaven National Laboratory (BNL). 
+- Apr: Pu lab received a computing grant of 100k CPU hrs from the [Center for Functional Nanomaterials](https://www.bnl.gov/cfn/) (CFN) at the Brookhaven National Laboratory (BNL). 
 - Apr: Bryant Kim won a 1st Place Poster Award at the *Think Like A Molecule* Symposium sponsored by the ACS Indiana section. Congratulations! 
 - Mar: Bryant Kim presented a poster at the *255th ACS National Meeting in New Orleans. 
 - Jan: Ryan Snyder joined the lab as a post-baccalaureate student. Welcome! 
