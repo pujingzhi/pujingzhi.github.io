@@ -79,7 +79,7 @@ navbar: false
 - June: Jingzhi Pu received an RSFG grant from the Office of the Vice Chancellor for Research at IUPUI. 
 - June: Jingzhi Pu presented at the "*2nd Worldwide Chinese Computational Biology and Molecular Simulation Conference*" at Sun Yat-Sen University, GuangZhou. 
 - June: Harry Wang from Carmel High School joined the lab for Project STEM research internship. Welcome!
-- May: Jingzhi Pu received a summer faculty grant from the Purdue Research Foundation. 
+- May: Jingzhi Pu received a summer faculty grant from the [Purdue Research Foundation](http://prf.org). 
 - Apr: Pu lab received a computing grant of 100k CPU hrs from the Center for Functional Nanomaterials (CFN) at the Brookhaven National Laboratory (BNL). 
 - Apr: Bryant Kim won a 1st Place Poster Award at the *Think Like A Molecule* Symposium sponsored by the ACS Indiana section. Congratulations! 
 - Mar: Bryant Kim presented a poster at the *255th ACS National Meeting in New Orleans. 
@@ -94,9 +94,9 @@ navbar: false
 - Jan: Bryant Kimu joined the lab as a Ph.D. student. Welcome! 
 
 #### 2016 #### 
-- Aug: Jingzhi Pu co-organized an ACS COMP Symposium titled "*QM/MM Simulation of Chemical and Biochemical Reaction Pathways: Recent Developments and Applications*" and presented at the *252nd ACS National Meeting* in Philadelphia. 
+- Aug: Jingzhi Pu co-organized an ACS COMP Symposium titled [*QM/MM Simulation of Chemical and Biochemical Reaction Pathways: Recent Developments and Applications*](https://web2011.acscomp.org/meetings/national-acs-program/philadelphia-fall-2016) and presented at the *252nd ACS National Meeting* in Philadelphia. 
 - July: Jingzhi Pu presented at the *2016 CHARMM Developers' Meeting* at U of Michigan Ann Arbor. 
-- Mar: Jingzhi Pu presented a Chemistry seminar at University of Colorado Denver. 
+- Mar: Jingzhi Pu presented a [Chemistry seminar](https://www.ucdenver.edu/academics/colleges/CLAS/Departments/chemistry/AboutUs/Pages/Seminar.aspx) at University of Colorado Denver. 
 
 #### 2015 ####
 - Sept: Jingzhi Pu presented at the [Midwest Computational Biomolecular Modeling Symposium](https://www.ks.uiuc.edu/Announcements/Symposium/) at UIUC (read [Editorial Overview](https://www-s.ks.uiuc.edu/History/symposium/)).
