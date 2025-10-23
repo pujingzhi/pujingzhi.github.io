@@ -42,7 +42,7 @@ navbar: false
 - July: Ryan Snyder successfully defended his Ph.D. thesis. Congratulations! 
 - Apr: Hysum Qazi joined the lab for undergraduate research. Welcome! 
 - Apr: Mellisa Hege successfully defended her Ph.D. thesis. Congratulations! 
-- Mar: Bryant Kim and Ryan Snyder presented at the Spring 2023 ACS national Meeting. 
+- Mar: Bryant Kim and Ryan Snyder presented at the Spring 2023 ACS National Meeting. 
 - Mar: Jingzhi Pu co-organized an [ACS Comp Symposium in Honor of Prof. Jiali Gao](https://acs.digitellinc.com/p/s/acs-award-for-computers-in-chemical-and-pharmaceutical-research-symposium-in-honor-of-jiali-gao-invited-529504) at the Spring 2023 ACS National Meeting in Indianapolis. 
 - Mar: Bryant Kim successfully defended his Ph.D. thesis. Congratulations! 
 - Mar: Mellisa Hege published her first-author [SP-DNA paper](https://doi.org/10.1016/j.bpc.2023.106992). Congratulations!
