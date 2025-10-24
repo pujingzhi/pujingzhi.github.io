@@ -42,21 +42,3 @@ $navbar-light-active-color: #ffffff !default;
 .navbar-light .navbar-toggler {
   border: none !important;
 }
-
-.navbar-toggler-icon {
-  background-image: none !important;
-  font-size: 1.8rem;
-  line-height: 1;
-  text-align: center;
-  color: white;
-}
-
-.navbar-toggler-icon::before {
-  content: "☰"; /* Unicode hamburger */
-}
-
-.navbar-title {
-  font-weight: 700;       /* makes text bold */
-  color: #fff !important; /* cream/white text on crimson background */
-  font-size: 1.1rem;
-}
