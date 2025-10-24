@@ -68,7 +68,7 @@ Under nutrient scarcity, certain bacteria form endospores that protect bacterial
 
 #### QM/MM Method Development ####
 
-##### QM/MM-IPS #####
+#### QM/MM-IPS ####
 
 :::{.about-flex}
 <!-- :::{.about-flex style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;"} -->
@@ -86,7 +86,7 @@ We are developing new approaches to include long-range electrostatic interaction
 
 ---
 
-##### RP-FM #####
+#### RP-FM ####
 
 :::{.about-flex}
 <!-- :::{.about-flex style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;"} -->
