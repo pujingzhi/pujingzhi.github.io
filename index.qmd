@@ -27,6 +27,8 @@ Our interests lie at the interface between theoretical/computational chemistry a
 
 <br>
 <a href="research.qmd">
-  <img src="files/MalEFGK2_tt_sp_qmmm.svg" alt="Research" style="max-width:100%; height:auto; width:770px; display:block; margin:auto;">
+<!-- <img src="files/MalEFGK2_tt_sp_qmmm.svg" alt="Research" style="max-width:100%; height:auto;  width:770px; display:block; margin:auto;"> -->
+  <img src="files/MalEFGK2_tt_sp_qmmm.svg" alt="Research" class="img-wide">
+  <img src="files/MalEFGK2_tt_sp_qmmm_narrow.svg" alt="Research" class="img-narrow">
 </a>
 
