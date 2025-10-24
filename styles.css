@@ -87,6 +87,12 @@ text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   .img-narrow { display: block; max-width: 100%; height: auto; width: 100%; margin: auto; }
 }
 
+/* On mobile landscape, switch back to wide image */
+@media (max-width: 768px) and (orientation: landscape) {
+  .img-wide { display: block; max-width: 100%; height: auto; width: 770px; margin: auto; }
+  .img-narrow { display: none;}
+}
+
 ul {
   margin-left: 0em;   /* default is around 2em */
   padding-left: 1.2em;
