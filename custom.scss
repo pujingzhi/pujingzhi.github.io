@@ -1,7 +1,6 @@
 /*-- scss:defaults --*/
 // Base document colors
-// $blue:    #0451A5 !default;
-$blue:       #ffffff !default;
+$blue:    #0451A5 !default;
 $primary:       $blue !default;
 
 
@@ -11,7 +10,8 @@ $primary:       $blue !default;
   }
 
 // === Cream & Crimson for navbar only ===
-$navbar-bg: #990000 !default;        // Crimson background
+// $navbar-bg: #990000 !default;        // Crimson background
+$navbar-bg: #dc143c !default;
 $navbar-fg: #ffffff !default;        // White text/icons
 $navbar-border-color: transparent !default;
 $navbar-light-hover-color: #f8f5e1 !default;  // cream tone
