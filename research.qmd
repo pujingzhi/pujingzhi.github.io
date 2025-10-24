@@ -32,7 +32,7 @@ Our interests lie at the interface between theoretical/computational chemistry a
 
 ---
 
-### ABC Transporters ###
+#### ABC Transporters ####
 
 :::{.about-flex}
 <!-- :::{.about-flex style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;"} -->
@@ -49,7 +49,7 @@ Many essential functions of living cells are performed by nanoscale motors consi
 
 ---
 
-### DNA Damage ###
+#### DNA Damage ####
 
 :::{.about-flex}
 <!-- :::{.about-flex style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;"} -->
@@ -66,7 +66,7 @@ Under nutrient scarcity, certain bacteria form endospores that protect bacterial
 
 ---
 
-### QM/MM Method Development ###
+#### QM/MM Method Development ####
 
 #### QM/MM-IPS ####
 
