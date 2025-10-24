@@ -32,7 +32,7 @@ Our interests lie at the interface between theoretical/computational chemistry a
 
 ---
 
-#### ABC Transporters ####
+#### ABC Transporter ####
 
 :::{.about-flex}
 <!-- :::{.about-flex style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;"} -->
