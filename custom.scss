@@ -12,7 +12,7 @@ $primary:       $blue !default;
 // Cream & Crimson for navbar only
 $navbar-bg: #990000 !default;        // Crimson background
 //$navbar-fg: #ffffff !default;        // Pure white for icons/text
-$navbar-fg: #ffff00, !default;        // Bright yellow for icons/text
+$navbar-fg: #ffff00 !default;        // Bright yellow for icons/text
 $navbar-border-color: transparent !default;
 
 // Optional: hover and active link colors (brighter cream tones)
@@ -26,9 +26,12 @@ $navbar-light-active-color: #ffffff !default;
 .navbar-brand,
 .navbar-title,
 .navbar-toggler-icon {
-  color: #ffffff !important;
+  // color: #ffffff !important;
+  color: #ffff00 !important; 
   font-weight: 700;
   text-shadow: 0 0 2px rgba(0, 0, 0, 0.2); // subtle contrast edge
+  outline: none;               /* remove white focus box */
+  box-shadow: none;            /* remove focus shadow */  
 }
 
 // Make hamburger menu icon clearly visible
@@ -38,10 +41,4 @@ $navbar-light-active-color: #ffffff !default;
 
 .navbar-toggler-icon {
   filter: brightness(0) invert(1); // ensure it appears white
-}
-
-.navbar-title:focus,
-.navbar-toggler:focus {
-    outline: none;          /* remove default focus outline */
-    box-shadow: none;       /* remove any shadow used as a focus indicator */
 }
