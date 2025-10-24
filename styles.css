@@ -93,6 +93,22 @@ text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   .img-narrow { display: none;}
 }
 
+/* Reduce the space between sidebar and main content */
+.page-content {
+  padding-left: 0.5rem !important;   /* reduce left padding near sidebar */
+  padding-right: 0.5rem !important;  /* optional: reduce right padding */
+}
+
+/* If using a docked sidebar, adjust its spacing */
+.sidebar {
+  margin-right: 0 !important;        /* remove extra space between sidebar and banner/content */
+}
+
+/* Optional: tighten banner-to-content spacing */
+.quarto-title-block {
+  margin-bottom: 0.5rem !important;  /* reduce space below banner */
+}
+
 ul {
   margin-left: 0em;   /* default is around 2em */
   padding-left: 1.2em;
