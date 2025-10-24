@@ -77,6 +77,16 @@ text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   gap: 0 !important;                      /* remove any spacing between items */
 }
 
+/* Default: show wide, hide narrow */
+.img-wide { display: block; max-width: 100%; height: auto; width: 770px; margin: auto; }
+.img-narrow { display: none; }
+
+/* On narrow screens, switch images */
+@media (max-width: 768px) {
+  .img-wide { display: none; }
+  .img-narrow { display: block; max-width: 100%; height: auto; width: 100%; margin: auto; }
+}
+
 ul {
   margin-left: 0em;   /* default is around 2em */
   padding-left: 1.2em;
