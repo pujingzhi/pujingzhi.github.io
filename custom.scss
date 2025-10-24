@@ -9,32 +9,36 @@ $primary:       $blue !default;
     background-color: #ffffff;
   }
 
-// Cream & Crimson for navbar only
+// === Cream & Crimson for navbar only ===
 $navbar-bg: #990000 !default;        // Crimson background
-$navbar-fg: #ffffff !default;        // Pure white for icons/text
+$navbar-fg: #ffffff !default;        // White text/icons
 $navbar-border-color: transparent !default;
-
-// Optional: hover and active link colors (brighter cream tones)
-$navbar-light-hover-color: #f8f5e1 !default;  // IU cream tone
+$navbar-light-hover-color: #f8f5e1 !default;  // cream tone
 $navbar-light-active-color: #ffffff !default;
 
-// Boost link weight and remove transparency
-.navbar,
-.navbar a,
-.navbar-nav .nav-link,
-.navbar-brand,
-.navbar-title,
-.navbar-toggler-icon {
-  color: #ffffff !important;
+// === Force Cream & Crimson for mobile navbar ===
+.navbar-light {
+  background-color: #990000 !important;
+}
+
+.navbar-light .navbar-brand,
+.navbar-light .navbar-title,
+.navbar-light .navbar-toggler,
+.navbar-light .navbar-nav .nav-link {
+  color: #f8f5e1 !important;
   font-weight: 600;
-  text-shadow: 0 0 2px rgba(0, 0, 0, 0.2); // subtle contrast edge
+  text-shadow: 0 0 2px rgba(0, 0, 0, 0.25);
 }
 
-// Make hamburger menu icon clearly visible
-.navbar-toggler {
-  border: none;
+.navbar-light .navbar-brand:hover,
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #ffffff !important;
 }
 
-.navbar-toggler-icon {
-  filter: brightness(0) invert(1); // ensure it appears white
+.navbar-light .navbar-toggler-icon {
+  filter: brightness(0) invert(1) !important;
+}
+
+.navbar-light .navbar-toggler {
+  border: none !important;
 }
