@@ -9,36 +9,19 @@ $primary:       $blue !default;
     background-color: #ffffff;
   }
 
-// Cream & Crimson for navbar only
-$navbar-bg: #990000 !default;        // Crimson background
-//$navbar-fg: #ffffff !default;        // Pure white for icons/text
-$navbar-fg: #ffff00 !default;        // Bright yellow for icons/text
-$navbar-border-color: transparent !default;
-
-// Optional: hover and active link colors (brighter cream tones)
-$navbar-light-hover-color: #f8f5e1 !default;  // cream tone
-$navbar-light-active-color: #ffffff !default;
-
-// Boost link weight and remove transparency
-.navbar,
-.navbar a,
-.navbar-nav .nav-link,
-.navbar-brand,
-.navbar-title,
 .navbar-toggler-icon {
-  // color: #ffffff !important;
-  color: #ffff00 !important; 
-  font-weight: 700;
-  text-shadow: 0 0 2px rgba(0, 0, 0, 0.2); // subtle contrast edge
-  outline: none;               /* remove white focus box */
-  box-shadow: none;            /* remove focus shadow */  
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 30 30' 
+    xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255,1)' 
+    stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
 }
 
-// Make hamburger menu icon clearly visible
-.navbar-toggler {
-  border: none;
+/* Page title text next to hamburger icon */
+.navbar-title {
+  color: #f8f5e1 !important;  /* IU cream */
+  font-weight: 700 !important;
 }
 
-.navbar-toggler-icon {
-  filter: brightness(0) invert(1); // ensure it appears white
+/* Optional: hover/active colors for mobile title */
+.navbar-title:hover {
+  color: #ffffff !important;
 }
