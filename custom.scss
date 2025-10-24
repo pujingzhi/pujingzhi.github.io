@@ -9,32 +9,39 @@ $primary:       $blue !default;
     background-color: #ffffff;
   }
 
-// Cream & Crimson for navbar only
-$navbar-bg: #990000 !default;        // Crimson background
-$navbar-fg: #ffffff !default;        // Pure white for icons/text
-$navbar-border-color: transparent !default;
-
-// Optional: hover and active link colors (brighter cream tones)
-$navbar-light-hover-color: #f8f5e1 !default;  // cream tone
-$navbar-light-active-color: #ffffff !default;
-
-// Boost link weight and remove transparency
-.navbar,
-.navbar a,
-.navbar-nav .nav-link,
-.navbar-brand,
-.navbar-title,
-.navbar-toggler-icon {
-  color: #ffffff !important;
-  font-weight: 600;
-  text-shadow: 0 0 2px rgba(0, 0, 0, 0.2); // subtle contrast edge
+/* --- Mobile Top Navbar Styling: Cream & Crimson --- */
+.navbar {
+  background-color: #990000 !important;  /* Crimson background */
 }
 
-// Make hamburger menu icon clearly visible
+/* Hamburger icon */
 .navbar-toggler {
-  border: none;
+  border: none;               /* remove border */
+}
+.navbar-toggler-icon {
+  filter: brightness(0) invert(1);  /* make icon white */
+  width: 30px;                  /* optionally increase size */
+  height: 30px;
 }
 
-.navbar-toggler-icon {
-  filter: brightness(0) invert(1); // ensure it appears white
+/* Page title text next to hamburger */
+.navbar-title {
+  color: #f8f5e1 !important;   /* IU cream */
+  font-weight: 700;            /* bold */
+  text-shadow: 0 0 2px rgba(0,0,0,0.2);  /* subtle contrast */
+  outline: none;               /* remove white focus box */
+  box-shadow: none;            /* remove focus shadow */
+}
+
+/* Remove focus/white box on hamburger when clicked or focused */
+.navbar-toggler:focus,
+.navbar-toggler-icon:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+/* Optional: hover & active link colors (if you have clickable links) */
+.navbar a:hover,
+.navbar a:focus {
+  color: #ffcccb !important;  /* lighter cream on hover/focus */
 }
