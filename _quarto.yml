@@ -29,17 +29,13 @@ website:
     tools:
       - icon: github
         href: https://github.com/pujingzhi
-        title: "GitHub"
       - icon: mortarboard
         href: https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en
-        title: "Google Scholar"
       - icon: link
         href: https://www.researchgate.net/profile/Jingzhi-Pu
-        title: "ResearchGate"
       - icon: id-badge
         href: https://orcid.org/0000-0002-3042-335X
-        title: "ORCID"
-        
+            
   #page-navigation: true
 
   # Without this, the page footer will not display. It is removed in index.qmd
