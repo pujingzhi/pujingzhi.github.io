@@ -22,6 +22,8 @@ website:
         text: News
       - href: publications.qmd
         text: Publications
+      - href: https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en
+        text: Google Scholar
       - href: teaching.qmd
         text: Teaching
       - href: contact.qmd
