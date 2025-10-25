@@ -113,6 +113,11 @@ h2, h3, h4, h5 {
   font-weight: 700 !important;
 }
 
+.sidebar .icon-id-badge::before {
+  content: url('https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg');
+  font-size: 0; /* hide default icon */
+}
+
 ul {
   margin-left: 0em;   /* default is around 2em */
   padding-left: 1.2em;
