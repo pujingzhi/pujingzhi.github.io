@@ -26,29 +26,19 @@ website:
         text: Teaching
       - href: contact.qmd
         text: Contact
-      - text: "---"
-    tools: |
-      <div class="sidebar-icons">
-        <!-- ORCID -->
-        <a href="https://orcid.org/0000-0002-3042-335X" target="_blank" title="ORCID">
-          <img src="https://info.orcid.org/wp-content/uploads/2020/12/orcid_16x16.png" alt="ORCID" style="height:22px; width:22px;">
-        </a>
-
-        <!-- Google Scholar -->
-        <a href="https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en" target="_blank" title="Google Scholar">
-          <img src="https://scholar.google.com/favicon.ico" alt="Google Scholar" style="height:22px; width:22px;">
-        </a>
-
-        <!-- ResearchGate -->
-        <a href="https://www.researchgate.net/profile/Jingzhi-Pu" target="_blank" title="ResearchGate">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" style="height:22px; width:22px;">
-        </a>
-
-        <!-- GitHub -->
-        <a href="https://github.com/pujingzhi" target="_blank" title="GitHub">
-          <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="height:22px; width:22px;">
-        </a>
-      </div>
+    tools:
+      - icon: github
+        href: https://github.com/pujingzhi
+        title: "GitHub"
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en
+        title: "Google Scholar"
+      - icon: link
+        href: https://www.researchgate.net/profile/Jingzhi-Pu
+        title: "ResearchGate"
+      - icon: id-badge
+        href: https://orcid.org/0000-0002-3042-335X
+        title: "ORCID"
         
   #page-navigation: true
 
