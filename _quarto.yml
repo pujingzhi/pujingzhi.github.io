@@ -22,19 +22,21 @@ website:
         text: News
       - href: publications.qmd
         text: Publications
+      - href: https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en
+        text: Google Scholar
       - href: teaching.qmd
         text: Teaching
       - href: contact.qmd
         text: Contact
-    tools:
-      - icon: github
-        href: https://github.com/pujingzhi
-      - icon: mortarboard
-        href: https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en
-      - icon: link
-        href: https://www.researchgate.net/profile/Jingzhi-Pu
-      - icon: person
-        href: https://orcid.org/0000-0002-3042-335X
+    #tools:
+    #  - icon: github
+    #    href: https://github.com/pujingzhi
+    #  - icon: mortarboard
+    #    href: https://scholar.google.com/citations?user=RlYang0AAAAJ&hl=en
+    #  - icon: link
+    #    href: https://www.researchgate.net/profile/Jingzhi-Pu
+    #  - icon: person
+    #    href: https://orcid.org/0000-0002-3042-335X
             
   #page-navigation: true
 
