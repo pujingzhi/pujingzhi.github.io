@@ -167,7 +167,7 @@ navbar: false
 
 </ol>
 
-#### Before IUPUI ####
+#### Before IU ####
 
 <ol>
 
