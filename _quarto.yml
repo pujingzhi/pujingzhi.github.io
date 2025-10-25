@@ -26,8 +26,8 @@ website:
         text: Teaching
       - href: contact.qmd
         text: Contact
-    - text: "---"
-    - text: |
+      - text: "---"
+      - text: |
         <div class="sidebar-icons">
           <!-- ORCID -->
           <a href="https://orcid.org/0000-0002-3042-335X" target="_blank" title="ORCID">
