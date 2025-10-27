@@ -113,20 +113,10 @@ h2, h3, h4, h5 {
   font-weight: 700 !important;
 }
 
-.quarto-sidebar-toggle::before {
-  content: "";
-  display: block;
-  width: 24px;
-  height: 18px;
-  margin: auto;
-  position: relative;
-}
-
-.quarto-sidebar-toggle::before {
-  background: linear-gradient(white 4px, transparent 0) repeat-y; /* white lines */
-  background-size: 100% 6px; /* spacing between lines */
-  width: 30px;
-  height: 20px;
+.quarto-sidebar-toggle {
+  background-image: url("files/hamburger-menu-icon-png-white-10.png");
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 ul {
