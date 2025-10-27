@@ -3,7 +3,6 @@
 $blue:    #0451A5 !default;
 $primary:       $blue !default;
 
-
 .quarto-about-solana .about-image {
     border: 1px solid #727475;
     background-color: #ffffff;
@@ -14,16 +13,6 @@ $navbar-bg: #990000 !default;       // Crimson background
 $navbar-border-color: transparent !default;
 
 /* Mobile top bar icon and page title */
-$navbar-light-color:                rgba(255,255,255, 1) !important;
-$navbar-light-hover-color:          rgba(255,255,255, 1) !important;
-$navbar-light-active-color:         rgba(255,255,255, 1) !important;
-$navbar-light-disabled-color:       rgba(255,255,255, .3) !important;
-$navbar-light-icon-color:           rgba(255,255,255, 1) !important;
-$navbar-light-toggler-icon-bg:      url("data:image/svg+xml,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255,1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E") !important;
-$navbar-light-toggler-border-color: rgba(255,255,255, 1) !important;
-$navbar-light-brand-color:          $navbar-light-active-color !important;
-$navbar-light-brand-hover-color:    $navbar-light-active-color !important;
-
 .navbar-toggler-icon {
   background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255,1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E") !important;
 }
@@ -38,3 +27,13 @@ $navbar-light-brand-hover-color:    $navbar-light-active-color !important;
 .navbar a.navbar-link {
   color: #ffffff !important;      /* ensures any link in top bar is white */
 }
+
+// $navbar-light-color:                rgba(255,255,255, 1) !important;
+// $navbar-light-hover-color:          rgba(255,255,255, 1) !important;
+// $navbar-light-active-color:         rgba(255,255,255, 1) !important;
+// $navbar-light-disabled-color:       rgba(255,255,255, .3) !important;
+// $navbar-light-icon-color:           rgba(255,255,255, 1) !important;
+// $navbar-light-toggler-icon-bg:      url("data:image/svg+xml,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255,1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E") !important;
+// $navbar-light-toggler-border-color: rgba(255,255,255, 1) !important;
+// $navbar-light-brand-color:          $navbar-light-active-color !important;
+// $navbar-light-brand-hover-color:    $navbar-light-active-color !important;
