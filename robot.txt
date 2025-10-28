@@ -1,0 +1,6 @@
+# Allow all search engines to crawl and index the entire site
+User-agent: *
+Allow: /
+
+# Specify your sitemap (helps Google index faster)
+Sitemap: https://pujingzhi.github.io/sitemap.xml
