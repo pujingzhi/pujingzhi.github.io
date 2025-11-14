@@ -30,7 +30,7 @@ navbar: false
 #### 2024 ####
 - Oct: Jingzhi Pu presented at the [SMART Symposium: AI-Driven Computational Biology and Medicine](https://symposia.smart.org.cn/sym/event/02c7c44a1a4e44039e9dab4b4ccb3ad6/658e23ed-d78d-4b35-9f36-) in Shenzhen China. 
 - Aug: Jingzhi Pu co-organized an [ACS COMP Symposium in Honor of the 80th Birthday of Prof. Donald G. Truhlar](https://acs.digitellinc.com/p/s/symposium-in-honor-of-the-80th-birthday-of-prof-donald-g-truhlar-607469) at the Fall 2024 National ACS Meeting in Denver.  
-- Jan: Jingzhi Pu is recognized by IU Indy's student-athletes as one of their "Favorite Professors" 
+- Jan: Jingzhi Pu is recognized by IU Indy's student-athletes as one of their "[Favorite Professors](https://iuindyjags.com/news/2024/1/17/iupui-athletics-recognizes)" 
 
 #### 2023 ####
 - Sept: Taemoor Hasan and Salma Abdelhamid joined the lab as "1st-Year Research Immersion Program" (1RIP) undergraduate scholars. Welcome! 
